@@ -1,0 +1,81 @@
+name: Home Cartoon / Telemóvel Android
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - telemovel/**
+      - .github/workflows/home-cartoon-telemovel.yaml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: home-cartoon-telemovel
+  cancel-in-progress: false
+
+env:
+  # Versão oficial da app Jellyfin para Android usada como base
+  JELLYFIN_ANDROID_REF: v2.7.3
+  RELEASE_TAG: telemovel
+
+jobs:
+  release:
+    name: Build and publish signed phone APK
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Home Cartoon
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - name: Checkout Jellyfin Android
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          repository: jellyfin/jellyfin-android
+          ref: ${{ env.JELLYFIN_ANDROID_REF }}
+          path: upstream
+      - name: Apply Home Cartoon branding
+        run: bash telemovel/aplicar.sh upstream
+      - name: Setup Java
+        uses: actions/setup-java@77dd5b2ce225ea11469928ac317850245a74ae78 # v6.2.0
+        with:
+          distribution: temurin
+          java-version-file: upstream/.tools-versions
+      - name: Setup Gradle
+        uses: gradle/actions/setup-gradle@8da46b539cd8fe6ab27ca75128919a18d757604c # v6.4.1
+      - name: Restore signing key
+        env:
+          KEYSTORE_BASE64: ${{ secrets.KEYSTORE_BASE64 }}
+        run: |
+          test -n "$KEYSTORE_BASE64" || { echo "::error::Secret KEYSTORE_BASE64 em falta"; exit 1; }
+          echo "$KEYSTORE_BASE64" | base64 -d > "$RUNNER_TEMP/homecartoon.p12"
+      - name: Assemble release APK
+        working-directory: upstream
+        env:
+          JELLYFIN_VERSION: ${{ env.JELLYFIN_ANDROID_REF }}-hc.${{ github.run_number }}
+          KEYSTORE_FILE: ${{ runner.temp }}/homecartoon.p12
+          KEYSTORE_PASSWORD: ${{ secrets.KEYSTORE_PASSWORD }}
+          SIGNING_KEY_ALIAS: homecartoon
+          SIGNING_KEY_PASSWORD: ${{ secrets.KEYSTORE_PASSWORD }}
+        run: ./gradlew assembleProprietaryRelease
+      - name: Collect APK
+        run: |
+          apk=$(find upstream/app/build/outputs/apk -path "*proprietary*" -path "*release*" -name "*.apk" | head -n1)
+          test -n "$apk"
+          cp "$apk" home-cartoon-telemovel.apk
+          ls -la home-cartoon-telemovel.apk
+      - name: Publish to the "telemovel" release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          url="https://github.com/$GITHUB_REPOSITORY/releases/download/$RELEASE_TAG/home-cartoon-telemovel.apk"
+          if gh release view "$RELEASE_TAG" --repo "$GITHUB_REPOSITORY" >/dev/null 2>&1; then
+            gh release upload "$RELEASE_TAG" home-cartoon-telemovel.apk --clobber --repo "$GITHUB_REPOSITORY"
+          else
+            gh release create "$RELEASE_TAG" home-cartoon-telemovel.apk \
+              --repo "$GITHUB_REPOSITORY" \
+              --target "$GITHUB_SHA" \
+              --title "Home Cartoon para telemóvel Android" \
+              --notes "Instalar no telemóvel: $url" \
+              --latest=false
+          fi
