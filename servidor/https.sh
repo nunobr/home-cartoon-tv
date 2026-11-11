@@ -68,7 +68,7 @@ $S nginx -t >/dev/null 2>&1 && $S systemctl reload nginx && ok "nginx porta 80" 
 echo "== 5. Firewall =="
 # Regra antiga que abria todo o UDP do servidor a qualquer origem: passa a ser so a rede de casa
 while n=$($S ufw status numbered | grep -F '192.168.1.86/udp' | grep -F 'Anywhere' | head -n1 | sed -E 's/^\[ *([0-9]+)\].*/\1/'); [ -n "$n" ]; do
-  $S ufw --force delete "$n" >/dev/null && ok "removida regra UDP aberta a todos (#$n)"
+  $S ufw --force delete "$n" >/dev/null && ok "removida regra UDP aberta a todos (#$n)" || { ko "nao consegui remover a regra #$n"; break; }
 done
 $S ufw allow from 192.168.1.0/24 proto udp >/dev/null && ok "UDP so para a rede de casa"
 $S ufw allow 80/tcp >/dev/null && $S ufw allow 443/tcp >/dev/null && ok "abertas 80 e 443"
