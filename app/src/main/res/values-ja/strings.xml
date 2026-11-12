@@ -212,7 +212,7 @@
     <string name="pref_subtitles_background_summary">字幕の背景を黒く表示する</string>
     <string name="pref_subtitles_background_title">背景を有効に</string>
     <string name="searchable_settings_description">メディア</string>
-    <string name="searchable_hint">Jellyfin を検索</string>
+    <string name="searchable_hint">Home Cartoon を検索</string>
     <string name="home_section_i">ホーム画面 %1$d</string>
     <string name="home_section_none">なし</string>
     <string name="home_section_livetv">放送中テレビ</string>
@@ -228,7 +228,7 @@
     <string name="license_website">Web サイト</string>
     <string name="license_version">バージョン</string>
     <string name="license_description">説明</string>
-    <string name="licenses_link_description">Jellyfin アプリが使用しているライブラリーのライセンスを表示</string>
+    <string name="licenses_link_description">Home Cartoon アプリが使用しているライブラリーのライセンスを表示</string>
     <string name="licenses_link">ライセンス</string>
     <string name="select_version">バージョン</string>
     <string name="advanced_settings">詳細設定</string>
@@ -246,10 +246,10 @@
     <string name="add_user">アカウント追加</string>
     <string name="no_user_warning">アカウントが見つかりませんでした！\n「アカウント追加」ボタンを押して、新しいアカウントを追加してください。</string>
     <string name="welcome_content">サーバーに接続してはじめます。</string>
-    <string name="welcome_title">Jellyfin へようこそ!</string>
+    <string name="welcome_title">Home Cartoon へようこそ!</string>
     <string name="saved_servers">保存済みサーバー</string>
     <string name="press_to_close">押して閉じる</string>
-    <string name="no_network_permissions">Jellyfin は機能するためにネットワーク権限を要求します</string>
+    <string name="no_network_permissions">Home Cartoon は機能するためにネットワーク権限を要求します</string>
     <string name="lbl_switch_user">アカウント切り替え</string>
     <string name="user_picker_last_user_summary">最後のアクティブアカウントを使用</string>
     <string name="user_picker_last_user_title">最近使用</string>
@@ -259,7 +259,7 @@
     <string name="lbl_use_series_thumbnails_description">エピソードを表示する際、シリーズのサムネールを使用する</string>
     <string name="lbl_use_series_thumbnails">シリーズのサムネールを優先する</string>
     <string name="lbl_hide_unwatched_count">アイテムが視聴済み</string>
-    <string name="login_help_description">Jellyfinは、接続先のサーバーを必要とします。docs.jellyfin.org のドキュメントをご覧になるか、QR コードをスキャンして、Jellyfin を始めてみてください。</string>
+    <string name="login_help_description">Jellyfinは、接続先のサーバーを必要とします。docs.jellyfin.org のドキュメントをご覧になるか、QR コードをスキャンして、Home Cartoon を始めてみてください。</string>
     <string name="login_help_title">お困りですか？</string>
     <string name="connect_manually_by_address">サーバーアドレスを入力してください</string>
     <string name="discovered_servers_empty">ローカルネットワーク上にサーバーが見つかりません。</string>
@@ -374,8 +374,8 @@
     <string name="pref_playback_advanced">詳細な再生設定</string>
     <string name="server_issue_outdated_version">サーバーはサポートしていないバージョン（%1$s）を使用しています。バージョン %2$s 以降に更新してください</string>
     <string name="login_connect_to">%1$s に接続中</string>
-    <string name="login_quickconnect_step_1">1. 携帯電話で Jellyfin アプリを開くか、 Web ブラウザで Jellyfin を開き、ご自身のアカウントでサインイン</string>
-    <string name="server_unsupported_notification">このサーバーはサポートされていない Jellyfin バージョン（%1$s）を使用しています。アプリの利用をつづけるには、Jellyfin %2$s 以降に更新してください。</string>
+    <string name="login_quickconnect_step_1">1. 携帯電話で Home Cartoon アプリを開くか、 Web ブラウザで Home Cartoon を開き、ご自身のアカウントでサインイン</string>
+    <string name="server_unsupported_notification">このサーバーはサポートされていない Home Cartoon バージョン（%1$s）を使用しています。アプリの利用をつづけるには、Home Cartoon %2$s 以降に更新してください。</string>
     <string name="pref_crash_reports_enabled">クラッシュレポートは最後に使用したサーバーに送信します</string>
     <string name="item_delete_confirm_message">このアイテムをサーバーから削除します。この操作は元に戻せません。よろしいですか？</string>
     <string name="pref_screensaver_inapp_enabled">アプリ内スクリーンセーバーを使用</string>
@@ -412,7 +412,7 @@
     <string name="login_other_options">その他設定 :</string>
     <string name="login_quickconnect_step_3">3. 次のコードを入力 :</string>
     <string name="app_notification_uimode_invalid">このアプリはテレビ向けに最適化しています。他のデバイスではモバイルアプリを使用することをお勧めします。</string>
-    <string name="server_setup_incomplete">このサーバーのセットアップは完了していません。サインインする前に、Web ブラウザーで Jellyfin を開いてセットアップを完了してください。</string>
+    <string name="server_setup_incomplete">このサーバーのセットアップは完了していません。サインインする前に、Web ブラウザーで Home Cartoon を開いてセットアップを完了してください。</string>
     <string name="dts_hd">DTS-HD</string>
     <string name="eac3">DD+</string>
     <string name="lbl_shuffle_queue">シャッフルの切り替え</string>
@@ -438,8 +438,8 @@
     <string name="pref_crash_reports_disabled">クラッシュレポートを提出しません</string>
     <string name="pref_crash_report_logs">ログを含める</string>
     <string name="pref_crash_report_logs_enabled">ログをクラッシュレポートに含める</string>
-    <string name="crash_report_toast">おっと！　問題発生。クラッシュレポートを Jellyfin サーバーに送信しました。</string>
-    <string name="pref_screensaver_inapp_enabled_description">アプリが開いているときに Jellyfin スクリーンセーバーを表示</string>
+    <string name="crash_report_toast">おっと！　問題発生。クラッシュレポートを Home Cartoon サーバーに送信しました。</string>
+    <string name="pref_screensaver_inapp_enabled_description">アプリが開いているときに Home Cartoon スクリーンセーバーを表示</string>
     <string name="episode_name_special">スペシャル</string>
     <string name="continue_listening">再生を再開する</string>
     <plurals name="movies">
@@ -462,7 +462,7 @@
     <string name="prefer_exoplayer_ffmpeg">優先音声再生用 FFmpeg</string>
     <string name="prefer_exoplayer_ffmpeg_content">プラットフォームコーデックが利用できる場合も 音声デコードに FFmpeg を使用します。</string>
     <string name="pref_troubleshooting">トラブルシューティング</string>
-    <string name="pref_report_device_profile_failure">文書提出に失敗。Jellyfin サーバーがクライアントログを禁じていると思われます。</string>
+    <string name="pref_report_device_profile_failure">文書提出に失敗。Home Cartoon サーバーがクライアントログを禁じていると思われます。</string>
     <plurals name="tracks">
         <item quantity="other">%1$s トラック</item>
     </plurals>
@@ -493,7 +493,7 @@
     <string name="lbl_additional_parts">追加部分</string>
     <string name="lbl_runs">再生</string>
     <string name="server_connection_failed_candidates">サーバーに接続できません。以下のアドレスで接続を試みてください : %1$s</string>
-    <string name="pref_about_title">Jellyfin について</string>
+    <string name="pref_about_title">Home Cartoon について</string>
     <string name="lbl_from_beginning">最初から再生</string>
     <plurals name="episodes">
         <item quantity="other">%1$s エピソード</item>
@@ -558,7 +558,7 @@
     <string name="preference_enable_trickplay">動画プレーヤーでトリックプレーを有効に</string>
     <string name="pref_subtitles_background_opacity">字幕背景透明度</string>
     <string name="pref_report_device_profile_title">サーバーに再生性能を報告</string>
-    <string name="pref_report_device_profile_summary">トラブルシューティング文書に、再生性能についての情報を添えて、Jellyfin サーバーにアップロード</string>
+    <string name="pref_report_device_profile_summary">トラブルシューティング文書に、再生性能についての情報を添えて、Home Cartoon サーバーにアップロード</string>
     <string name="pref_report_device_profile_success">ドキュメントを %1$s として提出</string>
     <string name="fast_forward">早送り</string>
     <string name="speech_error_unavailable">デバイスで音声認識が使用できません。</string>
@@ -603,7 +603,7 @@
     <string name="playback_video_player">動画プレーヤー</string>
     <string name="video_player_internal">内蔵ビデオプレーヤー</string>
     <string name="video_player_external">外部アプリ</string>
-    <string name="playback_video_player_external_empty">デバイスに、Jellyfin の動画再生が可能な動画プレーヤーアプリがインストールされていません。</string>
+    <string name="playback_video_player_external_empty">デバイスに、Home Cartoon の動画再生が可能な動画プレーヤーアプリがインストールされていません。</string>
     <string name="playback_buffer_auto">自動</string>
     <string name="playback_buffer_length">再生バッファサイズ</string>
     <string name="playback_buffer_large">大</string>
@@ -682,7 +682,7 @@
     <string name="photo_display_duration_description">次のフォトを表示するまでどれぐらい待機するか</string>
     <string name="truehd">TrueHD</string>
     <string name="tv_provider_enabled">Android TV ホームと統合</string>
-    <string name="tv_provider_enabled_description">Android TV ホーム画面に、Jellyfin のチャンネルとおすすめを表示する</string>
+    <string name="tv_provider_enabled_description">Android TV ホーム画面に、Home Cartoon のチャンネルとおすすめを表示する</string>
     <string name="eac3_atmos">Dolby Digital + Atmos</string>
     <string name="truehd_atmos">TrueHD Atmos</string>
     <string name="lbl_3d">3D</string>

@@ -283,7 +283,7 @@
     <string name="pref_theme_muted_purple">Soluk mor</string>
     <string name="lbl_user_server">%2$s\'da %1$s</string>
     <string name="searchable_settings_description">Medya</string>
-    <string name="searchable_hint">Jellyfin\'de ara</string>
+    <string name="searchable_hint">Home Cartoon\'de ara</string>
     <string name="home_section_i">Ana Ekran bölümü %1$d</string>
     <string name="home_section_none">Hiçbiri</string>
     <string name="home_section_livetv">Canlı TV</string>
@@ -302,7 +302,7 @@
     <string name="license_website">Web sitesi</string>
     <string name="license_version">Sürüm</string>
     <string name="license_description">Açıklama</string>
-    <string name="licenses_link_description">Jellyfin uygulamasının kullandığı kütüphanelerin lisans bilgilerini görüntüle</string>
+    <string name="licenses_link_description">Home Cartoon uygulamasının kullandığı kütüphanelerin lisans bilgilerini görüntüle</string>
     <string name="licenses_link">Lisanslar</string>
     <string name="select_version">Sürüm</string>
     <string name="advanced_settings">Gelişmiş</string>
@@ -324,10 +324,10 @@
     <string name="no_user_warning">Hiçbir hesap bulamadık!
 \n\"Hesap ekle\" düğmesine basarak yeni bir hesap ekleyin.</string>
     <string name="welcome_content">Başlamak için sunucunuza bağlanın.</string>
-    <string name="welcome_title">Jellyfin\'e hoşgeldiniz!</string>
+    <string name="welcome_title">Home Cartoon\'e hoşgeldiniz!</string>
     <string name="saved_servers">Kaydedilen sunucular</string>
     <string name="press_to_close">Kapatmak için bas</string>
-    <string name="no_network_permissions">Jellyfin çalışabilmek için ağ yetkilerine ihtiyaç duyar</string>
+    <string name="no_network_permissions">Home Cartoon çalışabilmek için ağ yetkilerine ihtiyaç duyar</string>
     <string name="lbl_switch_user">Hesap değiştir</string>
     <string name="user_picker_last_user_summary">Son etkin hesabı kullanın</string>
     <string name="user_picker_last_user_title">En son kullanılan</string>
@@ -338,7 +338,7 @@
     <string name="lbl_use_series_thumbnails">Dizi küçük resimlerini tercih et</string>
     <string name="lbl_hide_unwatched_count">Öge izlendiğinde</string>
     <string name="pref_watched_indicator">İzlendi göstergelerini göster</string>
-    <string name="login_help_description">Jellyfin bağlantı kurmak için bir sunucuya ihtiyaç duyar. Jellyfin kullanmaya başlamak için QR kodu tarayın veya docs.jellyfin.org adresindeki dokümanlarımızı okuyun.</string>
+    <string name="login_help_description">Home Cartoon bağlantı kurmak için bir sunucuya ihtiyaç duyar. Home Cartoon kullanmaya başlamak için QR kodu tarayın veya docs.jellyfin.org adresindeki dokümanlarımızı okuyun.</string>
     <string name="login_help_title">Yardım lazım mı\?</string>
     <string name="connect_manually_by_address">Sunucu adresini girin</string>
     <string name="discovered_servers_empty">Yerel ağda sunucu bulunamadı.</string>
@@ -457,18 +457,18 @@
     <string name="action_login">Oturum aç</string>
     <string name="input_username">Kullanıcı adı</string>
     <string name="login_other_options">Diğer seçenekler:</string>
-    <string name="login_quickconnect_step_1">1. Telefonunuzda veya web tarayıcınızda Jellyfin uygulamasını açın ve hesabınızla oturum açın</string>
+    <string name="login_quickconnect_step_1">1. Telefonunuzda veya web tarayıcınızda Home Cartoon uygulamasını açın ve hesabınızla oturum açın</string>
     <string name="login_quickconnect_step_2">2. Kullanıcı menüsünü açın ve Hızlı Bağlan sayfasına gidin</string>
     <string name="action_connect">Bağlan</string>
     <string name="login_quickconnect_step_3">3. Aşağıdaki kodu girin:</string>
-    <string name="server_unsupported_notification">Bu sunucu desteklenmeyen Jellyfin %1$s sürümünü kullanıyor. Uygulamayı kullanmaya devam etmek için lütfen Jellyfin %2$s veya daha yeni bir sürüme güncelleyin.</string>
+    <string name="server_unsupported_notification">Bu sunucu desteklenmeyen Home Cartoon %1$s sürümünü kullanıyor. Uygulamayı kullanmaya devam etmek için lütfen Home Cartoon %2$s veya daha yeni bir sürüme güncelleyin.</string>
     <string name="pref_telemetry_category">Çökme raporlama</string>
-    <string name="crash_report_toast">Hay aksi! Bir şeyler ters gitti, Jellyfin sunucunuza bir çökme raporu gönderildi.</string>
-    <string name="server_setup_incomplete">Bu sunucunun kurulumu tamamlanmadı. Oturum açmadan önce kurulumu tamamlamak için Jellyfin\'i bir web tarayıcısında açın.</string>
+    <string name="crash_report_toast">Hay aksi! Bir şeyler ters gitti, Home Cartoon sunucunuza bir çökme raporu gönderildi.</string>
+    <string name="server_setup_incomplete">Bu sunucunun kurulumu tamamlanmadı. Oturum açmadan önce kurulumu tamamlamak için Home Cartoon\'i bir web tarayıcısında açın.</string>
     <string name="item_deletion_failed">%1$s silinemiyor</string>
     <string name="item_delete_confirm_title">Ögeyi sil</string>
     <string name="item_delete_confirm_message">Bu ögeyi sunucudan silmek istediğinizden emin misiniz\? Bu eylem geri alınamaz.</string>
-    <string name="pref_screensaver_inapp_enabled_description">Uygulama açıkken Jellyfin ekran koruyucusunu gösterir</string>
+    <string name="pref_screensaver_inapp_enabled_description">Uygulama açıkken Home Cartoon ekran koruyucusunu gösterir</string>
     <string name="pref_screensaver_inapp_timeout">Ekran koruyucuyu başlat</string>
     <plurals name="seconds">
         <item quantity="one">%1$s saniye</item>
@@ -566,8 +566,8 @@
     <string name="pref_report_device_profile_success">Belge %1$s olarak gönderildi</string>
     <string name="runtime_hours_minutes">%1$ds %2$dd</string>
     <string name="runtime_minutes">%1$dd</string>
-    <string name="pref_report_device_profile_summary">Oynatma kapasiteleri hakkında bilgileri içeren bir sorun giderme belgesini Jellyfin sunucusuna yükle</string>
-    <string name="pref_report_device_profile_failure">Belge gönderilemedi. Jellyfin sunucunuz istemci günlüklerine izin vermiyor olabilir.</string>
+    <string name="pref_report_device_profile_summary">Oynatma kapasiteleri hakkında bilgileri içeren bir sorun giderme belgesini Home Cartoon sunucusuna yükle</string>
+    <string name="pref_report_device_profile_failure">Belge gönderilemedi. Home Cartoon sunucunuz istemci günlüklerine izin vermiyor olabilir.</string>
     <string name="fast_forward">İleriye sar</string>
     <string name="rewind">Geri sar</string>
     <string name="indicator_subtitles_hearing_impaired">İşitme engelliler için altyazı</string>
@@ -597,7 +597,7 @@
     <string name="playback_video_player">Video oynatıcı</string>
     <string name="video_player_internal">Yerleşik video oynatıcı</string>
     <string name="video_player_external">Harici uygulama</string>
-    <string name="playback_video_player_external_empty">Cihazınızda Jellyfin videolarını açabilen herhangi bir video oynatıcı uygulaması yüklü değil.</string>
+    <string name="playback_video_player_external_empty">Cihazınızda Home Cartoon videolarını açabilen herhangi bir video oynatıcı uygulaması yüklü değil.</string>
     <string name="pref_playback_inactivity_prompt">Hareketsizlik bildirimi</string>
     <string name="pref_prerolls_enabled">Sinema modunu aç</string>
     <string name="pref_prerolls_enabled_description">Filmlerden önce tanıtım videoları oynat</string>
@@ -689,7 +689,7 @@
     <string name="dovi_profile_7">Dolby Vision Profile 7</string>
     <string name="lbl_3d">3D</string>
     <string name="home_next_up_max_days_disabled">Devre dışı</string>
-    <string name="tv_provider_enabled_description">Jellyfin kanallarını ve önerilerini Android TV ana ekranında göster</string>
+    <string name="tv_provider_enabled_description">Home Cartoon kanallarını ve önerilerini Android TV ana ekranında göster</string>
     <plurals name="days">
         <item quantity="one">%1$s gün</item>
         <item quantity="other">%1$s gün</item>

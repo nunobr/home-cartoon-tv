@@ -277,7 +277,7 @@
     <string name="lbl_use_series_thumbnails">Foretrekker serieminiatyrbilder</string>
     <string name="lbl_hide_unwatched_count">Når elementet er sett</string>
     <string name="pref_watched_indicator">Vis overvåkede indikatorer</string>
-    <string name="login_help_description">Jellyfin krever en tjener å koble seg til. Gå til dokumentasjonen vår på docs.jellyfin.org eller skann QR-koden for å komme i gang med Jellyfin.</string>
+    <string name="login_help_description">Home Cartoon krever en tjener å koble seg til. Gå til dokumentasjonen vår på docs.jellyfin.org eller skann QR-koden for å komme i gang med Home Cartoon.</string>
     <string name="login_help_title">Trenger du hjelp\?</string>
     <string name="connect_manually_by_address">Skriv inn serveradresse</string>
     <string name="discovered_servers_empty">Ingen servere funnet i det lokale nettverket.</string>
@@ -302,7 +302,7 @@
     <string name="lbl_remove_user_content">Fjern konto</string>
     <string name="lbl_remove_users">Dette vil også fjerne alle tilknyttede kontoer</string>
     <string name="lbl_manage_servers">Administrere servere</string>
-    <string name="no_network_permissions">Jellyfin krever nettverkstillatelser for å fungere</string>
+    <string name="no_network_permissions">Home Cartoon krever nettverkstillatelser for å fungere</string>
     <string name="pref_theme_muted_purple">Nedtonet lilla</string>
     <string name="lbl_switch_user">Bytt bruker</string>
     <string name="user_picker_last_user_summary">Bruk den siste aktive brukeren</string>
@@ -323,7 +323,7 @@
 \nLegg til ny bruker ved å trykke på \"Legg til bruker\" knappen.</string>
     <string name="add_user">Legg til bruker</string>
     <string name="welcome_content">Koble til serveren din for å starte.</string>
-    <string name="welcome_title">Velkommen til Jellyfin!</string>
+    <string name="welcome_title">Velkommen til Home Cartoon!</string>
     <string name="saved_servers">Lagrede servere</string>
     <string name="press_to_close">Trykk for å lukke</string>
     <string name="pref_next_up_behavior_title">Vis info om neste video</string>
@@ -401,12 +401,12 @@
     <string name="login_quickconnect_step_2">2. Åpne brukermenyen og gå til Quick Connect-siden</string>
     <string name="action_connect">Koble til</string>
     <string name="app_notification_uimode_invalid">Denne appen er optimalisert for TV-er. Vi anbefaler å bruke mobilappen vår på andre enheter.</string>
-    <string name="server_unsupported_notification">Denne serveren bruker Jellyfin versjon %1$s, som ikke støttes. Oppdater til Jellyfin %2$s eller nyere for å fortsette å bruke appen.</string>
+    <string name="server_unsupported_notification">Denne serveren bruker Home Cartoon versjon %1$s, som ikke støttes. Oppdater til Home Cartoon %2$s eller nyere for å fortsette å bruke appen.</string>
     <string name="app_notification_beta">App oppdatert til %1$s
-\nTakk for at du deltar i Jellyfin beta-programmet.</string>
+\nTakk for at du deltar i Home Cartoon beta-programmet.</string>
     <string name="pref_screensaver_inapp_enabled">Bruk skjermsparer i appen</string>
     <string name="enable_reactive_homepage">Aktiver reaktiv hjemmeside</string>
-    <string name="pref_screensaver_inapp_enabled_description">Vis Jellyfin-skjermspareren mens appen er åpen</string>
+    <string name="pref_screensaver_inapp_enabled_description">Vis Home Cartoon-skjermspareren mens appen er åpen</string>
     <string name="lbl_additional_parts">Flere deler</string>
     <string name="home_section_library_small">Mediene mine (liten)</string>
     <string name="server_issue_timeout">Tilkoblingen ble tidsavbrutt</string>
@@ -416,7 +416,7 @@
         <item quantity="other">%1$s sekunder</item>
     </plurals>
     <string name="last_use">Sist brukt</string>
-    <string name="licenses_link_description">Se lisensene til bibliotekene som brukes av Jellyfin-appen</string>
+    <string name="licenses_link_description">Se lisensene til bibliotekene som brukes av Home Cartoon-appen</string>
     <string name="license_description">Beskrivelse</string>
     <string name="home_sections">Hjemseksjoner</string>
     <string name="pref_behavior">Oppførsel</string>
@@ -443,10 +443,10 @@
     <string name="pref_video">Video</string>
     <string name="input_password">Passord</string>
     <string name="input_username">Brukernavn</string>
-    <string name="login_quickconnect_step_1">1. Åpne Jellyfin-appen på telefonen eller nettleseren, og logg på med kontoen din</string>
+    <string name="login_quickconnect_step_1">1. Åpne Home Cartoon-appen på telefonen eller nettleseren, og logg på med kontoen din</string>
     <string name="login_quickconnect_step_3">3. Skriv inn følgende kode:</string>
     <string name="pref_telemetry_description">Send feilrapporter, inkluder logger</string>
-    <string name="server_setup_incomplete">Konfigurasjonen av denne serveren er ikke fullført. Åpne Jellyfin i en nettleser for å fullføre konfigurasjonen før du logger på.</string>
+    <string name="server_setup_incomplete">Konfigurasjonen av denne serveren er ikke fullført. Åpne Home Cartoon i en nettleser for å fullføre konfigurasjonen før du logger på.</string>
     <string name="home_section_next_up">Neste</string>
     <string name="license_website">Nettside</string>
     <string name="lbl_starting_early_ending_after">Starter %1$s tidligere og slutter %2$s etter planen</string>
@@ -460,7 +460,7 @@
     <string name="pref_playback_description">Video, undertekster, Direkte-TV, neste</string>
     <string name="home_section_resume_book">Fortsett å lese</string>
     <string name="pref_screensaver_inapp_timeout">Start skjermsparer etter</string>
-    <string name="searchable_hint">Søk i Jellyfin</string>
+    <string name="searchable_hint">Søk i Home Cartoon</string>
     <string name="searchable_settings_description">Medier</string>
     <string name="license_license">Lisens</string>
     <string name="item_delete_confirm_title">Slett element</string>
@@ -478,7 +478,7 @@
     <string name="pref_crash_report_logs_enabled">Logger vil bli inkludert i krasj rapporter</string>
     <string name="server_issue_ssl_handshake">SSL-håndtrykk mislyktes</string>
     <string name="pref_crash_reports">Send krasj raport til server</string>
-    <string name="crash_report_toast">Oops! Noe gikk galt, en krasj rapport er sendt til din Jellyfin server.</string>
+    <string name="crash_report_toast">Oops! Noe gikk galt, en krasj rapport er sendt til din Home Cartoon server.</string>
     <string name="license_artifact">Gjenstand</string>
     <string name="pref_crash_reports_disabled">Krasj rapporter vil ikke bli sendt</string>
     <string name="pref_refresh_rate_scale_on_device">Scala på enhet</string>
@@ -563,11 +563,11 @@
     <string name="runtime_hours_minutes">%1$dt %2$dm</string>
     <string name="runtime_minutes">%1$dm</string>
     <string name="pref_report_device_profile_title">Rapporter avspillings kompatibilitet til tjener</string>
-    <string name="pref_report_device_profile_failure">Feilet med å levere dokument. Din Jellyfin tjener kan forby klient logger.</string>
+    <string name="pref_report_device_profile_failure">Feilet med å levere dokument. Din Home Cartoon tjener kan forby klient logger.</string>
     <string name="pref_subtitles_background_opacity">Undertekst bakgrunnsopasitet</string>
     <string name="pref_troubleshooting">Feilsøking</string>
     <string name="pref_report_device_profile_success">Dokument levert som %1$s</string>
-    <string name="pref_report_device_profile_summary">Last opp et feilsøkings dokument til Jellyfin tjeneren om avspillings kompatiblitet</string>
+    <string name="pref_report_device_profile_summary">Last opp et feilsøkings dokument til Home Cartoon tjeneren om avspillings kompatiblitet</string>
     <string name="rewind">Spol tilbake</string>
     <string name="fast_forward">Spol fremmover</string>
     <string name="indicator_subtitles_hearing_impaired">SDH</string>
@@ -614,7 +614,7 @@
     <string name="playback_video_player">Videospiller</string>
     <string name="video_player_internal">Innebygd videospiller</string>
     <string name="video_player_external">Ekstern app</string>
-    <string name="playback_video_player_external_empty">Du har ingen videospillere installert på enheten din som kan åpne videoer fra Jellyfin.</string>
+    <string name="playback_video_player_external_empty">Du har ingen videospillere installert på enheten din som kan åpne videoer fra Home Cartoon.</string>
     <string name="filters">Filtere</string>
     <string name="backdrop_behavior_with_blur">Bakgrunn med uskarphet</string>
     <string name="backdrop_behavior_without_blur">Bakgrunn uten uskarphet</string>

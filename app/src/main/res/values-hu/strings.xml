@@ -273,7 +273,7 @@
     <string name="server_field_empty">Az elérhetőség nem lehet üres</string>
     <string name="server_connection_failed">Nem sikerült csatlakozni a szerverhez</string>
     <string name="server_connecting">Csatlakozás a következőhöz: %1$s</string>
-    <string name="login_help_description">A Jellyfin szerverre van szüksége a kapcsolat létrehozásához. Látogassa meg dokumentációnkat a docs.jellyfin.org címen, vagy olvassa be a QR-kódot a Jellyfin használatának megkezdéséhez.</string>
+    <string name="login_help_description">A Home Cartoon szerverre van szüksége a kapcsolat létrehozásához. Látogassa meg dokumentációnkat a docs.jellyfin.org címen, vagy olvassa be a QR-kódot a Home Cartoon használatának megkezdéséhez.</string>
     <string name="login_help_title">Kell segítség\?</string>
     <string name="connect_manually_by_address">Szerver címének megadása</string>
     <string name="discovered_servers_empty">Nem található szerverek a helyi hálózaton.</string>
@@ -308,7 +308,7 @@
     <string name="user_picker_disable_title">Letiltás</string>
     <string name="auto_sign_in">Automatikus bejelentkezés</string>
     <string name="lbl_switch_user">Felhasználóváltás</string>
-    <string name="no_network_permissions">A Jellyfin működéséhez hálózati engedélyekre van szükség</string>
+    <string name="no_network_permissions">A Home Cartoon működéséhez hálózati engedélyekre van szükség</string>
     <string name="pref_theme_muted_purple">Tompa lila</string>
     <string name="press_to_close">Nyomja meg a bezáráshoz</string>
     <string name="add_user">Felhasználó hozzáadása</string>
@@ -354,7 +354,7 @@
     <string name="license_artifact">Műalkotás</string>
     <string name="license_version">Verzió</string>
     <string name="license_description">Leírás</string>
-    <string name="licenses_link_description">Tekintse meg a Jellyfin alkalmazás által használt könyvtárak licenszeit</string>
+    <string name="licenses_link_description">Tekintse meg a Home Cartoon alkalmazás által használt könyvtárak licenszeit</string>
     <string name="licenses_link">Licenszek</string>
     <string name="home_section_i">Kezdőlap rész %1$d</string>
     <string name="home_section_none">Egyik sem</string>
@@ -369,7 +369,7 @@
     <string name="home_sections">Kezdőoldal szekciók</string>
     <string name="home_prefs">Kezdőlap</string>
     <string name="searchable_settings_description">Média</string>
-    <string name="searchable_hint">Jellyfin keresés</string>
+    <string name="searchable_hint">Home Cartoon keresés</string>
     <string name="pref_subtitles_size">Felirat mérete</string>
     <string name="pref_subtitles_background_summary">Mutasson fekete hátteret a feliratok mögött</string>
     <string name="pref_subtitles_background_title">Háttér engedélyezése</string>
@@ -405,7 +405,7 @@
     <string name="lbl_shuffle_queue">Véletlenszerű lejátszás</string>
     <string name="login_quickconnect_step_3">3. Írjd be a következő kódot:</string>
     <string name="login_quickconnect_step_2">2. Nyisd meg a felhasználói menüt, és lépj a Quick Connect oldalra</string>
-    <string name="login_quickconnect_step_1">1. Nyisd meg a Jellyfin alkalmazást telefonodon, vagy webböngészőben, és jelentkezz be a fiókoddal</string>
+    <string name="login_quickconnect_step_1">1. Nyisd meg a Home Cartoon alkalmazást telefonodon, vagy webböngészőben, és jelentkezz be a fiókoddal</string>
     <string name="login_other_options">További lehetőségek:</string>
     <string name="login_connect_to">Kapcsolódás a %1$s-hoz</string>
     <string name="input_password">Jelszó</string>
@@ -420,12 +420,12 @@
     <string name="lbl_subtitle_delay">Felirat késleltetése</string>
     <string name="live_tv_preferences">Élő TV lehetőségek</string>
     <string name="lbl_additional_parts">További részletek</string>
-    <string name="server_unsupported_notification">Ez a szerver a Jellyfin %1$s verzióját használja, amely nem támogatott. Az alkalmazás használatának folytatásához frissíts a Jellyfin %2$s verziójára vagy újabbra.</string>
+    <string name="server_unsupported_notification">Ez a szerver a Home Cartoon %1$s verzióját használja, amely nem támogatott. Az alkalmazás használatának folytatásához frissíts a Home Cartoon %2$s verziójára vagy újabbra.</string>
     <string name="app_notification_uimode_invalid">Ez az alkalmazás televízióra van optimalizálva. Javasoljuk, hogy más eszközön mobilalkalmazásunkat használd.</string>
     <string name="image_size_xlarge">Extra-nagy</string>
     <string name="image_size_smallest">Legkisebb</string>
     <string name="image_type_poster">Poszter</string>
-    <string name="crash_report_toast">Hoppá! Hiba történt, hibajelentés elküldve a Jellyfin szerverre.</string>
+    <string name="crash_report_toast">Hoppá! Hiba történt, hibajelentés elküldve a Home Cartoon szerverre.</string>
     <string name="pref_crash_report_logs_disabled">A naplók nem fognak szerepelni a hibajelentésekben</string>
     <string name="pref_crash_report_logs_enabled">A naplók szerepelni fognak a hibajelentésekben</string>
     <string name="pref_crash_report_logs">Tartalmazza a naplókat</string>
@@ -449,7 +449,7 @@
     <string name="color_pink">Rózsaszín</string>
     <string name="color_cyan">Cián</string>
     <string name="app_notification_beta">Az alkalmazás frissítve a következőre: %1$s
-\nKöszönjük, hogy részt vettél a Jellyfin béta programban.</string>
+\nKöszönjük, hogy részt vettél a Home Cartoon béta programban.</string>
     <string name="item_deleted">%1$s törölve</string>
     <string name="item_delete_confirm_title">Elem törlése</string>
     <string name="item_deletion_failed">Nem sikerült törölni %1$s-t</string>
@@ -472,7 +472,7 @@
         <item quantity="other">%1$s másodpercek</item>
     </plurals>
     <string name="lbl_latest_in">Nemrég hozzáadott %1$s</string>
-    <string name="pref_screensaver_inapp_enabled_description">Jellyfin képernyővédő használata, amíg az alkalmazás nyitva van</string>
+    <string name="pref_screensaver_inapp_enabled_description">Home Cartoon képernyővédő használata, amíg az alkalmazás nyitva van</string>
     <string name="lbl_album_artists">Album szerzői</string>
     <plurals name="episodes">
         <item quantity="one">%1$s epizód</item>
@@ -565,9 +565,9 @@
     <string name="pref_troubleshooting">Hibakeresés</string>
     <string name="pref_report_device_profile_success">Dokumentum benyújtva mint %1$s</string>
     <string name="pref_subtitles_background_opacity">Felirat háttér átlátszósága</string>
-    <string name="pref_report_device_profile_failure">A dokumentum benyújtása sikertelen. Lehetséges, hogy a Jellyfin szerver tiltja a kliensnaplókat.</string>
+    <string name="pref_report_device_profile_failure">A dokumentum benyújtása sikertelen. Lehetséges, hogy a Home Cartoon szerver tiltja a kliensnaplókat.</string>
     <string name="pref_report_device_profile_title">Lejátszási képességek jelentése a szervernek</string>
-    <string name="pref_report_device_profile_summary">Hibakeresési dokumentum feltöltése a Jellyfin szerverre a lejátszási képességekről</string>
+    <string name="pref_report_device_profile_summary">Hibakeresési dokumentum feltöltése a Home Cartoon szerverre a lejátszási képességekről</string>
     <string name="preference_enable_pgs">PGS feliratok közvetlen lejátszása</string>
     <string name="pref_subtitles_bold">Félkövér szöveg</string>
     <string name="speech_error_unavailable">A készülékén nem érhető el a beszédfelismerés.</string>
@@ -632,7 +632,7 @@
     <string name="playback_video_player">Videolejátszó</string>
     <string name="video_player_internal">Beépített videolejátszó</string>
     <string name="video_player_external">Külső alkalmazás</string>
-    <string name="playback_video_player_external_empty">Nincs olyan videolejátszó alkalmazás telepítve az eszközödre, amely meg tudja nyitni a Jellyfin videókat.</string>
+    <string name="playback_video_player_external_empty">Nincs olyan videolejátszó alkalmazás telepítve az eszközödre, amely meg tudja nyitni a Home Cartoon videókat.</string>
     <string name="filters">Szűrők</string>
     <string name="backdrop_behavior_with_blur">Elmosódott háttér</string>
     <string name="backdrop_behavior_without_blur">Elmosódott háttér</string>
@@ -687,7 +687,7 @@
     <string name="home_next_up_max_days">A következő frissítés határideje</string>
     <string name="home_next_up_max_days_disabled">Letiltva</string>
     <string name="tv_provider_enabled">Integráció az Android TV otthoni rendszerével</string>
-    <string name="tv_provider_enabled_description">Jellyfin-csatornák és -ajánlások megjelenítése az Android TV kezdőképernyőjén</string>
+    <string name="tv_provider_enabled_description">Home Cartoon-csatornák és -ajánlások megjelenítése az Android TV kezdőképernyőjén</string>
     <plurals name="days">
         <item quantity="one">%1$s. nap</item>
         <item quantity="other">%1$s napok</item>

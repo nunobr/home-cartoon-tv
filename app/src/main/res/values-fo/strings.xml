@@ -185,15 +185,15 @@
     <string name="discovered_servers_empty">Fann ongar ambætarar á nærneti.</string>
     <string name="connect_manually_by_address">Skriva ambætaraadressu</string>
     <string name="login_help_title">Tørvar tær hjálp?</string>
-    <string name="login_help_description">Jellyfin tørvar at sambindast til ein ambætara. Sí skjalfestingina á docs.jellyfin.org ella skanna QR-kotuna til tess at koma ígongd við Jellyfin.</string>
+    <string name="login_help_description">Home Cartoon tørvar at sambindast til ein ambætara. Sí skjalfestingina á docs.jellyfin.org ella skanna QR-kotuna til tess at koma ígongd við Home Cartoon.</string>
     <string name="auto_sign_in">Sjálvvirkandi innritan</string>
     <string name="user_picker_disable_title">Óvirkja</string>
     <string name="user_picker_disable_summary">Vís innritan hvørja ferð</string>
     <string name="user_picker_last_user_title">Seinast brúkta konto</string>
     <string name="lbl_switch_user">Skift brúkara</string>
-    <string name="no_network_permissions">Jellyfin tørvar netrættindir til tess at virka</string>
+    <string name="no_network_permissions">Home Cartoon tørvar netrættindir til tess at virka</string>
     <string name="saved_servers">Goymdir ambætarar</string>
-    <string name="welcome_title">Vælkomin til Jellyfin!</string>
+    <string name="welcome_title">Vælkomin til Home Cartoon!</string>
     <string name="welcome_content">Sambind við tín ambætara til tess at koma í gongd.</string>
     <string name="help">Hjálp</string>
     <string name="lbl_next_up_extended">Við smámynd</string>
@@ -215,7 +215,7 @@
     <string name="home_section_latest_media">Nýliga innlagdir miðlar</string>
     <string name="home_section_library">Mínir miðlar</string>
     <string name="home_section_livetv">Beinleiðis sjónvarp</string>
-    <string name="searchable_hint">Leita í Jellyfin</string>
+    <string name="searchable_hint">Leita í Home Cartoon</string>
     <string name="searchable_settings_description">Miðlar</string>
     <string name="pref_subtitles_background_title">Virkja bakgrund</string>
     <string name="pref_subtitles_background_summary">Vís svarta bakgrund handan undirtekst</string>
@@ -247,7 +247,7 @@
     <string name="login_other_options">Aðrir møgulleikar:</string>
     <string name="login_quickconnect_step_3">3. Skriva fylgjandi kotu:</string>
     <string name="action_connect">Sambind</string>
-    <string name="app_notification_beta">Appin er dagførd til %1$s\nTakk fyri at tú luttekur í Jellyfin royndarverkætlanini.</string>
+    <string name="app_notification_beta">Appin er dagførd til %1$s\nTakk fyri at tú luttekur í Home Cartoon royndarverkætlanini.</string>
     <string name="channels">Rásir</string>
     <string name="photo_albums">Myndabøkur</string>
     <string name="photos">Myndir</string>
@@ -345,7 +345,7 @@
     <string name="item_delete_confirm_message">Vilt tú strika hendan miðilin frá ambætaranum? Gerðin kann ikki vendast aftur.</string>
     <string name="pref_screensaver">Skáaskíggi</string>
     <string name="pref_screensaver_inapp_enabled">Brúka skáaskíggja apparinnar</string>
-    <string name="pref_screensaver_inapp_enabled_description">Vís Jellyfin-skáaskíggjan ímeðan appin er opin</string>
+    <string name="pref_screensaver_inapp_enabled_description">Vís Home Cartoon-skáaskíggjan ímeðan appin er opin</string>
     <string name="pref_screensaver_inapp_timeout">Byrja skáaskíggjan eftir</string>
     <string name="lbl_album_artists">Útgávutónlistafólk</string>
     <plurals name="items">
@@ -413,7 +413,7 @@
     <string name="episode_missing_message_2">Hesin parturin vantar í tínum savni. Spælingin steðgar.</string>
     <string name="no_player_message">Tú tykist ikki at hava nakra kykmyndavirkisføra app innlagda. Hendan stillingin tørvar eina triðjapartsapp at spæla kykmyndir.</string>
     <string name="pref_playback_description">Kykmyndir, undirtekstir, beinleiðis sjónvarp, næst á skránni</string>
-    <string name="login_quickconnect_step_1">1. Lat upp Jellyfin-appina á tíni telefon ella vevkaga og rita inn við tínum brúkara</string>
+    <string name="login_quickconnect_step_1">1. Lat upp Home Cartoon-appina á tíni telefon ella vevkaga og rita inn við tínum brúkara</string>
     <string name="login_quickconnect_step_2">2. Lat upp brúkaravalmyndina og vel Quick Connect</string>
     <string name="app_notification_uimode_invalid">Hendan appin er albøtt til og ætlað sjónvørpum. Vit mæla til at brúka far-app okkara á øðrum eindum.</string>
     <string name="clear_image_cache">Tøm myndakova</string>
@@ -440,7 +440,7 @@
     <string name="speech_error_no_permission">Vantar rættindi at brúka ljóðtakið. Vinaliga játta rættindini í kervistillingum.</string>
     <string name="color_custom">Tillaga lit</string>
     <string name="filters">Filtur</string>
-    <string name="playback_video_player_external_empty">Eingin kykmyndaspælara-app ið kann spæla Jellyfin kykmyndir er innløgd á hesi eindini.</string>
+    <string name="playback_video_player_external_empty">Eingin kykmyndaspælara-app ið kann spæla Home Cartoon kykmyndir er innløgd á hesi eindini.</string>
     <string name="byletter_letters">AÁBCDEFGHIÍJKLMNOÓPQRSTUÚVWXYÝÆØZ</string>
     <string name="lbl_show_indicators">Vís ávísar fyri</string>
     <string name="lbl_program_ended">Sendingin er liðug</string>
@@ -492,7 +492,7 @@
     <string name="pref_crash_reports_enabled">Sorúrrit verða send til ambætaran ið seinast var nýttur</string>
     <string name="pref_crash_report_logs_enabled">Gerðalistar verða íroknaðir í sorúrritum</string>
     <string name="pref_crash_report_logs_disabled">Gerðalistar verða ikki við í sorúrritum</string>
-    <string name="crash_report_toast">Ups! Ein ókend villa fór fram. Eitt sorúrrit var sent tínum Jellyfin-ambætara.</string>
+    <string name="crash_report_toast">Ups! Ein ókend villa fór fram. Eitt sorúrrit var sent tínum Home Cartoon-ambætara.</string>
     <string name="clear_image_cache_content">Fyllir: %1$s</string>
     <string name="pref_crash_reports_disabled">Sorúrrit verða ikki send</string>
     <string name="pref_subtitles_position">Frástøða frá botninum</string>
@@ -528,9 +528,9 @@
     <string name="add_user">Legg inn konto</string>
     <string name="no_user_warning">Eingin konta var funnin!\nLegg eina konto inn við at trýsta á \"Legg inn konto\" knøttin.</string>
     <string name="random">Tilvildarligur</string>
-    <string name="pref_report_device_profile_failure">Miseydnaðist at avhenda skjal. Møguliga noktar Jellyfin-ambætarin at taka ímóti viðskiftaragerðalistum.</string>
+    <string name="pref_report_device_profile_failure">Miseydnaðist at avhenda skjal. Møguliga noktar Home Cartoon-ambætarin at taka ímóti viðskiftaragerðalistum.</string>
     <string name="pref_report_device_profile_success">Skjal fráboðað sum %1$s</string>
-    <string name="pref_report_device_profile_summary">Handa Jellyfin-ambætaranum eitt brekgreiningarskjal við upplýsingum um spælivirkisføri</string>
+    <string name="pref_report_device_profile_summary">Handa Home Cartoon-ambætaranum eitt brekgreiningarskjal við upplýsingum um spælivirkisføri</string>
     <string name="pref_troubleshooting">Brekgreining</string>
     <string name="pref_playback_inactivity_prompt">Atgerðaloysisspurningur</string>
     <string name="msg_unable_to_create_recording">Bar ikki til at fremja upptøku</string>
@@ -542,7 +542,7 @@
     <string name="pref_still_watching_behavior_title">Vís atgerðaloysisspurning</string>
     <string name="pref_browsing">Kaging</string>
     <string name="lbl_showing">Vísir</string>
-    <string name="server_setup_incomplete">Uppsetanin av hesum ambætaranum er ikki liðug. Lat Jellyfin-vevsíðuna upp í einum vevkaga til tess at avgreiða uppsetanina áðrenn tú ritar inn.</string>
+    <string name="server_setup_incomplete">Uppsetanin av hesum ambætaranum er ikki liðug. Lat Home Cartoon-vevsíðuna upp í einum vevkaga til tess at avgreiða uppsetanina áðrenn tú ritar inn.</string>
     <string name="lbl_remove_users">Sum ein avleiðing av hesum verða allar tilhoyrandi kontur strikaðar</string>
     <string name="playback_info_container">Pakkasnið: %1$s</string>
     <string name="lbl_date_show_added">Innleggingardegi raðanna</string>
@@ -562,7 +562,7 @@
     <string name="enable_smart_view">Virkja snilt sýni</string>
     <string name="enable_smart_view_description">Snilt sýni vísir miðlar á ein meira viðkomandi hátt heldur enn í eini talvu</string>
     <string name="licenses_link">Loyvir (Licensir)</string>
-    <string name="licenses_link_description">Sí loyvini fyri kotusøvnini ið eru nýtt í Jellyfin-appini</string>
+    <string name="licenses_link_description">Sí loyvini fyri kotusøvnini ið eru nýtt í Home Cartoon-appini</string>
     <string name="license_license">Loyvi</string>
     <string name="license_description">Lýsing</string>
     <string name="license_repository">Verkætlanarstaður</string>
@@ -633,7 +633,7 @@
     <string name="pref_customization_description">Snið, forsíða, snarknappar</string>
     <string name="server_issue_unsupported_version">Ambætaraútgávan %1$s er ikki sínamillumvirkin við hesa útgávuna av appini</string>
     <string name="server_issue_outdated_version">Ambætaraútgávan %1$s er ikki sínamillumvirkin við hesa útgávuna av appini. Vinaliga dagfør til %2$s ella nýggjari</string>
-    <string name="server_unsupported_notification">Jellyfin-ambætaraútgávan %1$s er ikki sínamillumvirkin við hesa útgávuna av appini. Vinaliga dagfør til Jellyfin %2$s ella nýggjari til tess at halda á fram at brúka appina.</string>
+    <string name="server_unsupported_notification">Home Cartoon-ambætaraútgávan %1$s er ikki sínamillumvirkin við hesa útgávuna av appini. Vinaliga dagfør til Home Cartoon %2$s ella nýggjari til tess at halda á fram at brúka appina.</string>
     <string name="lbl_shuffle_queue">Blanda/Óblanda</string>
     <string name="prefer_exoplayer_ffmpeg">Nýt FFmpeg til ljóðspæling</string>
     <string name="prefer_exoplayer_ffmpeg_content">Nýt FFmpeg at avkota ljóð sjálvt um stýrikerviveitt kodek eru tøk.</string>
@@ -693,7 +693,7 @@
     </plurals>
     <string name="home_next_up_max_days_disabled">Óavmarkað</string>
     <string name="home_next_up_max_days">\"Næst á skránni\" tíðarmark</string>
-    <string name="tv_provider_enabled_description">Vís Jellyfin-rásir og tilmælir á Android TV-forsíðuni</string>
+    <string name="tv_provider_enabled_description">Vís Home Cartoon-rásir og tilmælir á Android TV-forsíðuni</string>
     <string name="tv_provider_enabled">Android TV-forsíðuveiting</string>
     <string name="dovi_profile_7_description">Tveylags við víðkanarlagi</string>
     <string name="lbl_3d">3D</string>

@@ -282,14 +282,14 @@
         <item quantity="other">%1$s episoodi</item>
     </plurals>
     <string name="pref_developer_link_description">Täiustatud ja eksperimentaalsed funktsioonid</string>
-    <string name="login_help_description">Jellyfin vajab ühenduse loomiseks serverit. Jellyfini kasutamise alustamiseks külastage meie dokumentatsiooni aadressil docs.jellyfin.org või skannige QR-koodi.</string>
+    <string name="login_help_description">Home Cartoon vajab ühenduse loomiseks serverit. Jellyfini kasutamise alustamiseks külastage meie dokumentatsiooni aadressil docs.jellyfin.org või skannige QR-koodi.</string>
     <string name="home_prefs">Avaleht</string>
     <string name="pref_crash_reports_disabled">Krahhiaruandeid ei esitata</string>
     <string name="item_delete_confirm_title">Kustuta üksus</string>
     <string name="licenses_link">Litsentsid</string>
     <string name="home_section_resume">Jätka vaatamist</string>
     <string name="server_issue_missing_version">Serveri versiooni ei õnnestunud tuvastada</string>
-    <string name="server_unsupported_notification">See server kasutab Jellyfini versiooni %1$s, mida ei toetata. Rakenduse kasutamise jätkamiseks värskendage versioonile Jellyfin %2$s või uuemale versioonile.</string>
+    <string name="server_unsupported_notification">See server kasutab Jellyfini versiooni %1$s, mida ei toetata. Rakenduse kasutamise jätkamiseks värskendage versioonile Home Cartoon %2$s või uuemale versioonile.</string>
     <string name="disable_ui_mode_warning">Keela seadme tüübi hoiatus</string>
     <plurals name="seconds">
         <item quantity="one">%1$s sekund</item>
@@ -351,7 +351,7 @@
     <string name="action_use_password">Kasuta parooli</string>
     <string name="pref_crash_report_logs_disabled">Logisid krahhiaruannetesse ei kaasata</string>
     <string name="lbl_special">Eriepisoodid</string>
-    <string name="welcome_title">Jellyfin tervitab!</string>
+    <string name="welcome_title">Home Cartoon tervitab!</string>
     <string name="watch_count_overflow">99+</string>
     <string name="pref_clock_display">Kuva kell</string>
     <string name="enable_smart_view">Luba nutikas ekraan</string>
@@ -390,7 +390,7 @@
     <string name="lbl_on_channel">%1$s</string>
     <string name="enable_playback_module_description">See on eksperimentaalne funktsioon. Toetust ei pakuta.</string>
     <string name="license_description">Kirjeldus</string>
-    <string name="licenses_link_description">Vaadake rakenduse Jellyfin kasutatavate kogude litsentse</string>
+    <string name="licenses_link_description">Vaadake rakenduse Home Cartoon kasutatavate kogude litsentse</string>
     <string name="home_section_next_up">Järgmisena</string>
     <string name="home_section_none">Puudub</string>
     <string name="searchable_settings_description">Meedia</string>
@@ -406,7 +406,7 @@
     <string name="pref_direct_stream_live_on">Ümberkodeerimine on keelatud</string>
     <string name="action_use_quickconnect">Kasuta kiirühendamist</string>
     <string name="login_connect_to">Ühenduse loomine %1$s</string>
-    <string name="login_quickconnect_step_1">1. Avage oma telefonis või veebibrauseris rakendus Jellyfin ja logige sisse oma kontoga</string>
+    <string name="login_quickconnect_step_1">1. Avage oma telefonis või veebibrauseris rakendus Home Cartoon ja logige sisse oma kontoga</string>
     <string name="input_username">Kasutajanimi</string>
     <string name="login_quickconnect_step_2">2. Avage kasutajamenüü ja minge kiirühenduse lehele</string>
     <string name="app_notification_uimode_invalid">See rakendus on optimeeritud telerite jaoks. Soovitame kasutada meie mobiilirakendust teistes seadmetes.</string>
@@ -415,7 +415,7 @@
     <string name="not_set">Pole määratud</string>
     <string name="pref_crash_report_logs_enabled">Logid kaasatakse krahhiaruannetesse</string>
     <string name="crash_report_toast">Oih! Midagi läks valesti, sinu Jellyfini serverisse saadeti krahhiaruanne.</string>
-    <string name="server_setup_incomplete">Selle serveri seadistamine pole lõpetatud. Avage Jellyfin veebibrauseris, et enne sisselogimist seadistamine lõpule viia.</string>
+    <string name="server_setup_incomplete">Selle serveri seadistamine pole lõpetatud. Avage Home Cartoon veebibrauseris, et enne sisselogimist seadistamine lõpule viia.</string>
     <string name="pref_enable_media_management">Luba meediahaldus</string>
     <string name="pref_screensaver_inapp_timeout">Käivita ekraanisäästja pärast</string>
     <string name="lbl_hidden">Peidetud</string>
@@ -439,7 +439,7 @@
     <string name="user_picker_disable_summary">Kuva alati sisselogimisaken</string>
     <string name="user_picker_last_user_summary">Kasuta viimast aktiivset kontot</string>
     <string name="lbl_switch_user">Vaheta kontot</string>
-    <string name="no_network_permissions">Jellyfin vajab töötamiseks võrgulubasid</string>
+    <string name="no_network_permissions">Home Cartoon vajab töötamiseks võrgulubasid</string>
     <string name="press_to_close">Vajutage sulgemiseks</string>
     <string name="saved_servers">Salvestatud serverid</string>
     <string name="welcome_content">Alustamiseks looge oma serveriga ühendus.</string>

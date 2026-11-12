@@ -134,6 +134,6 @@
     <string name="lbl_home">باش بەت</string>
     <string name="because_you_watched">چۈنكى سىز %1$s نى كۆردىڭىز</string>
     <string name="action_connect">ئۇلاڭ</string>
-    <string name="server_unsupported_notification">بۇ مۇلازىمېتىر قوللىمايدىغان Jellyfin نەشىرىنى%2$s ئىشلىتىدۇ. بۇ دېتالنى داۋاملىق ئىشلىتىش ئۈچۈن Jellyfin %1$s ياكى يېڭى نەشرىگە يېڭىلاڭ.</string>
+    <string name="server_unsupported_notification">بۇ مۇلازىمېتىر قوللىمايدىغان Home Cartoon نەشىرىنى%2$s ئىشلىتىدۇ. بۇ دېتالنى داۋاملىق ئىشلىتىش ئۈچۈن Home Cartoon %1$s ياكى يېڭى نەشرىگە يېڭىلاڭ.</string>
     <string name="app_notification_uimode_invalid">بۇ ئەپ تېلېۋىزور ئۈچۈن ئەلالاشتۇرۇلغان. كۆچمە ئەپنى باشقا ئۈسكۈنىلەردە ئىشلىتىشنى تەۋسىيە قىلىمىز.</string>
 </resources>

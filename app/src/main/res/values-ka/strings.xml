@@ -327,7 +327,7 @@
     <string name="home_section_active_recordings">აქტიური ჩანაწერები</string>
     <string name="home_section_next_up">შემდეგი</string>
     <string name="home_section_livetv">პირდაპირი ეთერი</string>
-    <string name="searchable_hint">Jellyfin-ის ძებნა</string>
+    <string name="searchable_hint">Home Cartoon-ის ძებნა</string>
     <string name="pref_subtitles_background_title">ფონის ჩართვა</string>
     <string name="color_darkgrey">მუქი ნაცრისფერი</string>
     <string name="pref_subtitles_size">ტექსტის ზომა</string>
@@ -425,7 +425,7 @@
     <string name="auto_sign_in">ავტომატური შესვლა</string>
     <string name="user_picker_last_user_title">ახლახან გამოყენებული</string>
     <string name="press_to_close">დააჭირეთ დასახურად</string>
-    <string name="welcome_title">მოგესალმებათ Jellyfin!</string>
+    <string name="welcome_title">მოგესალმებათ Home Cartoon!</string>
     <string name="lbl_on_any_channel">ნებისმიერ არხზე</string>
     <string name="last_use">ახლახან გამოყენებული</string>
     <string name="home_section_latest_media">ახლახან დამატებული მედია</string>

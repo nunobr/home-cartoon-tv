@@ -328,7 +328,7 @@
     <string name="discovered_servers_empty">喺區域網路入面搵唔到伺服器。</string>
     <string name="connect_manually_by_address">輸入伺服器位址</string>
     <string name="login_help_title">需要幫手？</string>
-    <string name="login_help_description">Jellyfin 需要連線去伺服器先用得。可以去 docs.jellyfin.org 睇吓說明文檔，或者掃二維碼(QR code)開始使用 Jellyfin。</string>
+    <string name="login_help_description">Home Cartoon 需要連線去伺服器先用得。可以去 docs.jellyfin.org 睇吓說明文檔，或者掃二維碼(QR code)開始使用 Home Cartoon。</string>
     <string name="pref_watched_indicator">顯示已睇標示</string>
     <string name="lbl_hide_unwatched_count">當項目已經睇咗嗰陣</string>
     <string name="lbl_hide_watched_checkmark">當仲有集數未睇嗰陣</string>
@@ -341,10 +341,10 @@
     <string name="user_picker_last_user_summary">用返上次用開嗰個帳戶</string>
     <string name="lbl_switch_user">轉換帳戶</string>
     <string name="pref_theme_muted_purple">暗紫</string>
-    <string name="no_network_permissions">Jellyfin 需要有網路權限先至行到</string>
+    <string name="no_network_permissions">Home Cartoon 需要有網路權限先至行到</string>
     <string name="press_to_close">撳吓嚟閂咗佢</string>
     <string name="saved_servers">儲存咗嘅伺服器</string>
-    <string name="welcome_title">歡迎嚟到 Jellyfin！</string>
+    <string name="welcome_title">歡迎嚟到 Home Cartoon！</string>
     <string name="welcome_content">連線去你嘅伺服器嚟開始用啦。</string>
     <string name="no_user_warning">我哋搵唔到任何帳戶！\n撳「新增帳戶」掣嚟加個新帳戶。</string>
     <string name="who_is_watching">邊位睇緊？</string>
@@ -378,7 +378,7 @@
     <string name="advanced_settings">進階</string>
     <string name="select_version">版本</string>
     <string name="licenses_link">授權</string>
-    <string name="licenses_link_description">睇吓 Jellyfin 應用程式用緊嘅函式庫授權</string>
+    <string name="licenses_link_description">睇吓 Home Cartoon 應用程式用緊嘅函式庫授權</string>
     <string name="license_description">描述</string>
     <string name="license_version">版本</string>
     <string name="license_artifact">組件</string>
@@ -398,7 +398,7 @@
     <string name="home_section_livetv">直播電視</string>
     <string name="home_section_none">無</string>
     <string name="home_section_i">首頁板塊 %1$d</string>
-    <string name="searchable_hint">搜尋 Jellyfin</string>
+    <string name="searchable_hint">搜尋 Home Cartoon</string>
     <string name="searchable_settings_description">媒體</string>
     <string name="pref_subtitles_background_title">開啟背景</string>
     <string name="pref_subtitles_background_summary">喺字幕後面顯示黑色背景</string>
@@ -447,7 +447,7 @@
     <string name="input_password">密碼</string>
     <string name="login_connect_to">連線緊去 %1$s</string>
     <string name="login_other_options">其他選項：</string>
-    <string name="login_quickconnect_step_1">1. 喺你部手機或者瀏覽器開 Jellyfin，然後登入你個帳戶</string>
+    <string name="login_quickconnect_step_1">1. 喺你部手機或者瀏覽器開 Home Cartoon，然後登入你個帳戶</string>
     <string name="login_quickconnect_step_2">2. 打開使用者選單，去「快速連線」頁面</string>
     <string name="login_quickconnect_step_3">3. 輸入下邊呢組冧把：</string>
     <string name="lbl_refresh_switching">更新率切換</string>
@@ -456,7 +456,7 @@
     <string name="action_connect">連線</string>
     <string name="live_tv_preferences">直播電視選項</string>
     <string name="app_notification_uimode_invalid">呢個應用程式係專為電視而設嘅。喺其他裝置上面，我哋建議用返行動版程式。</string>
-    <string name="server_unsupported_notification">呢個伺服器用緊嘅 Jellyfin 版本係 %1$s，已經唔再支援。唔該升級至 %2$s 或者更新嘅版本嚟繼續用呢個應用程式。</string>
+    <string name="server_unsupported_notification">呢個伺服器用緊嘅 Home Cartoon 版本係 %1$s，已經唔再支援。唔該升級至 %2$s 或者更新嘅版本嚟繼續用呢個應用程式。</string>
     <string name="pref_telemetry_category">宕機回報</string>
     <string name="pref_telemetry_description">傳送宕機回報（包括日誌）</string>
     <string name="pref_crash_reports">將宕機回報傳送去伺服器</string>
@@ -465,10 +465,10 @@
     <string name="pref_crash_report_logs">包括日誌</string>
     <string name="pref_crash_report_logs_enabled">日誌會一齊擺喺宕機回報入面</string>
     <string name="pref_crash_report_logs_disabled">日誌唔會擺喺宕機回報入面</string>
-    <string name="crash_report_toast">弊喇！出咗啲問題，宕機回報已經傳送咗去你個 Jellyfin 伺服器。</string>
-    <string name="server_setup_incomplete">呢個伺服器仲未完成設定。登入之前，唔該先用瀏覽器開 Jellyfin 搞掂埋啲設定。</string>
+    <string name="crash_report_toast">弊喇！出咗啲問題，宕機回報已經傳送咗去你個 Home Cartoon 伺服器。</string>
+    <string name="server_setup_incomplete">呢個伺服器仲未完成設定。登入之前，唔該先用瀏覽器開 Home Cartoon 搞掂埋啲設定。</string>
     <string name="episode_name_special">特輯</string>
-    <string name="app_notification_beta">應用程式已更新至 %1$s\n唔該晒你參加 Jellyfin 嘅 Beta 測試計劃。</string>
+    <string name="app_notification_beta">應用程式已更新至 %1$s\n唔該晒你參加 Home Cartoon 嘅 Beta 測試計劃。</string>
     <string name="item_deleted">%1$s 已刪走</string>
     <string name="item_deletion_failed">刪唔到 %1$s</string>
     <string name="pref_enable_media_management">開啟媒體管理</string>
@@ -477,7 +477,7 @@
     <string name="item_delete_confirm_message">你係咪肯定要喺伺服器刪走呢個項目？刪咗就冇得返轉頭。</string>
     <string name="pref_screensaver">螢幕保護程式</string>
     <string name="pref_screensaver_inapp_enabled">用應用程式內置嘅螢幕保護程式</string>
-    <string name="pref_screensaver_inapp_enabled_description">開住個應用程式嗰陣顯示 Jellyfin 螢幕保護程式</string>
+    <string name="pref_screensaver_inapp_enabled_description">開住個應用程式嗰陣顯示 Home Cartoon 螢幕保護程式</string>
     <string name="pref_screensaver_inapp_timeout">螢幕保護程式啟動時間</string>
     <string name="enable_reactive_homepage">開啟動態首頁</string>
     <string name="not_set">未設定</string>
@@ -533,9 +533,9 @@
     <string name="pref_subtitles_background_opacity">字幕背景不透明度</string>
     <string name="pref_troubleshooting">疑難排解</string>
     <string name="pref_report_device_profile_title">向伺服器回報播放能力</string>
-    <string name="pref_report_device_profile_summary">上載一份關於播放能力嘅疑難排解文檔去 Jellyfin 伺服器</string>
+    <string name="pref_report_device_profile_summary">上載一份關於播放能力嘅疑難排解文檔去 Home Cartoon 伺服器</string>
     <string name="pref_report_device_profile_success">文檔已成功提交，編號為 %1$s</string>
-    <string name="pref_report_device_profile_failure">提交文檔失敗。你個 Jellyfin 伺服器可能禁止咗用戶端上載日誌。</string>
+    <string name="pref_report_device_profile_failure">提交文檔失敗。你個 Home Cartoon 伺服器可能禁止咗用戶端上載日誌。</string>
     <string name="fast_forward">快進</string>
     <string name="rewind">倒帶</string>
     <string name="preference_enable_pgs">直接播放 PGS 字幕</string>
@@ -572,7 +572,7 @@
     <string name="playback_video_player">影片播放器</string>
     <string name="video_player_internal">內建影片播放器</string>
     <string name="video_player_external">外部應用程式</string>
-    <string name="playback_video_player_external_empty">你部裝置冇裝到任何外部播放器應用程式可以開到 Jellyfin 影片。</string>
+    <string name="playback_video_player_external_empty">你部裝置冇裝到任何外部播放器應用程式可以開到 Home Cartoon 影片。</string>
     <string name="filters">篩選</string>
     <plurals name="seconds">
         <item quantity="other">%1$s 秒</item>

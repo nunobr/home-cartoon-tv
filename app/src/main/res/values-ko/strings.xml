@@ -303,7 +303,7 @@
     <string name="pref_crash_reports_enabled">마지막으로 접속했던 서버로 충돌 보고서를 보냅니다</string>
     <string name="lbl_quality_profile">품질 프로파일</string>
     <string name="lbl_user_last_used">%2$s에서 %1$s에 마지막으로 사용</string>
-    <string name="crash_report_toast">이런! 문제가 발생했습니다. 당신의 Jellyfin 서버에 충돌 보고서를 전송했습니다.</string>
+    <string name="crash_report_toast">이런! 문제가 발생했습니다. 당신의 Home Cartoon 서버에 충돌 보고서를 전송했습니다.</string>
     <string name="select_version">버전</string>
     <string name="licenses_link">라이선스</string>
     <string name="color_red">빨간색</string>
@@ -315,7 +315,7 @@
     <string name="pref_direct_stream_live_on">트랜스코딩을 하지 않음</string>
     <string name="input_password">비밀번호</string>
     <string name="pref_crash_report_logs_enabled">충돌 보고서에 로그를 포함합니다</string>
-    <string name="pref_screensaver_inapp_enabled_description">앱이 열려 있을 때 Jellyfin 화면 보호기 활성화</string>
+    <string name="pref_screensaver_inapp_enabled_description">앱이 열려 있을 때 Home Cartoon 화면 보호기 활성화</string>
     <string name="pref_next_up_timeout_disabled">∞</string>
     <string name="lbl_server">서버</string>
     <string name="help">도움말</string>
@@ -428,7 +428,7 @@
     <string name="login_other_options">다른 옵션:</string>
     <string name="pref_refresh_rate_scale_on_tv">TV에 맞추기</string>
     <string name="app_notification_uimode_invalid">이 앱은 텔레비전에 최적화 되어 있습니다. 다른 기기에서는 모바일 앱을 사용하는 것을 권장 드립니다.</string>
-    <string name="server_unsupported_notification">이 서버는 지원되지 않는 Jellyfin %1$s 버전을 사용하고 있습니다. 앱을 계속 사용하시려면 Jellyfin 버전을 %2$s 이상으로 업데이트 해 주십시오.</string>
+    <string name="server_unsupported_notification">이 서버는 지원되지 않는 Home Cartoon %1$s 버전을 사용하고 있습니다. 앱을 계속 사용하시려면 Home Cartoon 버전을 %2$s 이상으로 업데이트 해 주십시오.</string>
     <string name="pref_crash_reports_disabled">충돌 보고서를 전송하지 않습니다</string>
     <string name="pref_crash_report_logs">로그 포함</string>
     <string name="server_setup_incomplete">서버 설정이 완료되지 않았습니다. 웹 브라우저에서 Jellyfin을 열어 설정을 완료하십시오.</string>
@@ -496,7 +496,7 @@
     <string name="lbl_use_series_thumbnails">시리즈 전체 썸네일 선호</string>
     <string name="image_size_xlarge">더 큼</string>
     <string name="lbl_stretch">늘이기</string>
-    <string name="searchable_hint">Jellyfin 검색</string>
+    <string name="searchable_hint">Home Cartoon 검색</string>
     <string name="lbl_fit">기본</string>
     <string name="login_username_field_empty">사용자 이름은 비어 있을 수 없습니다</string>
     <string name="login_invalid_credentials">일치하지 않는 사용자 이름 또는 비밀번호</string>

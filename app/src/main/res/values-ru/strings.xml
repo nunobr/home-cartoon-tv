@@ -283,7 +283,7 @@
     <string name="lbl_sign_out_content">Требуется вход при следующем обращении</string>
     <string name="lbl_remove_user_content">Удалить учётную запись</string>
     <string name="lbl_manage_servers">Управление серверами</string>
-    <string name="login_help_description">Jellyfin требуется подключение к серверу. Просмотрите нашу документацию на docs.jellyfin.org, или сканируйте QR-код, чтобы начать работу с Jellyfin.</string>
+    <string name="login_help_description">Home Cartoon требуется подключение к серверу. Просмотрите нашу документацию на docs.jellyfin.org, или сканируйте QR-код, чтобы начать работу с Home Cartoon.</string>
     <string name="enable_smart_view_description">Умный экран показывает соответствующие элементы вместо сетки</string>
     <string name="lbl_remove_users">Также изымаются все связанные учётные записи</string>
     <string name="login_help_title">Нужна помощь\?</string>
@@ -308,14 +308,14 @@
     <string name="user_picker_disable_title">Отключить</string>
     <string name="auto_sign_in">Автоматический вход</string>
     <string name="lbl_switch_user">Сменить учётную запись</string>
-    <string name="no_network_permissions">Jellyfin требуются сетевые разрешения для работы</string>
+    <string name="no_network_permissions">Home Cartoon требуются сетевые разрешения для работы</string>
     <string name="pref_theme_muted_purple">Тускло-пурпурная</string>
     <string name="add_user">Добавить учётную запись</string>
     <string name="who_is_watching">Кто смотрит\?</string>
     <string name="no_user_warning">Мы не смогли найти ни одну учётную запись!
 \nДобавьте новую учётную запись, нажав кнопку «Добавить учётную запись».</string>
     <string name="welcome_content">Подключитесь к своему серверу, чтобы начать.</string>
-    <string name="welcome_title">Начало работы в Jellyfin!</string>
+    <string name="welcome_title">Начало работы в Home Cartoon!</string>
     <string name="saved_servers">Сохранённые серверы</string>
     <string name="press_to_close">Нажать для закрытия</string>
     <string name="lbl_next_up_minimal">Без бегунка</string>
@@ -347,7 +347,7 @@
     <string name="always_authenticate">Всегда запрашивать учётные данные</string>
     <string name="lbl_community_rating">Общественная оценка</string>
     <string name="select_version">Версия</string>
-    <string name="licenses_link_description">Просмотр лицензий библиотек, используемых приложением Jellyfin</string>
+    <string name="licenses_link_description">Просмотр лицензий библиотек, используемых приложением Home Cartoon</string>
     <string name="license_license">Лицензия</string>
     <string name="license_author">Автор</string>
     <string name="license_repository">Репозиторий</string>
@@ -369,7 +369,7 @@
     <string name="home_section_latest_media">Последнее добавленные медиафайлы</string>
     <string name="home_prefs">Главное</string>
     <string name="searchable_settings_description">Медиаданные</string>
-    <string name="searchable_hint">Поиск Jellyfin</string>
+    <string name="searchable_hint">Поиск Home Cartoon</string>
     <string name="pref_subtitles_size">Размер текста</string>
     <string name="pref_subtitles_background_summary">Показывать чёрный фон за субтитрами</string>
     <string name="pref_subtitles_background_title">Включить фон</string>
@@ -405,7 +405,7 @@
     <string name="lbl_shuffle_queue">Переключить перемешивание</string>
     <string name="login_quickconnect_step_3">3. Введите следующий код:</string>
     <string name="login_quickconnect_step_2">2. Откройте меню пользователя и перейдите на страницу Быстрого подключения</string>
-    <string name="login_quickconnect_step_1">1. Откройте Jellyfin-приложение на своём телефоне или веб-браузере и войдите в свою учётную запись</string>
+    <string name="login_quickconnect_step_1">1. Откройте Home Cartoon-приложение на своём телефоне или веб-браузере и войдите в свою учётную запись</string>
     <string name="login_other_options">Другие опции:</string>
     <string name="login_connect_to">Подключение к %1$s</string>
     <string name="input_password">Пароль</string>
@@ -420,28 +420,28 @@
     <string name="lbl_subtitle_delay">Задержка субтитров</string>
     <string name="live_tv_preferences">Опции эфирного ТВ</string>
     <string name="app_notification_uimode_invalid">Это приложение оптимизировано для телевизоров. Мы рекомендуем использовать наше мобильное приложение на других устройствах.</string>
-    <string name="server_unsupported_notification">Этот сервер использует версию Jellyfin %1$s, которая не поддерживается. Обновитесь до Jellyfin %2$s или более новой, чтобы продолжить использовать приложение.</string>
+    <string name="server_unsupported_notification">Этот сервер использует версию Home Cartoon %1$s, которая не поддерживается. Обновитесь до Home Cartoon %2$s или более новой, чтобы продолжить использовать приложение.</string>
     <string name="image_size_xlarge">Самый крупный</string>
     <string name="image_size_smallest">Самый мелкий</string>
     <string name="image_type_poster">Постер</string>
     <string name="lbl_additional_parts">Дополнительные части</string>
     <string name="pref_crash_reports_enabled">Отчеты о сбоях будут отправлены на последний использованный сервер</string>
     <string name="pref_telemetry_description">Отправлять отчеты о сбоях, включая журналы</string>
-    <string name="crash_report_toast">Что-то пошло не так, был отправлен отчет о сбое на Jellyfin-сервер.</string>
+    <string name="crash_report_toast">Что-то пошло не так, был отправлен отчет о сбое на Home Cartoon-сервер.</string>
     <string name="pref_crash_report_logs_disabled">Журналы не будут включены в отчёты о сбоях</string>
     <string name="pref_crash_report_logs_enabled">Журналы будут включены в отчёты о сбоях</string>
     <string name="pref_crash_report_logs">Включая журналы</string>
     <string name="pref_crash_reports_disabled">Отчёты о сбоях не будут отправляться</string>
     <string name="pref_crash_reports">Отправка отчёта о сбое на сервер</string>
     <string name="pref_telemetry_category">Отчёт о сбое</string>
-    <string name="server_setup_incomplete">Настройка этого сервера не завершена. Откройте Jellyfin в веб-браузере, чтобы завершить настройку перед входом в систему.</string>
+    <string name="server_setup_incomplete">Настройка этого сервера не завершена. Откройте Home Cartoon в веб-браузере, чтобы завершить настройку перед входом в систему.</string>
     <string name="episode_name_special">спецэпизод</string>
     <string name="lbl_quality_profile">Профиль качества</string>
     <string name="desc_audio_night_mode">Автоматически выравнивает громкость звука</string>
     <string name="pref_audio_night_mode">Ночной аудиорежим (экспериментальный)</string>
     <string name="color_yellow">Жёлтый</string>
     <string name="app_notification_beta">Приложение обновлено до версии %1$s
-\nСпасибо вам за участие в бета-тестировании Jellyfin.</string>
+\nСпасибо вам за участие в бета-тестировании Home Cartoon.</string>
     <string name="color_white">Белый</string>
     <string name="color_black">Чёрный</string>
     <string name="color_darkgrey">Тёмно-серый</string>
@@ -457,7 +457,7 @@
     <string name="item_delete_confirm_message">Вы уверенны, что хотите удалить это с сервера\? Это действие невозможно отменить.</string>
     <string name="pref_enable_media_management_description">Показывать возможности управления медиа во время навигации</string>
     <string name="lbl_latest_in">Недавно добавлено в %1$s</string>
-    <string name="pref_screensaver_inapp_enabled_description">Показывать заставку Jellyfin при открытом приложении</string>
+    <string name="pref_screensaver_inapp_enabled_description">Показывать заставку Home Cartoon при открытом приложении</string>
     <string name="lbl_album_artists">Исполнители альбома</string>
     <string name="enable_reactive_homepage">Включить реактивную домашнюю страницу</string>
     <string name="not_set">Не задано</string>
@@ -585,8 +585,8 @@
     <string name="pref_subtitles_background_opacity">Непрозрачность фона субтитров</string>
     <string name="pref_troubleshooting">Устранение неполадок</string>
     <string name="pref_report_device_profile_title">Отправлять поддерживаемые функции воспроизведения на сервер</string>
-    <string name="pref_report_device_profile_failure">Не удалось загрузить данные. Возможно, ваш сервер Jellyfin не принимает клиентские логи.</string>
-    <string name="pref_report_device_profile_summary">Загружать диагностические данные на сервер Jellyfin вместе с информацией о поддерживаемых функциях воспроизведения</string>
+    <string name="pref_report_device_profile_failure">Не удалось загрузить данные. Возможно, ваш сервер Home Cartoon не принимает клиентские логи.</string>
+    <string name="pref_report_device_profile_summary">Загружать диагностические данные на сервер Home Cartoon вместе с информацией о поддерживаемых функциях воспроизведения</string>
     <string name="pref_report_device_profile_success">Данные загружены как %1$s</string>
     <string name="indicator_subtitles_hearing_impaired">Слабослышащие</string>
     <string name="fast_forward">Перемотать вперед</string>
@@ -635,7 +635,7 @@
     <string name="playback_video_player">Видео проигрыватель</string>
     <string name="video_player_internal">Встроенный видео проигрыватель</string>
     <string name="video_player_external">Внешнее приложение</string>
-    <string name="playback_video_player_external_empty">У вас нет ни одного приложения для воспроизведения видео, которое может открывать видео из Jellyfin.</string>
+    <string name="playback_video_player_external_empty">У вас нет ни одного приложения для воспроизведения видео, которое может открывать видео из Home Cartoon.</string>
     <string name="backdrop_behavior_with_blur">Фон с размытием</string>
     <string name="backdrop_behavior_without_blur">Фон без размытия</string>
     <string name="hlg">HLG</string>

@@ -418,10 +418,10 @@
     <string name="action_login">உள்நுழையவும்</string>
     <string name="state_disabled">முடக்கப்பட்டது</string>
     <string name="app_notification_uimode_invalid">இந்த செயலி தொலைக்காட்சிகளுக்கு உகந்ததாக வடிவமைக்க பட்டுள்ளது. பிற சாதனங்களில் எங்கள் மொபைல் பயன்பாட்டைப் பயன்படுத்த பரிந்துரைக்கிறோம்.</string>
-    <string name="server_unsupported_notification">இந்தச் சேவையகம் ஆதரிக்கப்படாத %1$s பதிப்பான Jellyfin ஐப் பயன்படுத்துகிறது. பயன்பாட்டைத் தொடர்ந்து பயன்படுத்த, Jellyfin %2$s அல்லது அதற்குப் புதியதாகப் புதுப்பிக்கவும்.</string>
+    <string name="server_unsupported_notification">இந்தச் சேவையகம் ஆதரிக்கப்படாத %1$s பதிப்பான Home Cartoon ஐப் பயன்படுத்துகிறது. பயன்பாட்டைத் தொடர்ந்து பயன்படுத்த, Home Cartoon %2$s அல்லது அதற்குப் புதியதாகப் புதுப்பிக்கவும்.</string>
     <string name="image_type_poster">சுவரொட்டி</string>
     <string name="lbl_quality_profile">தர சுயவிவரம்</string>
-    <string name="crash_report_toast">அச்சச்சோ! ஏதோ தவறாகிவிட்டது, உங்கள் Jellyfin சர்வருக்கு செயலிழப்பு அறிக்கை அனுப்பப்பட்டது.</string>
+    <string name="crash_report_toast">அச்சச்சோ! ஏதோ தவறாகிவிட்டது, உங்கள் Home Cartoon சர்வருக்கு செயலிழப்பு அறிக்கை அனுப்பப்பட்டது.</string>
     <string name="pref_audio_night_mode">ஆடியோ இரவு முறை (சோதனை)</string>
     <string name="desc_audio_night_mode">ஆடியோ ஒலியளவை தானாகவே சமன் செய்</string>
     <string name="color_black">கருப்பு</string>

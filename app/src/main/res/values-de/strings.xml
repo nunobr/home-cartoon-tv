@@ -273,7 +273,7 @@
     <string name="server_field_empty">Das Adressfeld darf nicht leer sein</string>
     <string name="server_connection_failed">Verbindung zum Server konnte nicht hergestellt werden</string>
     <string name="server_connecting">Verbinden mit %1$s</string>
-    <string name="login_help_description">Jellyfin benötigt einen Server, mit dem eine Verbindung hergestellt werden kann. Besuche unsere Dokumentation unter docs.jellyfin.org oder scanne den QR-Code, um deine ersten Schritte mit Jellyfin zu machen.</string>
+    <string name="login_help_description">Home Cartoon benötigt einen Server, mit dem eine Verbindung hergestellt werden kann. Besuche unsere Dokumentation unter docs.jellyfin.org oder scanne den QR-Code, um deine ersten Schritte mit Home Cartoon zu machen.</string>
     <string name="login_help_title">Brauchst du Hilfe\?</string>
     <string name="connect_manually_by_address">Server-Adresse eingeben</string>
     <string name="discovered_servers_empty">Es wurden keine Server im lokalen Netzwerk gefunden.</string>
@@ -308,7 +308,7 @@
     <string name="user_picker_disable_title">Deaktivieren</string>
     <string name="auto_sign_in">Automatisch anmelden</string>
     <string name="lbl_switch_user">Konto wechseln</string>
-    <string name="no_network_permissions">Jellyfin benötigt zum Funktionieren Netzwerkberechtigungen</string>
+    <string name="no_network_permissions">Home Cartoon benötigt zum Funktionieren Netzwerkberechtigungen</string>
     <string name="pref_theme_muted_purple">Gedämpftes Violett</string>
     <string name="press_to_close">Zum Schließen drücken</string>
     <string name="add_user">Konto hinzufügen</string>
@@ -316,7 +316,7 @@
     <string name="no_user_warning">Wir konnten keine Konten finden!
 \nFüge ein neues Konto hinzu, indem du auf die Schaltfläche \"Konto hinzufügen\" drückst.</string>
     <string name="welcome_content">Verbinde dich mit deinem Server, um loszulegen.</string>
-    <string name="welcome_title">Willkommen bei Jellyfin!</string>
+    <string name="welcome_title">Willkommen bei Home Cartoon!</string>
     <string name="saved_servers">Gespeicherte Server</string>
     <string name="lbl_next_up_minimal">Ohne Vorschaubild</string>
     <string name="lbl_next_up_extended">Mit Vorschaubild</string>
@@ -354,10 +354,10 @@
     <string name="license_artifact">Artefakt</string>
     <string name="license_version">Version</string>
     <string name="license_description">Beschreibung</string>
-    <string name="licenses_link_description">Lizenzen der von der Jellyfin-App verwendeten Bibliotheken anzeigen</string>
+    <string name="licenses_link_description">Lizenzen der von der Home Cartoon-App verwendeten Bibliotheken anzeigen</string>
     <string name="licenses_link">Lizenzen</string>
     <string name="searchable_settings_description">Medien</string>
-    <string name="searchable_hint">Jellyfin durchsuchen</string>
+    <string name="searchable_hint">Home Cartoon durchsuchen</string>
     <string name="home_section_i">Startseitenabschnitt %1$d</string>
     <string name="home_section_none">Keiner</string>
     <string name="home_section_livetv">Live-TV</string>
@@ -408,7 +408,7 @@
     <string name="pref_refresh_rate_scale_on_tv">Skalierung durch TV</string>
     <string name="login_quickconnect_step_3">3. Gib den folgenden Code ein:</string>
     <string name="login_quickconnect_step_2">2. Öffne das Benutzermenü und gehe auf die Quick Connect-Seite</string>
-    <string name="login_quickconnect_step_1">1. Öffne die Jellyfin-App auf deinem Telefon oder Webbrowser und melde dich mit deinem Konto an</string>
+    <string name="login_quickconnect_step_1">1. Öffne die Home Cartoon-App auf deinem Telefon oder Webbrowser und melde dich mit deinem Konto an</string>
     <string name="login_other_options">Weitere Optionen:</string>
     <string name="login_connect_to">Verbinde mit %1$s</string>
     <string name="input_password">Passwort</string>
@@ -420,14 +420,14 @@
     <string name="lbl_subtitle_delay">Untertitelverzögerung</string>
     <string name="live_tv_preferences">Fernseh-Optionen</string>
     <string name="pref_telemetry_category">Absturzbericht</string>
-    <string name="server_unsupported_notification">Dieser Server verwendet Jellyfin-Version %1$s, die nicht unterstützt wird. Bitte aktualisiere auf Jellyfin %2$s oder neuer, um die App weiter nutzen zu können.</string>
+    <string name="server_unsupported_notification">Dieser Server verwendet Home Cartoon-Version %1$s, die nicht unterstützt wird. Bitte aktualisiere auf Home Cartoon %2$s oder neuer, um die App weiter nutzen zu können.</string>
     <string name="app_notification_uimode_invalid">Diese App ist für Fernsehgeräte optimiert. Wir empfehlen die Verwendung unserer mobilen App auf anderen Geräten.</string>
     <string name="image_size_xlarge">Extragroß</string>
     <string name="image_size_smallest">Kleinste</string>
     <string name="image_type_poster">Poster</string>
     <string name="episode_name_special">Extra</string>
-    <string name="server_setup_incomplete">Das Setup von diesem Server wurde nicht abgeschlossen. Öffne Jellyfin in einem Webbrowser, um das Setup abzuschließen, bevor du dich anmeldest.</string>
-    <string name="crash_report_toast">Ups! Etwas ist schiefgegangen, ein Absturzbericht wurde an deinen Jellyfin-Server gesendet.</string>
+    <string name="server_setup_incomplete">Das Setup von diesem Server wurde nicht abgeschlossen. Öffne Home Cartoon in einem Webbrowser, um das Setup abzuschließen, bevor du dich anmeldest.</string>
+    <string name="crash_report_toast">Ups! Etwas ist schiefgegangen, ein Absturzbericht wurde an deinen Home Cartoon-Server gesendet.</string>
     <string name="pref_crash_reports_enabled">Absturzberichte werden an den zuletzt von dir verwendeten Server gesendet</string>
     <string name="pref_crash_report_logs_disabled">Logs werden in Absturzberichten nicht eingeschlossen</string>
     <string name="pref_crash_report_logs_enabled">Logs werden in Absturzberichten eingeschlossen</string>
@@ -440,7 +440,7 @@
     <string name="desc_audio_night_mode">Passt die Audiolautstärke automatisch an</string>
     <string name="pref_audio_night_mode">Audio-Nachtmodus (experimentell)</string>
     <string name="app_notification_beta">App auf %1$s aktualisiert
-\nVielen Dank für die Teilnahme am Jellyfin-Beta-Programm.</string>
+\nVielen Dank für die Teilnahme am Home Cartoon-Beta-Programm.</string>
     <string name="color_white">Weiß</string>
     <string name="color_black">Schwarz</string>
     <string name="color_darkgrey">Dunkelgrau</string>
@@ -475,7 +475,7 @@
         <item quantity="other">%1$s Minuten</item>
     </plurals>
     <string name="lbl_latest_in">Kürzlich in %1$s hinzugefügt</string>
-    <string name="pref_screensaver_inapp_enabled_description">Jellyfin-Bildschirmschoner zeigen, wenn die App geöffnet ist</string>
+    <string name="pref_screensaver_inapp_enabled_description">Home Cartoon-Bildschirmschoner zeigen, wenn die App geöffnet ist</string>
     <string name="pref_screensaver_inapp_timeout">Bildschirmschoner starten nach</string>
     <plurals name="episodes">
         <item quantity="one">%1$s Folge</item>
@@ -564,10 +564,10 @@
     <string name="runtime_minutes">%1$dm</string>
     <string name="pref_subtitles_background_opacity">Untertitel Hintergrund Deckkraft</string>
     <string name="pref_report_device_profile_title">Wiedergabefähigkeiten an Server melden</string>
-    <string name="pref_report_device_profile_summary">Ein Troubleshooting Dokument mit Informationen über die Wiedergabefähigkeiten auf den Jellyfin Server hochladen</string>
+    <string name="pref_report_device_profile_summary">Ein Troubleshooting Dokument mit Informationen über die Wiedergabefähigkeiten auf den Home Cartoon Server hochladen</string>
     <string name="pref_troubleshooting">Fehlerbehebung</string>
     <string name="pref_report_device_profile_success">Dokument übertragen als %1$s</string>
-    <string name="pref_report_device_profile_failure">Dokument konnte nicht übertragen werden. Dein Jellyfin-Server könnte Client-Logs verbieten.</string>
+    <string name="pref_report_device_profile_failure">Dokument konnte nicht übertragen werden. Dein Home Cartoon-Server könnte Client-Logs verbieten.</string>
     <string name="indicator_subtitles_hearing_impaired">Untertitel für Gehörlose und Schwerhörige</string>
     <string name="fast_forward">Vorspulen</string>
     <string name="rewind">Zurückspulen</string>
@@ -611,7 +611,7 @@
     <string name="color_presets">Voreinstellungen</string>
     <string name="color_custom">Farbe anpassen</string>
     <string name="color_alpha">Transparenz</string>
-    <string name="playback_video_player_external_empty">Du hast keine Videoplayer-Apps auf deinem Gerät installiert, die Videos von Jellyfin öffnen können.</string>
+    <string name="playback_video_player_external_empty">Du hast keine Videoplayer-Apps auf deinem Gerät installiert, die Videos von Home Cartoon öffnen können.</string>
     <string name="playback_video_player">Videoplayer</string>
     <string name="video_player_internal">Eingebauter Videoplayer</string>
     <string name="video_player_external">Externe App</string>
@@ -677,7 +677,7 @@
     <string name="dovi_profile_8">Dolby Vision Profil 8</string>
     <string name="home_next_up_max_days_disabled">Ausgeschaltet</string>
     <string name="tv_provider_enabled">Integrieren mir Android TV home</string>
-    <string name="tv_provider_enabled_description">Zeige Jellyfin Kanäle und Empfehlungen auf dem Android TV Startbildschirm</string>
+    <string name="tv_provider_enabled_description">Zeige Home Cartoon Kanäle und Empfehlungen auf dem Android TV Startbildschirm</string>
     <string name="dovi_profile_5_description">Einlagiges Dolby Vision</string>
     <string name="dovi_profile_7_description">Zweilagig mit Erwiterungsschicht</string>
     <string name="dovi_profile_8_description">Einlagig mit HDR10 Rückfall</string>

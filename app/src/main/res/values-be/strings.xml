@@ -183,7 +183,7 @@
     <string name="login_username_field_empty">Імя карыстальніка не можа быць пустым</string>
     <string name="lbl_remove_server">Выдаліць сервер</string>
     <string name="licenses_link">Ліцэнзіі</string>
-    <string name="licenses_link_description">Праглядзіце ліцэнзіі бібліятэк, якія выкарыстоўваюцца Jellyfin</string>
+    <string name="licenses_link_description">Праглядзіце ліцэнзіі бібліятэк, якія выкарыстоўваюцца Home Cartoon</string>
     <string name="enable_playback_module_description">Гэта эксперыментальная функцыя. Падтрымка не аказваецца.</string>
     <string name="last_use">Апошні раз выкарыстоўваўся</string>
     <string name="alphabetical">Алфавітны</string>
@@ -309,7 +309,7 @@
     <string name="desc_bitstream_ac3">Патрабуецца адпаведнае абсталяванне</string>
     <string name="pref_crash_reports_disabled">Справаздачы аб збоях адпраўляцца не будуць</string>
     <string name="app_notification_beta">Праграма абноўлена да %1$s 
-\nДзякуй за ўдзел у бэта-тэсце Jellyfin.</string>
+\nДзякуй за ўдзел у бэта-тэсце Home Cartoon.</string>
     <string name="discovered_servers_title">Выяўленыя серверы</string>
     <string name="no_player_message">Здаецца, у вас не ўсталявана праграма для відэа. Гэтая опцыя патрабуе ўсталявання старонняй праграмы для прайгравання відэакантэнту.</string>
     <string name="user_picker_disable_title">Адключыць</string>
@@ -343,9 +343,9 @@
     <string name="pref_developer_link">Налады распрацоўшчыка</string>
     <string name="image_size_xlarge">Надвялікі</string>
     <string name="discovered_servers_empty">У лакальнай сетцы не знойдзена ніводнага сервера.</string>
-    <string name="no_network_permissions">Jellyfin патрабуе сеткавых дазволаў для працы</string>
+    <string name="no_network_permissions">Home Cartoon патрабуе сеткавых дазволаў для працы</string>
     <string name="searchable_settings_description">Мультымедыя</string>
-    <string name="server_unsupported_notification">Гэты сервер выкарыстоўвае версію Jellyfin %1$s, якая не падтрымліваецца. Калі ласка, абнавіце Jellyfin да %2$s або больш позняй версіі, каб працягваць выкарыстоўваць праграму.</string>
+    <string name="server_unsupported_notification">Гэты сервер выкарыстоўвае версію Home Cartoon %1$s, якая не падтрымліваецца. Калі ласка, абнавіце Home Cartoon да %2$s або больш позняй версіі, каб працягваць выкарыстоўваць праграму.</string>
     <string name="pref_crash_reports">Адпраўляць справаздачы аб збоях на сервер</string>
     <string name="pref_crash_report_logs">Уключаючы журналы</string>
     <string name="episode_name_special">спецыяльныя</string>
@@ -367,20 +367,20 @@
     <string name="image_size_small">Маленькі</string>
     <string name="image_size_smallest">Найменшы</string>
     <string name="pref_developer_link_description">Пашыраныя і эксперыментальныя функцыі</string>
-    <string name="login_help_description">Для падключэння да Jellyfin патрабуецца сервер. Наведайце нашу дакументацыю на docs.jellyfin.org або адскануйце QR-код, каб пачаць працу з Jellyfin.</string>
+    <string name="login_help_description">Для падключэння да Home Cartoon патрабуецца сервер. Наведайце нашу дакументацыю на docs.jellyfin.org або адскануйце QR-код, каб пачаць працу з Home Cartoon.</string>
     <string name="pref_watched_indicator">Паказаць індыкатар прагляду</string>
     <string name="lbl_use_series_thumbnails_description">Выкарыстоўваць мініяцюры серыялаў пры адлюстраванні серый</string>
     <string name="lbl_switch_user">Пераключыць уліковы запіс</string>
     <string name="saved_servers">Захаваныя серверы</string>
-    <string name="welcome_title">Сардэчна запрашаем у Jellyfin!</string>
+    <string name="welcome_title">Сардэчна запрашаем у Home Cartoon!</string>
     <string name="help">Дапамога</string>
     <string name="live_tv_preferences">Налады тэлеканалаў</string>
     <string name="pref_crash_report_logs_enabled">Журналы будуць уключаны ў справаздачы аб збоях</string>
     <string name="item_deletion_failed">Немагчыма выдаліць %1$s</string>
     <string name="pref_telemetry_category">Справаздача аб збоях</string>
     <string name="pref_telemetry_description">Адпраўляць справаздачы аб збоях, уключаць журналы</string>
-    <string name="server_setup_incomplete">Налада гэтага сервера не была завершана. Адкрыйце Jellyfin у вэб-браўзеры, каб завяршыць наладку перад уваходам.</string>
-    <string name="crash_report_toast">Ой! Нешта пайшло не так, справаздача аб збоях была адпраўлена на ваш сервер Jellyfin.</string>
+    <string name="server_setup_incomplete">Налада гэтага сервера не была завершана. Адкрыйце Home Cartoon у вэб-браўзеры, каб завяршыць наладку перад уваходам.</string>
+    <string name="crash_report_toast">Ой! Нешта пайшло не так, справаздача аб збоях была адпраўлена на ваш сервер Home Cartoon.</string>
     <string name="item_deleted">%1$s выдалена</string>
     <string name="pref_enable_media_management">Уключыць кіраванне мультымедыя</string>
     <string name="pref_live_tv_cat">Тэлеканалы</string>
@@ -480,7 +480,7 @@
     <string name="lbl_record_all">Будуць запісвацца ўсе серыі</string>
     <string name="lbl_start_end_on_schedule">Пачынаючы па раскладзе і заканчваючы па раскладзе</string>
     <string name="home_section_active_recordings">Актыўныя запісы</string>
-    <string name="searchable_hint">Пошук у Jellyfin</string>
+    <string name="searchable_hint">Пошук у Home Cartoon</string>
     <string name="pref_subtitles_background_title">Уключыць фон</string>
     <string name="home_section_i">Галоўны раздзел %1$d</string>
     <string name="color_green">Зялёны</string>
@@ -497,7 +497,7 @@
     <string name="pref_direct_stream_live_off">Пры неабходнасці выкарыстоўваецца перакадзіраванне</string>
     <string name="input_username">Імя карыстальніка</string>
     <string name="login_quickconnect_step_2">2. Адкрыйце меню карыстальніка і перайдзіце на старонку Quick Connect</string>
-    <string name="login_quickconnect_step_1">1. Адкрыйце праграму Jellyfin на тэлефоне або ў вэб-браўзеры і ўвайдзіце ў свой уліковы запіс</string>
+    <string name="login_quickconnect_step_1">1. Адкрыйце праграму Home Cartoon на тэлефоне або ў вэб-браўзеры і ўвайдзіце ў свой уліковы запіс</string>
     <string name="lbl_refresh_switching">Пераключэнне частоты абнаўлення</string>
     <string name="pref_refresh_rate_scale_on_tv">Масштабаванне на тэлевізары</string>
     <string name="action_connect">Падлучыцца</string>
@@ -560,7 +560,7 @@
     <string name="pref_screensaver_ageratingmax_entry">Узрост да %1$d</string>
     <string name="pref_screensaver_ageratingmax_unlimited">Адключыць максімум</string>
     <string name="pref_screensaver_ageratingrequired_title">Патрабуецца ўзроставы рэйтынг</string>
-    <string name="pref_screensaver_inapp_enabled_description">Паказаць застаўку Jellyfin, калі праграма адкрыта</string>
+    <string name="pref_screensaver_inapp_enabled_description">Паказаць застаўку Home Cartoon, калі праграма адкрыта</string>
     <string name="runtime_hours_minutes">%1$dг %2$dхв</string>
     <string name="lbl_exit">Выхад</string>
     <string name="lbl_subtitle_text_color">Колер тэксту</string>
@@ -591,9 +591,9 @@
     <string name="segment_type_recap">У папярэдніх серыях</string>
     <string name="segment_type_unknown">Невядомыя сегменты</string>
     <string name="pref_subtitles_background_opacity">Празрыстасць фону субцітраў</string>
-    <string name="pref_report_device_profile_summary">Загрузіце дакумент па вырашэнні праблем на сервер Jellyfin з інфармацыяй пра магчымасці прайгравання</string>
+    <string name="pref_report_device_profile_summary">Загрузіце дакумент па вырашэнні праблем на сервер Home Cartoon з інфармацыяй пра магчымасці прайгравання</string>
     <string name="pref_report_device_profile_success">Дакумент дасланы як %1$s</string>
-    <string name="pref_report_device_profile_failure">Не ўдалося адправіць дакумент. Магчыма, ваш сервер Jellyfin не дазваляе захоўваць кліенцкія журналы.</string>
+    <string name="pref_report_device_profile_failure">Не ўдалося адправіць дакумент. Магчыма, ваш сервер Home Cartoon не дазваляе захоўваць кліенцкія журналы.</string>
     <string name="preference_enable_trickplay">Уключыць trickplay у відэаплэеры</string>
     <string name="pref_troubleshooting">Пошук і выпраўленне непаладак</string>
     <string name="fast_forward">Пераматаць наперад</string>
@@ -626,7 +626,7 @@
     <string name="playback_video_player">Відэапрайгравальнік</string>
     <string name="video_player_internal">Убудаваны відэапрайгравальнік</string>
     <string name="video_player_external">Знешняя праграма</string>
-    <string name="playback_video_player_external_empty">На вашай прыладзе не ўсталявана праграм для прайгравання відэа, якія б змаглі адкрыць відэа з Jellyfin.</string>
+    <string name="playback_video_player_external_empty">На вашай прыладзе не ўсталявана праграм для прайгравання відэа, якія б змаглі адкрыць відэа з Home Cartoon.</string>
     <string name="filters">Фільтры</string>
     <string name="pref_subtitles_position">Водступ знізу</string>
     <string name="pref_playback_inactivity_prompt">Паведамленне пра неактыўнасць</string>
@@ -703,7 +703,7 @@
     <string name="hdr_override_disable">Адключыць</string>
     <string name="home_next_up_max_days_disabled">Адключана</string>
     <string name="tv_provider_enabled">Інтэграваць з галоўным экранам Android TV</string>
-    <string name="tv_provider_enabled_description">Паказваць каналы і рэкамендацыі Jellyfin на галоўным экране Android TV</string>
+    <string name="tv_provider_enabled_description">Паказваць каналы і рэкамендацыі Home Cartoon на галоўным экране Android TV</string>
     <string name="playback_buffer_length">Памер буфера прайгравання</string>
     <string name="playback_buffer_extra_large">Вельмі вялікі</string>
     <string name="codec_level_manual">Ручное перавызначэнне</string>

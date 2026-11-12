@@ -353,7 +353,7 @@
     <string name="discovered_servers_empty">ไม่พบเซิร์ฟเวอร์ในเครือข่ายท้องถิ่น</string>
     <string name="connect_manually_by_address">ป้อนที่อยู่เซิร์ฟเวอร์</string>
     <string name="login_help_title">ต้องการความช่วยเหลือ?</string>
-    <string name="login_help_description">Jellyfin จำเป็นต้องเชื่อมต่อกับเซิร์ฟเวอร์ เข้าชมเอกสารคู่มือได้ที่ docs.jellyfin.org หรือสแกนคิวอาร์โค้ดเพื่อเริ่มต้นใช้งาน Jellyfin</string>
+    <string name="login_help_description">Home Cartoon จำเป็นต้องเชื่อมต่อกับเซิร์ฟเวอร์ เข้าชมเอกสารคู่มือได้ที่ docs.jellyfin.org หรือสแกนคิวอาร์โค้ดเพื่อเริ่มต้นใช้งาน Home Cartoon</string>
     <string name="pref_watched_indicator">แสดงสัญลักษณ์รับชมแล้ว</string>
     <string name="lbl_hide_unwatched_count">เมื่อรับชมรายการแล้ว</string>
     <string name="lbl_hide_watched_checkmark">เมื่อยังมีตอนคงเหลือ</string>
@@ -366,10 +366,10 @@
     <string name="user_picker_last_user_summary">ใช้บัญชีที่มีการใช้งานล่าสุด</string>
     <string name="lbl_switch_user">สลับบัญชี</string>
     <string name="pref_theme_muted_purple">ม่วงโทนหม่น</string>
-    <string name="no_network_permissions">Jellyfin จำเป็นต้องได้รับอนุญาตสิทธิ์เครือข่ายเพื่อทำงาน</string>
+    <string name="no_network_permissions">Home Cartoon จำเป็นต้องได้รับอนุญาตสิทธิ์เครือข่ายเพื่อทำงาน</string>
     <string name="press_to_close">กดเพื่อปิด</string>
     <string name="saved_servers">เซิร์ฟเวอร์ที่บันทึกไว้</string>
-    <string name="welcome_title">ยินดีต้อนรับสู่ Jellyfin!</string>
+    <string name="welcome_title">ยินดีต้อนรับสู่ Home Cartoon!</string>
     <string name="welcome_content">เชื่อมต่อกับเซิร์ฟเวอร์ของคุณเพื่อเริ่มใช้งาน</string>
     <string name="no_user_warning">ไม่พบบัญชีใดๆ!\nเพิ่มบัญชีใหม่โดยกดปุ่ม \"เพิ่มบัญชี\"</string>
     <string name="who_is_watching">ใครกำลังรับชมอยู่?</string>
@@ -398,7 +398,7 @@
     <string name="advanced_settings">ขั้นสูง</string>
     <string name="select_version">เวอร์ชัน</string>
     <string name="licenses_link">สัญญาอนุญาต</string>
-    <string name="licenses_link_description">ดูสัญญาอนุญาตของไลบรารีที่ใช้ในแอป Jellyfin</string>
+    <string name="licenses_link_description">ดูสัญญาอนุญาตของไลบรารีที่ใช้ในแอป Home Cartoon</string>
     <string name="license_description">คำอธิบาย</string>
     <string name="license_version">เวอร์ชัน</string>
     <string name="license_artifact">ไฟล์ประกอบ</string>
@@ -418,7 +418,7 @@
     <string name="home_section_livetv">ทีวีถ่ายทอดสด</string>
     <string name="home_section_none">ไม่มี</string>
     <string name="home_section_i">ส่วนหน้าหลัก %1$d</string>
-    <string name="searchable_hint">ค้นหาใน Jellyfin</string>
+    <string name="searchable_hint">ค้นหาใน Home Cartoon</string>
     <string name="searchable_settings_description">สื่อ</string>
     <string name="pref_subtitles_background_title">เปิดใช้งานพื้นหลัง</string>
     <string name="pref_subtitles_background_summary">แสดงพื้นหลังสีดำด้านหลังคำบรรยาย</string>
@@ -463,7 +463,7 @@
     <string name="lbl_season_number">S%1$d</string>
     <string name="pref_subtitles">คำบรรยาย</string>
     <string name="login_other_options">ตัวเลือกอื่น ๆ:</string>
-    <string name="login_quickconnect_step_1">1. เปิดแอป Jellyfin บนโทรศัพท์หรือเว็บเบราว์เซอร์ แล้วเข้าสู่ระบบด้วยบัญชีของคุณ</string>
+    <string name="login_quickconnect_step_1">1. เปิดแอป Home Cartoon บนโทรศัพท์หรือเว็บเบราว์เซอร์ แล้วเข้าสู่ระบบด้วยบัญชีของคุณ</string>
     <string name="login_quickconnect_step_2">2. เปิดเมนูผู้ใช้แล้วไปที่หน้า Quick Connect</string>
     <string name="login_quickconnect_step_3">3. กรอกรหัสต่อไปนี้:</string>
     <string name="lbl_refresh_switching">การสลับรีเฟรชเรต</string>
@@ -472,7 +472,7 @@
     <string name="action_connect">เชื่อมต่อ</string>
     <string name="live_tv_preferences">ตัวเลือกทีวีถ่ายทอดสด</string>
     <string name="app_notification_uimode_invalid">แอปนี้ได้รับการปรับแต่งสำหรับทีวี แนะนำให้ใช้แอปเวอร์ชันมือถือสำหรับอุปกรณ์อื่น</string>
-    <string name="server_unsupported_notification">เซิร์ฟเวอร์นี้ใช้ Jellyfin เวอร์ชัน %1$s ซึ่งไม่รองรับ โปรดอัปเดตเป็น Jellyfin %2$s หรือใหม่กว่าเพื่อใช้งานต่อ</string>
+    <string name="server_unsupported_notification">เซิร์ฟเวอร์นี้ใช้ Home Cartoon เวอร์ชัน %1$s ซึ่งไม่รองรับ โปรดอัปเดตเป็น Home Cartoon %2$s หรือใหม่กว่าเพื่อใช้งานต่อ</string>
     <string name="pref_telemetry_category">การรายงานข้อผิดพลาด</string>
     <string name="pref_telemetry_description">ส่งรายงานข้อผิดพลาด และแนบไฟล์บันทึก</string>
     <string name="pref_crash_reports">ส่งรายงานข้อผิดพลาดไปยังเซิร์ฟเวอร์</string>
@@ -481,10 +481,10 @@
     <string name="pref_crash_report_logs">แนบไฟล์บันทึก (Logs)</string>
     <string name="pref_crash_report_logs_enabled">ไฟล์บันทึกจะถูกแนบไปกับรายงานข้อผิดพลาด</string>
     <string name="pref_crash_report_logs_disabled">ไฟล์บันทึกจะไม่ถูกแนบไปกับรายงานข้อผิดพลาด</string>
-    <string name="crash_report_toast">อุ๊ปส์! เกิดข้อผิดพลาดขึ้น รายงานข้อผิดพลาดถูกส่งไปยังเซิร์ฟเวอร์ Jellyfin ของคุณแล้ว</string>
-    <string name="server_setup_incomplete">การตั้งค่าเซิร์ฟเวอร์นี้ยังไม่เสร็จสมบูรณ์ โปรดเปิด Jellyfin บนเว็บเบราว์เซอร์เพื่อตั้งค่าให้เสร็จสิ้นก่อนเข้าสู่ระบบ</string>
+    <string name="crash_report_toast">อุ๊ปส์! เกิดข้อผิดพลาดขึ้น รายงานข้อผิดพลาดถูกส่งไปยังเซิร์ฟเวอร์ Home Cartoon ของคุณแล้ว</string>
+    <string name="server_setup_incomplete">การตั้งค่าเซิร์ฟเวอร์นี้ยังไม่เสร็จสมบูรณ์ โปรดเปิด Home Cartoon บนเว็บเบราว์เซอร์เพื่อตั้งค่าให้เสร็จสิ้นก่อนเข้าสู่ระบบ</string>
     <string name="episode_name_special">ตอนพิเศษ</string>
-    <string name="app_notification_beta">อัปเดตแอปเป็นเวอร์ชัน %1$s แล้ว\nขอบคุณที่ร่วมทดสอบโปรแกรม Jellyfin Beta</string>
+    <string name="app_notification_beta">อัปเดตแอปเป็นเวอร์ชัน %1$s แล้ว\nขอบคุณที่ร่วมทดสอบโปรแกรม Home Cartoon Beta</string>
     <string name="item_deletion_failed">ไม่สามารถลบ %1$s ได้</string>
     <string name="pref_enable_media_management">เปิดใช้งานการจัดการสื่อ</string>
     <string name="pref_enable_media_management_description">แสดงตัวเลือกในการจัดการสื่อขณะเลือกดู</string>
@@ -493,7 +493,7 @@
     <string name="item_delete_confirm_message">คุณแน่ใจหรือไม่ว่าต้องการลบรายการนี้ออกจากเซิร์ฟเวอร์? การดำเนินการนี้ไม่สามารถย้อนกลับได้</string>
     <string name="pref_screensaver">โปรแกรมรักษาหน้าจอ</string>
     <string name="pref_screensaver_inapp_enabled">ใช้โปรแกรมรักษาหน้าจอภายในแอป</string>
-    <string name="pref_screensaver_inapp_enabled_description">แสดงโปรแกรมรักษาหน้าจอ Jellyfin ขณะเปิดแอปทิ้งไว้</string>
+    <string name="pref_screensaver_inapp_enabled_description">แสดงโปรแกรมรักษาหน้าจอ Home Cartoon ขณะเปิดแอปทิ้งไว้</string>
     <string name="pref_screensaver_inapp_timeout">เริ่มโปรแกรมรักษาหน้าจอหลังจาก</string>
     <string name="enable_reactive_homepage">เปิดใช้งานหน้าหลักแบบปรับเปลี่ยนตามการใช้งาน</string>
     <string name="not_set">ไม่ได้ตั้งค่า</string>
@@ -543,9 +543,9 @@
     <string name="pref_subtitles_background_opacity">ความทึบของพื้นหลังคำบรรยาย</string>
     <string name="pref_troubleshooting">การแก้ไขปัญหา</string>
     <string name="pref_report_device_profile_title">รายงานความสามารถในการเล่นของอุปกรณ์ไปยังเซิร์ฟเวอร์</string>
-    <string name="pref_report_device_profile_summary">อัปโหลดเอกสารการแก้ไขปัญหาไปยังเซิร์ฟเวอร์ Jellyfin พร้อมข้อมูลเกี่ยวกับความสามารถในการเล่น</string>
+    <string name="pref_report_device_profile_summary">อัปโหลดเอกสารการแก้ไขปัญหาไปยังเซิร์ฟเวอร์ Home Cartoon พร้อมข้อมูลเกี่ยวกับความสามารถในการเล่น</string>
     <string name="pref_report_device_profile_success">ส่งเอกสารในชื่อ %1$s แล้ว</string>
-    <string name="pref_report_device_profile_failure">ส่งเอกสารไม่สำเร็จ เซิร์ฟเวอร์ Jellyfin ของคุณอาจไม่อนุญาตให้บันทึกบันทึกการทำงานของไคลเอ็นต์</string>
+    <string name="pref_report_device_profile_failure">ส่งเอกสารไม่สำเร็จ เซิร์ฟเวอร์ Home Cartoon ของคุณอาจไม่อนุญาตให้บันทึกบันทึกการทำงานของไคลเอ็นต์</string>
     <string name="fast_forward">กรอไปข้างหน้า</string>
     <string name="rewind">กรอกลับ</string>
     <string name="pref_burn_subtitles_when_transcoding">ฝังคำบรรยายลงในวิดีโอเมื่อแปลงรหัส</string>
@@ -580,7 +580,7 @@
     <string name="color_alpha">ความโปร่งใส</string>
     <string name="video_player_internal">เครื่องเล่นวิดีโอในตัว</string>
     <string name="video_player_external">แอปภายนอก</string>
-    <string name="playback_video_player_external_empty">ไม่พบแอปเครื่องเล่นวิดีโอในอุปกรณ์ที่สามารถเปิดวิดีโอ Jellyfin ได้</string>
+    <string name="playback_video_player_external_empty">ไม่พบแอปเครื่องเล่นวิดีโอในอุปกรณ์ที่สามารถเปิดวิดีโอ Home Cartoon ได้</string>
     <string name="filters">ตัวกรอง</string>
     <string name="backdrop_behavior_with_blur">ภาพพื้นหลังแบบเบลอ</string>
     <string name="backdrop_behavior_without_blur">ภาพพื้นหลังแบบไม่เบลอ</string>
@@ -672,7 +672,7 @@
     <string name="home_next_up_max_days">วันที่ตัดรอบถัดไป</string>
     <string name="home_next_up_max_days_disabled">ปิดใช้งาน</string>
     <string name="tv_provider_enabled">ผสานการทำงานกับหน้าหลักของ Android TV</string>
-    <string name="tv_provider_enabled_description">แสดงช่องและรายการแนะนำของ Jellyfin บนหน้าจอหลักของ Android TV</string>
+    <string name="tv_provider_enabled_description">แสดงช่องและรายการแนะนำของ Home Cartoon บนหน้าจอหลักของ Android TV</string>
     <plurals name="days">
         <item quantity="other">%1$s วัน</item>
     </plurals>

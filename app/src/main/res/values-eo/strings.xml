@@ -92,7 +92,7 @@
     <string name="lbl_valid_server_address">Entajpi la servilan adreson (IP aŭ domajna/maŝina nomo)</string>
     <string name="lbl_enter_server_address">Entajpi servilan adreson</string>
     <string name="lbl_tv_channel_status">%1$d de %2$d kanaloj</string>
-    <string name="welcome_title">Bonvenon al Jellyfin!</string>
+    <string name="welcome_title">Bonvenon al Home Cartoon!</string>
     <string name="lbl_sign_in">Ensaluti</string>
     <string name="lbl_colored_backgrounds">Kolorkoditaj Fonoj</string>
     <string name="lbl_more_like_this">Pli Ĉi Tiel</string>
@@ -125,7 +125,7 @@
     <string name="lbl_episode_number">E%1$d</string>
     <string name="lbl_season_number">S%1$d</string>
     <string name="loading">Ŝarĝas…</string>
-    <string name="no_network_permissions">Jellyfin bezonas retajn permesojn por funkcii</string>
+    <string name="no_network_permissions">Home Cartoon bezonas retajn permesojn por funkcii</string>
     <string name="user_picker_disable_summary">Ĉiam montri la ensalutan ekranon</string>
     <string name="lbl_use_series_thumbnails_description">Uzi seriajn avizojn kiam montri epizodojn</string>
     <string name="discovered_servers_empty">Neniuj serviloj troviĝis en loka reto.</string>
@@ -336,7 +336,7 @@
     <string name="no_program_data">Neniu \"Program Data\" Disponeblaj</string>
     <string name="lbl_show_backdrop">Montri dorsbildojn</string>
     <string name="lbl_bitstream_ac3">Bitfluo de Dolby Digital aŭdio</string>
-    <string name="licenses_link_description">Rigardi la permesilojn de la kodotekoj uzataj de la Jellyfin-apo</string>
+    <string name="licenses_link_description">Rigardi la permesilojn de la kodotekoj uzataj de la Home Cartoon-apo</string>
     <string name="always_authenticate_description">Ebligi ĉi tiun funkcion malebligas aŭtomatan ensaluton</string>
     <string name="enable_playback_module_description">Ĉi tio estas eksperimenta funkcio. Neniu subteno estas provizita.</string>
     <string name="lbl_start_end_on_schedule">Komencanta laŭ Horaro kaj Finonta laŭ Horaro</string>
@@ -346,7 +346,7 @@
     <string name="no_user_warning">Ni ne povis trovi ajnajn uzantojn!
 \nAldoni novan konton premante la butonon \"Aldoni konton\".</string>
     <string name="welcome_content">Konekti al via servilo por komenci.</string>
-    <string name="login_help_description">Jellyfin bezonas servilon por konektiĝi. Viziti nian dokumentaron ĉe docs.jellyfin.org aŭ skani la QR-kodon por komenci kun Jellyfin.</string>
+    <string name="login_help_description">Home Cartoon bezonas servilon por konektiĝi. Viziti nian dokumentaron ĉe docs.jellyfin.org aŭ skani la QR-kodon por komenci kun Home Cartoon.</string>
     <string name="enable_smart_view_description">Inteligenta ekrano montras koncernajn aĵojn anstataŭ krado</string>
     <string name="lbl_remove_users">Ĉi tio ankaŭ forigos ĉiujn asocigitajn kontojn</string>
     <string name="episode_missing_message_2">Ĉi tiu epizodo mankas el via plurmediteko. Ludado estos haltata.</string>
@@ -368,7 +368,7 @@
     <string name="home_section_library">Miaj Plurmedioj</string>
     <string name="home_section_latest_media">Plej Novaj Plurmedioj</string>
     <string name="home_prefs">Hejmo</string>
-    <string name="searchable_hint">Serĉo de Jellyfin</string>
+    <string name="searchable_hint">Serĉo de Home Cartoon</string>
     <string name="searchable_settings_description">Plurmedio</string>
     <string name="pref_subtitles_size">Teksta grandeco</string>
     <string name="pref_subtitles_background_summary">Montri nigran fonon malantaŭ la subtekstoj</string>
@@ -405,7 +405,7 @@
     <string name="lbl_shuffle_queue">Baskuligi Mikson</string>
     <string name="login_quickconnect_step_3">3. Enigu la sekvan kodon:</string>
     <string name="login_quickconnect_step_2">2. Malfermu la uzantan menuon kaj iru al la paĝo de Rapida Konekto</string>
-    <string name="login_quickconnect_step_1">1. Malfermu la Jellyfin-apon en via telefono aŭ retumilon, kaj ensalutu per via konto</string>
+    <string name="login_quickconnect_step_1">1. Malfermu la Home Cartoon-apon en via telefono aŭ retumilon, kaj ensalutu per via konto</string>
     <string name="login_other_options">Aliaj Opcioj:</string>
     <string name="login_connect_to">Konektante al %1$s</string>
     <string name="input_password">Pasvorto</string>
@@ -420,12 +420,12 @@
     <string name="lbl_subtitle_delay">Subteksta Prokrasto</string>
     <string name="live_tv_preferences">Eteraj TV opcioj</string>
     <string name="app_notification_uimode_invalid">Ĉi tiu apo estas optimumigita por televidiloj. Ni rekomendas uzi nian poŝtelefonan apon sur aliaj aparatoj.</string>
-    <string name="server_unsupported_notification">Ĉi tiu servilo uzas version %1$s de Jellyfin kiu estas nesubtenata. Ĝisdatigu al Jellyfin %2$s por daŭrigi uzi la apon.</string>
+    <string name="server_unsupported_notification">Ĉi tiu servilo uzas version %1$s de Home Cartoon kiu estas nesubtenata. Ĝisdatigu al Home Cartoon %2$s por daŭrigi uzi la apon.</string>
     <string name="image_size_xlarge">Ekstra Granda</string>
     <string name="image_size_smallest">La plej malgranda</string>
     <string name="image_type_poster">Afiŝo</string>
     <string name="lbl_additional_parts">Pliaj Partoj</string>
-    <string name="crash_report_toast">Ho ve! Io misfunkciis, kraŝraporto estis sendita al via Jellyfin-servilo.</string>
+    <string name="crash_report_toast">Ho ve! Io misfunkciis, kraŝraporto estis sendita al via Home Cartoon-servilo.</string>
     <string name="pref_crash_report_logs_disabled">Protokoloj ne estos inkluzivitaj en kraŝraportoj</string>
     <string name="pref_crash_report_logs_enabled">Protokoloj estos inkluzivitaj en kraŝraportoj</string>
     <string name="pref_crash_report_logs">Inkluzivi protokolojn</string>
@@ -434,6 +434,6 @@
     <string name="pref_crash_reports">Sendu kraŝraportojn al servilo</string>
     <string name="pref_telemetry_category">Kraŝraportado</string>
     <string name="pref_telemetry_description">Sendi kraŝraportojn, inkluzivi protokolojn</string>
-    <string name="server_setup_incomplete">La agordo de ĉi tiu servilo ne estas finita. Malfermu Jellyfin en TTT-foliumilo por fini agordon antaŭ ensaluti.</string>
+    <string name="server_setup_incomplete">La agordo de ĉi tiu servilo ne estas finita. Malfermu Home Cartoon en TTT-foliumilo por fini agordon antaŭ ensaluti.</string>
     <string name="episode_name_special">speciala</string>
 </resources>

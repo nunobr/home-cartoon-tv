@@ -357,7 +357,7 @@
     <string name="licenses_link_description">查看Jellyfin应用程序使用的库的许可证</string>
     <string name="licenses_link">许可证</string>
     <string name="searchable_settings_description">媒体</string>
-    <string name="searchable_hint">搜索 Jellyfin</string>
+    <string name="searchable_hint">搜索 Home Cartoon</string>
     <string name="home_section_i">首页部分 %1$d</string>
     <string name="home_section_none">从不</string>
     <string name="home_section_livetv">直播电视</string>
@@ -408,7 +408,7 @@
     <string name="pref_refresh_rate_scale_on_tv">在电视上缩放</string>
     <string name="login_quickconnect_step_3">3. 输入以下代码：</string>
     <string name="login_quickconnect_step_2">2. 打开用户菜单，进入 Quick Connect 页面</string>
-    <string name="login_quickconnect_step_1">1. 在手机或浏览器上打开 Jellyfin 应用程序，并使用您的帐户登录</string>
+    <string name="login_quickconnect_step_1">1. 在手机或浏览器上打开 Home Cartoon 应用程序，并使用您的帐户登录</string>
     <string name="login_other_options">其他选项：</string>
     <string name="login_connect_to">连接到 %1$s</string>
     <string name="input_password">密码</string>
@@ -428,19 +428,19 @@
     <string name="pref_crash_reports">发送崩溃报告到服务器</string>
     <string name="pref_telemetry_description">发送崩溃报告，包括日志</string>
     <string name="pref_telemetry_category">崩溃报告</string>
-    <string name="server_unsupported_notification">此服务器使用的 Jellyfin %1$s 版本不受支持。请更新到 Jellyfin %2$s 或更高版本以继续使用该程序。</string>
-    <string name="crash_report_toast">哎呀！出了点问题，崩溃日志已经发送到你的 Jellyfin 服务器。</string>
+    <string name="server_unsupported_notification">此服务器使用的 Home Cartoon %1$s 版本不受支持。请更新到 Home Cartoon %2$s 或更高版本以继续使用该程序。</string>
+    <string name="crash_report_toast">哎呀！出了点问题，崩溃日志已经发送到你的 Home Cartoon 服务器。</string>
     <string name="pref_crash_report_logs_disabled">日志将不会包含再崩溃报告中</string>
     <string name="pref_crash_report_logs_enabled">日志将包含在崩溃报告中</string>
     <string name="pref_crash_report_logs">包含日志</string>
     <string name="pref_crash_reports_disabled">不提交崩溃报告</string>
-    <string name="server_setup_incomplete">此服务器的设置尚未完成。 在浏览器中打开 Jellyfin 以完成设置，然后再登录。</string>
+    <string name="server_setup_incomplete">此服务器的设置尚未完成。 在浏览器中打开 Home Cartoon 以完成设置，然后再登录。</string>
     <string name="episode_name_special">别称</string>
     <string name="lbl_quality_profile">质量配置</string>
     <string name="desc_audio_night_mode">自动调平音量</string>
     <string name="pref_audio_night_mode">音频夜间模式（实验性）</string>
     <string name="app_notification_beta">应用已更新至 %1$s
-\n感谢您参与 Jellyfin 测试计划。</string>
+\n感谢您参与 Home Cartoon 测试计划。</string>
     <string name="color_white">白色</string>
     <string name="color_black">黑色</string>
     <string name="color_darkgrey">深灰色</string>
@@ -457,7 +457,7 @@
     <string name="item_delete_confirm_title">删除</string>
     <string name="item_delete_confirm_message">您确定要从服务器删除此项目吗？此操作无法撤消。</string>
     <string name="pref_screensaver_inapp_enabled">使用应用内的屏保</string>
-    <string name="pref_screensaver_inapp_enabled_description">在应用开启时显示 Jellyfin 屏保</string>
+    <string name="pref_screensaver_inapp_enabled_description">在应用开启时显示 Home Cartoon 屏保</string>
     <string name="pref_screensaver_inapp_timeout">在多长时间后开始屏保</string>
     <string name="pref_screensaver">屏幕保护程序</string>
     <plurals name="minutes">
@@ -553,7 +553,7 @@
     <string name="runtime_minutes">%1$d分钟</string>
     <string name="runtime_hours_minutes">%1$d小时 %2$d分钟</string>
     <string name="pref_subtitles_background_opacity">字幕背景不透明度</string>
-    <string name="pref_report_device_profile_failure">无法提交文件。你的 Jellyfin 服务器可能不允许用户端日志。</string>
+    <string name="pref_report_device_profile_failure">无法提交文件。你的 Home Cartoon 服务器可能不允许用户端日志。</string>
     <string name="pref_troubleshooting">疑难排解</string>
     <string name="pref_report_device_profile_title">向服务器回报播放能力</string>
     <string name="pref_report_device_profile_summary">上传含有播放能力的疑难排解文件至伺服器</string>
@@ -604,7 +604,7 @@
     <string name="playback_video_player">视频播放器</string>
     <string name="video_player_internal">内置视频播放器</string>
     <string name="video_player_external">外部应用程序</string>
-    <string name="playback_video_player_external_empty">您的设备上没有安装任何可以播放 Jellyfin 视频的播放器应用程序。</string>
+    <string name="playback_video_player_external_empty">您的设备上没有安装任何可以播放 Home Cartoon 视频的播放器应用程序。</string>
     <string name="filters">筛选器</string>
     <string name="backdrop_behavior_with_blur">模糊背景</string>
     <string name="backdrop_behavior_without_blur">无模糊背景</string>

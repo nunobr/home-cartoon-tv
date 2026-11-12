@@ -290,7 +290,7 @@
     <string name="lbl_remove_user_content">Account verwijderen</string>
     <string name="lbl_remove_users">Dit zal ook alle bijbehorende accounts verwijderen</string>
     <string name="lbl_manage_servers">Servers beheren</string>
-    <string name="login_help_description">Jellyfin vereist een server om mee te verbinden. Raadpleeg onze documentatie op docs.jellyfin.org of scan de QR-code om met Jellyfin van start te gaan.</string>
+    <string name="login_help_description">Home Cartoon vereist een server om mee te verbinden. Raadpleeg onze documentatie op docs.jellyfin.org of scan de QR-code om met Home Cartoon van start te gaan.</string>
     <string name="login_help_title">Hulp nodig\?</string>
     <string name="connect_manually_by_address">Serveradres invoeren</string>
     <string name="discovered_servers_empty">Geen servers gevonden op het lokale netwerk.</string>
@@ -305,7 +305,7 @@
     <string name="lbl_use_series_thumbnails_description">Serieminiatuur gebruiken bij weergeven van afleveringen</string>
     <string name="lbl_use_series_thumbnails">Voorkeur voor serieminiaturen</string>
     <string name="lbl_sign_out_content">De volgende keer is aanmelden vereist</string>
-    <string name="no_network_permissions">Jellyfin heeft netwerktoestemming nodig om te functioneren</string>
+    <string name="no_network_permissions">Home Cartoon heeft netwerktoestemming nodig om te functioneren</string>
     <string name="lbl_switch_user">Account wisselen</string>
     <string name="pref_theme_muted_purple">Muted purple</string>
     <string name="lbl_hide_unwatched_count">Als het item is gekeken</string>
@@ -336,7 +336,7 @@
     <string name="no_user_warning">Er zijn geen accounts gevonden!
 \nVoeg een nieuw account toe met de knop \"Account toevoegen\".</string>
     <string name="welcome_content">Maak verbinding met je server om te beginnen.</string>
-    <string name="welcome_title">Welkom bij Jellyfin!</string>
+    <string name="welcome_title">Welkom bij Home Cartoon!</string>
     <string name="saved_servers">Opgeslagen servers</string>
     <string name="pref_next_up_behavior_title">Informatie volgende video tonen</string>
     <string name="lbl_fit">Normaal</string>
@@ -347,7 +347,7 @@
     <string name="lbl_starting_early_ending_on_schedule">Begint %1$s eerder en eindigt op schema</string>
     <string name="lbl_starting_early_ending_after">Begint %1$s eerder en eindigt %2$s na schema</string>
     <string name="searchable_settings_description">Media</string>
-    <string name="searchable_hint">Jellyfin doorzoeken</string>
+    <string name="searchable_hint">Home Cartoon doorzoeken</string>
     <string name="home_section_none">Geen</string>
     <string name="home_section_livetv">Live-tv</string>
     <string name="home_section_active_recordings">Actieve opnames</string>
@@ -373,7 +373,7 @@
     <string name="pref_subtitles_background_summary">Toon de ondertiteling met een zwarte achtergrond</string>
     <string name="home_section_next_up">Volgende</string>
     <string name="home_section_library_small">Mijn media (klein)</string>
-    <string name="licenses_link_description">Bekijk de licenties van de bibliotheken die door de Jellyfin-app worden gebruikt</string>
+    <string name="licenses_link_description">Bekijk de licenties van de bibliotheken die door de Home Cartoon-app worden gebruikt</string>
     <string name="server_issue_unsupported_version">Server gebruikt niet-ondersteunde versie %1$s</string>
     <string name="lbl_playback_speed">Afspeelsnelheid</string>
     <string name="pref_playback_description">Beeld, ondertiteling, live-tv, volgende</string>
@@ -406,7 +406,7 @@
     <string name="action_connect">Verbinden</string>
     <string name="login_quickconnect_step_3">3. Voer de volgende code in:</string>
     <string name="login_quickconnect_step_2">2. Open het gebruikersmenu en ga naar de Quick Connect-pagina</string>
-    <string name="login_quickconnect_step_1">1. Open Jellyfin op je telefoon of in je webbrowser en meld je aan met je account</string>
+    <string name="login_quickconnect_step_1">1. Open Home Cartoon op je telefoon of in je webbrowser en meld je aan met je account</string>
     <string name="login_other_options">Andere opties:</string>
     <string name="login_connect_to">Verbinden met %1$s</string>
     <string name="input_password">Wachtwoord</string>
@@ -427,7 +427,7 @@
     <string name="lbl_additional_parts">Extra onderdelen</string>
     <string name="color_darkgrey">Donkergrijs</string>
     <string name="app_notification_uimode_invalid">Deze app is geoptimaliseerd voor televisies. Op andere apparaten adviseren we onze mobiele app te gebruiken.</string>
-    <string name="server_unsupported_notification">Deze server gebruikt versie %1$s van Jellyfin, die niet wordt ondersteund. We adviseren bij te werken naar Jellyfin %2$s of nieuwer om de app te blijven gebruiken.</string>
+    <string name="server_unsupported_notification">Deze server gebruikt versie %1$s van Home Cartoon, die niet wordt ondersteund. We adviseren bij te werken naar Home Cartoon %2$s of nieuwer om de app te blijven gebruiken.</string>
     <string name="pref_telemetry_category">Crashrapportage</string>
     <string name="pref_crash_reports_disabled">Crashrapporten worden niet verstuurd</string>
     <string name="lbl_quality_profile">Kwaliteitsprofiel</string>
@@ -446,10 +446,10 @@
     <string name="episode_name_special">special</string>
     <string name="pref_crash_report_logs_disabled">Logboeken worden niet bijgevoegd bij crashrapporten</string>
     <string name="app_notification_beta">App bijgewerkt naar %1$s
-\nBedankt voor je deelname aan het bètaprogramma van Jellyfin.</string>
-    <string name="crash_report_toast">Oeps! Er is iets misgegaan; er is een crashrapport naar je Jellyfin-server verzonden.</string>
+\nBedankt voor je deelname aan het bètaprogramma van Home Cartoon.</string>
+    <string name="crash_report_toast">Oeps! Er is iets misgegaan; er is een crashrapport naar je Home Cartoon-server verzonden.</string>
     <string name="pref_crash_report_logs_enabled">Logboeken worden bijgevoegd bij crashrapporten</string>
-    <string name="server_setup_incomplete">Het instellen van deze server is nog niet voltooid. Open Jellyfin eerst in een webbrowser om het instellen te voltooien.</string>
+    <string name="server_setup_incomplete">Het instellen van deze server is nog niet voltooid. Open Home Cartoon eerst in een webbrowser om het instellen te voltooien.</string>
     <string name="pref_enable_media_management">Mediabeheer inschakelen</string>
     <string name="item_delete_confirm_title">Item verwijderen</string>
     <string name="item_deleted">%1$s verwijderd</string>
@@ -463,7 +463,7 @@
         <item quantity="other">%1$s seconden</item>
     </plurals>
     <string name="pref_screensaver_inapp_enabled">Schermbeveiliging van app gebruiken</string>
-    <string name="pref_screensaver_inapp_enabled_description">Toon de Jellyfin-schermbeveiliging als de app geopend is</string>
+    <string name="pref_screensaver_inapp_enabled_description">Toon de Home Cartoon-schermbeveiliging als de app geopend is</string>
     <plurals name="minutes">
         <item quantity="one">%1$s minuut</item>
         <item quantity="other">%1$s minuten</item>
@@ -565,9 +565,9 @@
     <string name="pref_subtitles_background_opacity">Opaciteit ondertitelingsachtergrond</string>
     <string name="pref_troubleshooting">Probleemoplossing</string>
     <string name="pref_report_device_profile_success">Document ingediend als %1$s</string>
-    <string name="pref_report_device_profile_failure">Document indienen mislukt. Je Jellyfin-server verbiedt mogelijk cliëntlogboeken.</string>
+    <string name="pref_report_device_profile_failure">Document indienen mislukt. Je Home Cartoon-server verbiedt mogelijk cliëntlogboeken.</string>
     <string name="pref_report_device_profile_title">Afspeelmogelijkheden aan server rapporteren</string>
-    <string name="pref_report_device_profile_summary">Upload een probleemoplossingsdocument met informatie over afspeelmogelijkheden naar de Jellyfin-server</string>
+    <string name="pref_report_device_profile_summary">Upload een probleemoplossingsdocument met informatie over afspeelmogelijkheden naar de Home Cartoon-server</string>
     <string name="indicator_subtitles_hearing_impaired">ODS</string>
     <string name="rewind">Terugspoelen</string>
     <string name="fast_forward">Vooruitspoelen</string>
@@ -614,7 +614,7 @@
     <string name="video_player_external">Externe app</string>
     <string name="playback_video_player">Videospeler</string>
     <string name="video_player_internal">Ingebouwde videospeler</string>
-    <string name="playback_video_player_external_empty">Je hebt geen apps op je apparaat staan die video\'s van Jellyfin kunnen afspelen.</string>
+    <string name="playback_video_player_external_empty">Je hebt geen apps op je apparaat staan die video\'s van Home Cartoon kunnen afspelen.</string>
     <string name="filters">Filters</string>
     <string name="backdrop_behavior_with_blur">Achtergrond met vervaging</string>
     <string name="backdrop_behavior_without_blur">Achtergrond zonder vervaging</string>
@@ -696,7 +696,7 @@
     </plurals>
     <string name="home_next_up_max_days_disabled">Uitgeschakeld</string>
     <string name="home_next_up_max_days">Aantal dagen in \'Volgende\'</string>
-    <string name="tv_provider_enabled_description">Toon Jellyfin-kanalen en -aanbevelingen op het startscherm van Android TV</string>
+    <string name="tv_provider_enabled_description">Toon Home Cartoon-kanalen en -aanbevelingen op het startscherm van Android TV</string>
     <string name="tv_provider_enabled">Integreren met Android TV-startscherm</string>
     <string name="lbl_3d">3D</string>
 </resources>

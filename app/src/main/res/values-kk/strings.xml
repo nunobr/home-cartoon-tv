@@ -308,14 +308,14 @@
     <string name="user_picker_disable_title">Öşıru</string>
     <string name="auto_sign_in">Avtomatty kıru</string>
     <string name="lbl_switch_user">Tırkelgı auystyru</string>
-    <string name="no_network_permissions">Jellyfin jūmys ısteu üşın jelılık rūqsattar qajet</string>
+    <string name="no_network_permissions">Home Cartoon jūmys ısteu üşın jelılık rūqsattar qajet</string>
     <string name="pref_theme_muted_purple">Bäseñdetılgen küreñ</string>
     <string name="no_user_warning">Bırde-bır tırkelgı tabylmady!
 \n«Tırkelgı üsteu» tüimeşıgın basyp jaña tırkelgını üsteñız.</string>
     <string name="welcome_content">Bastau üşın serverıñızge qosylyñyz.</string>
     <string name="add_user">Tırkelgı üsteu</string>
     <string name="who_is_watching">Kım qarauda\?</string>
-    <string name="welcome_title">Jellyfin jūmysyn bastaimyz!</string>
+    <string name="welcome_title">Home Cartoon jūmysyn bastaimyz!</string>
     <string name="saved_servers">Saqtalğan serverler</string>
     <string name="press_to_close">Jabu üşın basyñyz</string>
     <string name="lbl_next_up_minimal">Nobaisyz</string>
@@ -348,7 +348,7 @@
     <string name="lbl_community_rating">Qauym bağalauy</string>
     <string name="select_version">Nūsqasy</string>
     <string name="license_version">Nūsqasy</string>
-    <string name="licenses_link_description">Jellyfin qoldanatın kıtaphanalardyñ lisenziyalaryn qarau</string>
+    <string name="licenses_link_description">Home Cartoon qoldanatın kıtaphanalardyñ lisenziyalaryn qarau</string>
     <string name="license_license">Lisenzia</string>
     <string name="license_author">Şyğarmaşy</string>
     <string name="license_repository">Repozitori</string>
@@ -368,7 +368,7 @@
     <string name="home_section_library">Menıñ tasyğyşderekterım</string>
     <string name="home_section_latest_media">Eñ keiıngı tasyğyşderekter</string>
     <string name="home_prefs">Basqy</string>
-    <string name="searchable_hint">Jellyfin ızdeuı</string>
+    <string name="searchable_hint">Home Cartoon ızdeuı</string>
     <string name="searchable_settings_description">Tasyğyşderekter</string>
     <string name="pref_subtitles_size">Mätın ölşemı</string>
     <string name="pref_subtitles_background_summary">Subtitrlerdıñ artynda qara öñ körsetu</string>
@@ -405,7 +405,7 @@
     <string name="lbl_shuffle_queue">Aralastyrudy qosu/öşıru</string>
     <string name="login_quickconnect_step_3">3. Kelesı kodty engızıñız:</string>
     <string name="login_quickconnect_step_2">2. Paidalanuşy mäzırın aşyp, Jyldam qosylu betıne ötıñız</string>
-    <string name="login_quickconnect_step_1">1. Telefondağy Jellyfin‐qoldanbany nemese ueb-şolğyşty aşyp, tirkelgiñiz arqyly kiriñiz</string>
+    <string name="login_quickconnect_step_1">1. Telefondağy Home Cartoon‐qoldanbany nemese ueb-şolğyşty aşyp, tirkelgiñiz arqyly kiriñiz</string>
     <string name="login_other_options">Basqa opsialar:</string>
     <string name="login_connect_to">%1$s üşın qosyluda</string>
     <string name="input_password">Paröl</string>
@@ -420,20 +420,20 @@
     <string name="lbl_subtitle_delay">Subtitrler kıdırısı</string>
     <string name="live_tv_preferences">Efirlık TD opsialary</string>
     <string name="app_notification_uimode_invalid">Būl qoldanba teledidarlar üşın oñtailandyrylğan. Basqa qūrylğylarda mobildy qoldanbamyzdy paidalanuyn ūsynamyz.</string>
-    <string name="server_unsupported_notification">Būl server Jellyfin %1$s nusqasyn paidalanady, oğan qoldau körsetılmeidı. Qoldanbany paidalanudy jalğastyru üşın Jellyfin %2$s nusqasyna jañartyñyz.</string>
+    <string name="server_unsupported_notification">Būl server Home Cartoon %1$s nusqasyn paidalanady, oğan qoldau körsetılmeidı. Qoldanbany paidalanudy jalğastyru üşın Home Cartoon %2$s nusqasyna jañartyñyz.</string>
     <string name="image_size_xlarge">Eñ ırı</string>
     <string name="image_size_smallest">Eñ ūsaq</string>
     <string name="image_type_poster">Poster</string>
     <string name="lbl_additional_parts">Jalğasatyn bölımder</string>
     <string name="pref_crash_report_logs">Jūrnaldardy engızıp</string>
     <string name="pref_telemetry_description">Jūrnaldardy engızıp aqau turaly habarlau</string>
-    <string name="crash_report_toast">Bırdeñe durys bolmady, qate turaly esep Jellyfin serverıne jıberıldı.</string>
+    <string name="crash_report_toast">Bırdeñe durys bolmady, qate turaly esep Home Cartoon serverıne jıberıldı.</string>
     <string name="pref_crash_report_logs_disabled">Jūrnaldar aqau habarlaryna engızılmeidı</string>
     <string name="pref_crash_report_logs_enabled">Jūrnaldar aqau habarlaryna engızıledı</string>
     <string name="pref_crash_reports_disabled">Aqau turaly habarlar jıberılmeidı</string>
     <string name="pref_crash_reports_enabled">Aqau turaly habarlar kein paidalanylğan serverge jıberıledı</string>
     <string name="pref_crash_reports">Aqau turaly habardy serverge jıberu</string>
     <string name="pref_telemetry_category">Aqau turaly habarlau</string>
-    <string name="server_setup_incomplete">Būl serverdıñ ornatuy aiaqtalmady. Kıru aldynda ornatudy aiaqtau üşın ueb-şolğyşta Jellyfin jüiesın aşyñyz.</string>
+    <string name="server_setup_incomplete">Būl serverdıñ ornatuy aiaqtalmady. Kıru aldynda ornatudy aiaqtau üşın ueb-şolğyşta Home Cartoon jüiesın aşyñyz.</string>
     <string name="episode_name_special">arnaiy</string>
 </resources>

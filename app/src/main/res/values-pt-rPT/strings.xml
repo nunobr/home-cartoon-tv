@@ -273,7 +273,7 @@
     <string name="lbl_subtitle_track">Selecionar faixa de legendas</string>
     <string name="lbl_audio_track">Selecionar faixa de áudio</string>
     <string name="lbl_pause">Pausar</string>
-    <string name="no_network_permissions">O Jellyfin precisa de permissões de rede para funcionar</string>
+    <string name="no_network_permissions">O Home Cartoon precisa de permissões de rede para funcionar</string>
     <string name="pref_theme_muted_purple">Roxo</string>
     <string name="lbl_switch_user">Alterar conta</string>
     <string name="user_picker_last_user_summary">Utilizar a última conta ativa</string>
@@ -285,7 +285,7 @@
     <string name="lbl_use_series_thumbnails">Preferir miniaturas de séries</string>
     <string name="lbl_hide_unwatched_count">Quando o item é visto</string>
     <string name="pref_watched_indicator">Mostrar indicadores de visto</string>
-    <string name="login_help_description">O Jellyfin precisa de um servidor para se ligar. Visita a nossa documentação em docs.jellyfin.org ou lê o código QR para começares a usar o Jellyfin.</string>
+    <string name="login_help_description">O Home Cartoon precisa de um servidor para se ligar. Visita a nossa documentação em docs.jellyfin.org ou lê o código QR para começares a usar o Home Cartoon.</string>
     <string name="login_help_title">Precisa de ajuda\?</string>
     <string name="connect_manually_by_address">Introduzir endereço do servidor</string>
     <string name="discovered_servers_empty">Servidores não encontrados na rede local.</string>
@@ -317,7 +317,7 @@
     <string name="license_artifact">Artefacto</string>
     <string name="license_version">Versão</string>
     <string name="license_description">Descrição</string>
-    <string name="licenses_link_description">Ver as liçensas das bibliotecas usadas pela app do Jellyfin</string>
+    <string name="licenses_link_description">Ver as liçensas das bibliotecas usadas pela app do Home Cartoon</string>
     <string name="licenses_link">Licenças</string>
     <string name="select_version">Versão</string>
     <string name="advanced_settings">Avançadas</string>
@@ -348,7 +348,7 @@
     <string name="no_user_warning">Não encontrámos nenhuma conta!
 \nAdiciona uma nova conta premindo o botão \"Adicionar conta\".</string>
     <string name="welcome_content">Conecte-se ao seu servidor para começar.</string>
-    <string name="welcome_title">Bem-vindo ao Jellyfin!</string>
+    <string name="welcome_title">Bem-vindo ao Home Cartoon!</string>
     <string name="saved_servers">Servidores guardados</string>
     <string name="press_to_close">Pressione para fechar</string>
     <string name="pref_next_up_behavior_title">Mostrar as informações do próximo vídeo</string>
@@ -388,7 +388,7 @@
     <string name="pref_subtitles_background_summary">Mostrar fundo negro sob as legendas</string>
     <string name="pref_subtitles_background_title">Ativar fundo</string>
     <string name="searchable_settings_description">Multimédia</string>
-    <string name="searchable_hint">Pesquisar Jellyfin</string>
+    <string name="searchable_hint">Pesquisar Home Cartoon</string>
     <string name="home_section_i">Secção de início %1$d</string>
     <string name="home_section_none">Nenhum</string>
     <string name="home_section_livetv">TV em direto</string>
@@ -432,21 +432,21 @@
     <string name="action_connect">Ligar</string>
     <string name="live_tv_preferences">Opções de TV em direto</string>
     <string name="app_notification_uimode_invalid">Esta aplicação está otimizada para televisores. Recomendamos que utilizes a nossa aplicação móvel noutros dispositivos.</string>
-    <string name="server_unsupported_notification">Este servidor utiliza a versão %1$s do Jellyfin, que não é suportada. Atualiza para o Jellyfin %2$s ou mais recente para continuares a utilizar a aplicação.</string>
+    <string name="server_unsupported_notification">Este servidor utiliza a versão %1$s do Home Cartoon, que não é suportada. Atualiza para o Home Cartoon %2$s ou mais recente para continuares a utilizar a aplicação.</string>
     <string name="pref_telemetry_category">Reportar problemas</string>
     <string name="pref_crash_reports_enabled">Relatórios de problemas serão enviados para o último servidor utilizado</string>
     <string name="pref_crash_report_logs_disabled">Os registos não serão incluídos nos relatórios de problemas</string>
-    <string name="server_setup_incomplete">A configuração deste servidor não foi concluída. Abra o Jellyfin num navegador web para terminar o processo antes de se autenticar.</string>
-    <string name="app_notification_beta">Aplicação atualizada para %1$s \nObrigado por participares no programa beta do Jellyfin.</string>
+    <string name="server_setup_incomplete">A configuração deste servidor não foi concluída. Abra o Home Cartoon num navegador web para terminar o processo antes de se autenticar.</string>
+    <string name="app_notification_beta">Aplicação atualizada para %1$s \nObrigado por participares no programa beta do Home Cartoon.</string>
     <string name="login_quickconnect_step_2">2. Abrir o menu do utilizador e ir para a página Ligação Rápida</string>
     <string name="login_quickconnect_step_3">3. Introduzir o seguinte código:</string>
     <string name="pref_telemetry_description">Enviar relatório de problemas, incluir registos</string>
     <string name="pref_crash_reports">Enviar relatório de problemas para o servidor</string>
     <string name="pref_crash_reports_disabled">Relatórios de problemas não serão submetidos</string>
-    <string name="login_quickconnect_step_1">1. Abrir a aplicação Jellyfin no teu telemóvel ou navegador de internet e iniciar sessão com a tua conta</string>
+    <string name="login_quickconnect_step_1">1. Abrir a aplicação Home Cartoon no teu telemóvel ou navegador de internet e iniciar sessão com a tua conta</string>
     <string name="pref_crash_report_logs">Incluir registos</string>
     <string name="pref_crash_report_logs_enabled">Os registos serão incluídos nos relatórios de problemas</string>
-    <string name="crash_report_toast">Ops! Algo correu mal, foi enviado um relatório do problema para o teu servidor Jellyfin.</string>
+    <string name="crash_report_toast">Ops! Algo correu mal, foi enviado um relatório do problema para o teu servidor Home Cartoon.</string>
     <string name="pref_refresh_rate_scale_on_device">Escala no dispositivo</string>
     <string name="episode_name_special">especial</string>
     <string name="pref_enable_media_management">Ativar a gestão de multimédia</string>
@@ -464,7 +464,7 @@
     <string name="enable_reactive_homepage">Ativar pagina inicial reativa</string>
     <string name="pref_screensaver">Papel de parede</string>
     <string name="pref_screensaver_inapp_enabled">Utilizar proteção de ecrã da aplicação</string>
-    <string name="pref_screensaver_inapp_enabled_description">Ver o papel de parede do Jellyfin enquanto a aplicação estiver aberta</string>
+    <string name="pref_screensaver_inapp_enabled_description">Ver o papel de parede do Home Cartoon enquanto a aplicação estiver aberta</string>
     <string name="pref_screensaver_inapp_timeout">Iniciar o papel de parede depois de</string>
     <string name="not_set">Não definido</string>
     <string name="lbl_album_artists">Artistas do album</string>
@@ -573,8 +573,8 @@
     <string name="runtime_minutes">%1$dm</string>
     <string name="pref_subtitles_background_opacity">Opacidade do fundo da legenda</string>
     <string name="pref_troubleshooting">Resolução de problemas</string>
-    <string name="pref_report_device_profile_summary">Carregar um documento de resolução de problemas para o servidor Jellyfin com informações sobre as capacidades de reprodução</string>
-    <string name="pref_report_device_profile_failure">Falha ao enviar o documento. O teu servidor Jellyfin pode estar a proibir registos de clientes.</string>
+    <string name="pref_report_device_profile_summary">Carregar um documento de resolução de problemas para o servidor Home Cartoon com informações sobre as capacidades de reprodução</string>
+    <string name="pref_report_device_profile_failure">Falha ao enviar o documento. O teu servidor Home Cartoon pode estar a proibir registos de clientes.</string>
     <string name="pref_report_device_profile_title">Relatar capacidades de reprodução ao servidor</string>
     <string name="pref_report_device_profile_success">Documento entregue como %1$s</string>
     <string name="indicator_subtitles_hearing_impaired">SDH</string>
@@ -623,7 +623,7 @@
     <string name="playback_video_player">Leitor de vídeo</string>
     <string name="video_player_internal">Leitor de vídeo embutido</string>
     <string name="video_player_external">Leitor de vídeo externo</string>
-    <string name="playback_video_player_external_empty">Não tem nenhum reprodutor de vídeo instalado no seu dispositivo que possa abrir vídeos do Jellyfin.</string>
+    <string name="playback_video_player_external_empty">Não tem nenhum reprodutor de vídeo instalado no seu dispositivo que possa abrir vídeos do Home Cartoon.</string>
     <string name="filters">Filtros</string>
     <string name="pref_burn_subtitles_when_transcoding_description">Queimar sempre as legendas no vídeo durante a transcodificação. Isto pode corrigir problemas de sincronização das legendas, mas desativa a personalização das mesmas.</string>
     <string name="backdrop_behavior_with_blur">Fundo com efeito desfocado</string>

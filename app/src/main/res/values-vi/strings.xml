@@ -269,7 +269,7 @@
     <string name="server_field_empty">Địa chỉ không được để trống</string>
     <string name="server_connection_failed">Không thể kết nối đến máy chủ</string>
     <string name="server_connecting">‎Đang kết nối tới ‎%1$s</string>
-    <string name="login_help_description">Jellyfin yêu cầu một máy chủ để kết nối. Truy cập tài liệu của chúng tôi tại docs.jellyfin.org hoặc quét mã QR để bắt đầu với Jellyfin.</string>
+    <string name="login_help_description">Home Cartoon yêu cầu một máy chủ để kết nối. Truy cập tài liệu của chúng tôi tại docs.jellyfin.org hoặc quét mã QR để bắt đầu với Home Cartoon.</string>
     <string name="login_help_title">Cần giúp đỡ\?</string>
     <string name="connect_manually_by_address">Nhập địa chỉ máy chủ</string>
     <string name="discovered_servers_empty">Không tìm thấy máy chủ trên mạng cục bộ.</string>
@@ -304,7 +304,7 @@
     <string name="user_picker_disable_title">Tắt</string>
     <string name="auto_sign_in">Đăng nhập tự động</string>
     <string name="lbl_switch_user">‎Chuyển tài khoản</string>
-    <string name="no_network_permissions">Jellyfin yêu cầu quyền mạng để hoạt động</string>
+    <string name="no_network_permissions">Home Cartoon yêu cầu quyền mạng để hoạt động</string>
     <string name="lbl_time_range">%1$s–%2$s</string>
     <string name="lbl_name_date">%1$s (%2$s)</string>
     <string name="lbl_episode_range">E%1$d–%2$d</string>
@@ -327,7 +327,7 @@
     <string name="no_user_warning">Chúng tôi không thể tìm thấy bất kỳ tài khoản nào!
 \nThêm tài khoản mới bằng cách nhấn nút \"Thêm tài khoản\".</string>
     <string name="welcome_content">Kết nối với máy chủ của bạn để bắt đầu.</string>
-    <string name="welcome_title">Chào mừng bạn đến với Jellyfin!</string>
+    <string name="welcome_title">Chào mừng bạn đến với Home Cartoon!</string>
     <string name="saved_servers">Máy chủ đã lưu</string>
     <string name="press_to_close">Nhấn để đóng</string>
     <string name="pref_theme_muted_purple">Tím im lặng</string>
@@ -348,7 +348,7 @@
     <string name="license_artifact">Đồ tạo tác</string>
     <string name="license_version">Phiên bản</string>
     <string name="license_description">Mô tả</string>
-    <string name="licenses_link_description">Xem giấy phép của các thư viện được ứng dụng Jellyfin sử dụng</string>
+    <string name="licenses_link_description">Xem giấy phép của các thư viện được ứng dụng Home Cartoon sử dụng</string>
     <string name="licenses_link">Giấy phép</string>
     <string name="select_version">Phiên bản</string>
     <string name="home_section_i">Phần trang chủ %1$d</string>
@@ -361,7 +361,7 @@
     <string name="home_prefs">Trang Chủ</string>
     <string name="license_website">Trang web</string>
     <string name="searchable_settings_description">Phương tiện</string>
-    <string name="searchable_hint">Tìm kiếm Jellyfin</string>
+    <string name="searchable_hint">Tìm kiếm Home Cartoon</string>
     <string name="home_section_none">Không có</string>
     <string name="home_section_livetv">TV Trực Tiếp</string>
     <string name="home_section_next_up">Tiếp theo</string>
@@ -399,7 +399,7 @@
     <string name="pref_refresh_rate_scale_on_tv">Tỉ lệ trên TV</string>
     <string name="login_quickconnect_step_3">3. Nhập mã sau:</string>
     <string name="login_quickconnect_step_2">2. Mở menu người dùng và truy cập trang Kết Nối Nhanh</string>
-    <string name="login_quickconnect_step_1">1. Mở ứng dụng Jellyfin trên điện thoại hoặc trình duyệt web của bạn và đăng nhập bằng tài khoản của bạn</string>
+    <string name="login_quickconnect_step_1">1. Mở ứng dụng Home Cartoon trên điện thoại hoặc trình duyệt web của bạn và đăng nhập bằng tài khoản của bạn</string>
     <string name="login_other_options">Tùy chọn khác:</string>
     <string name="login_connect_to">Đang kết nối với %1$s</string>
     <string name="input_password">Mật khẩu</string>
@@ -413,7 +413,7 @@
     <string name="live_tv_preferences">Tùy chọn TV trực tiếp</string>
     <string name="pref_audio">Âm thanh</string>
     <string name="lbl_subtitle_delay">Độ trễ phụ đề</string>
-    <string name="crash_report_toast">Ôi ! Đã xảy ra sự cố, báo cáo sự cố đã được gửi tới máy chủ Jellyfin của bạn.</string>
+    <string name="crash_report_toast">Ôi ! Đã xảy ra sự cố, báo cáo sự cố đã được gửi tới máy chủ Home Cartoon của bạn.</string>
     <string name="pref_crash_report_logs_disabled">Nhật ký sẽ không được đưa vào báo cáo sự cố</string>
     <string name="pref_crash_report_logs_enabled">Nhật ký sẽ được đưa vào báo cáo sự cố</string>
     <string name="pref_crash_report_logs">Bao gồm nhật ký</string>
@@ -422,13 +422,13 @@
     <string name="pref_crash_reports">Gửi báo cáo sự cố đến máy chủ</string>
     <string name="pref_telemetry_description">Gửi báo cáo sự cố, bao gồm nhật ký</string>
     <string name="pref_telemetry_category">Báo cáo sự cố</string>
-    <string name="server_unsupported_notification">Máy chủ này sử dụng phiên bản Jellyfin %1$s không được hỗ trợ. Vui lòng cập nhật lên Jellyfin %2$s hoặc mới hơn để tiếp tục sử dụng ứng dụng.</string>
+    <string name="server_unsupported_notification">Máy chủ này sử dụng phiên bản Home Cartoon %1$s không được hỗ trợ. Vui lòng cập nhật lên Home Cartoon %2$s hoặc mới hơn để tiếp tục sử dụng ứng dụng.</string>
     <string name="app_notification_uimode_invalid">Ứng dụng này được tối ưu cho TV. Chúng tôi khuyên bạn nên dùng ứng dụng di động của chúng tôi trên các thiết bị khác.</string>
     <string name="image_size_xlarge">Cực Lớn</string>
     <string name="image_size_smallest">Nhỏ nhất</string>
     <string name="lbl_additional_parts">Phần bổ sung</string>
     <string name="episode_name_special">đặc biệt</string>
-    <string name="server_setup_incomplete">Việc thiết lập máy chủ này chưa được hoàn tất. Mở Jellyfin trong trình duyệt web để hoàn tất thiết lập trước khi đăng nhập.</string>
+    <string name="server_setup_incomplete">Việc thiết lập máy chủ này chưa được hoàn tất. Mở Home Cartoon trong trình duyệt web để hoàn tất thiết lập trước khi đăng nhập.</string>
     <string name="lbl_quality_profile">Hồ sơ chất lượng</string>
     <string name="desc_audio_night_mode">Tự động điều chỉnh âm lượng âm thanh</string>
     <string name="pref_audio_night_mode">Chế độ âm thanh ban đêm (thử nghiệm)</string>
@@ -436,7 +436,7 @@
     <string name="color_black">Đen</string>
     <string name="color_darkgrey">Xám đen</string>
     <string name="app_notification_beta">Ứng dụng đã cập nhật lên %1$s
-\nCảm ơn bạn tham gia chương trình Jellyfin beta.</string>
+\nCảm ơn bạn tham gia chương trình Home Cartoon beta.</string>
     <string name="color_red">Đỏ</string>
     <string name="color_green">Xanh lá</string>
     <string name="color_blue">Xanh lam</string>
@@ -467,7 +467,7 @@
     <plurals name="hours">
         <item quantity="other">%1$s giờ</item>
     </plurals>
-    <string name="pref_screensaver_inapp_enabled_description">Hiển thị trình bảo vệ màn hình Jellyfin khi ứng dụng đang mở</string>
+    <string name="pref_screensaver_inapp_enabled_description">Hiển thị trình bảo vệ màn hình Home Cartoon khi ứng dụng đang mở</string>
     <string name="disable_ui_mode_warning">Tắt cảnh báo loại thiết bị</string>
     <string name="because_you_watched">Bởi vì bạn đã xem %1$s</string>
     <string name="lbl_hide_watched_checkmark">Khi vãn còn tập</string>
@@ -529,8 +529,8 @@
     <string name="preference_enable_trickplay">Bật ảnh xem thử trong trình phát video</string>
     <string name="skip_forward_length">Bỏ qua chiều dài phía trước</string>
     <string name="pref_report_device_profile_success">Tài liệu được gửi là %1$s</string>
-    <string name="pref_report_device_profile_failure">Không gửi tài liệu. Máy chủ Jellyfin của bạn có thể cấm nhật ký máy khách.</string>
-    <string name="pref_report_device_profile_summary">Tải một tài liệu khắc phục sự cố lên máy chủ Jellyfin với thông tin về khả năng phát lại</string>
+    <string name="pref_report_device_profile_failure">Không gửi tài liệu. Máy chủ Home Cartoon của bạn có thể cấm nhật ký máy khách.</string>
+    <string name="pref_report_device_profile_summary">Tải một tài liệu khắc phục sự cố lên máy chủ Home Cartoon với thông tin về khả năng phát lại</string>
     <string name="pref_report_device_profile_title">Báo cáo khả năng phát lại cho máy chủ</string>
     <string name="pref_subtitles_background_opacity">Độ mờ nền phụ đề</string>
     <string name="pref_troubleshooting">Khắc phục sự cố</string>
@@ -604,7 +604,7 @@
     <string name="playback_video_player">Trình phát video</string>
     <string name="video_player_internal">Trình phát video tích hợp</string>
     <string name="video_player_external">Ứng dụng bên ngoài</string>
-    <string name="playback_video_player_external_empty">Bạn chưa cài đặt bất kỳ ứng dụng trình phát video nào trên thiết bị của mình có thể mở video Jellyfin.</string>
+    <string name="playback_video_player_external_empty">Bạn chưa cài đặt bất kỳ ứng dụng trình phát video nào trên thiết bị của mình có thể mở video Home Cartoon.</string>
     <string name="filters">Bộ lọc</string>
     <string name="playback_info">Thông tin phát lại</string>
     <string name="playback_info_play_method">Phương thức phát: %1$s</string>

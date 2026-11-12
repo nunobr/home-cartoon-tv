@@ -276,7 +276,7 @@
     <string name="lbl_use_series_thumbnails">Foretræk miniaturebilleder fra serie</string>
     <string name="lbl_hide_unwatched_count">Når emnet er afspillet</string>
     <string name="pref_watched_indicator">Vis indikator for afspillet</string>
-    <string name="login_help_description">Jellyfin kræver en server at forbinde til. Besøg vores dokumentation på docs.jellyfin.org for at komme igang med Jellyfin.</string>
+    <string name="login_help_description">Home Cartoon kræver en server at forbinde til. Besøg vores dokumentation på docs.jellyfin.org for at komme igang med Home Cartoon.</string>
     <string name="login_help_title">Brug for hjælp\?</string>
     <string name="connect_manually_by_address">Indtast server adresse</string>
     <string name="discovered_servers_empty">Ingen servere fundet på lokalt netværk.</string>
@@ -321,10 +321,10 @@
     <string name="no_user_warning">Vi kunne ikke finde nogen brugere!
 \nTilføj en ny bruger ved at trykke på \"Tilføj bruger\"-knappen.</string>
     <string name="welcome_content">Opret forbindelse til din server fro at starte.</string>
-    <string name="welcome_title">Velkommen til Jellyfin!</string>
+    <string name="welcome_title">Velkommen til Home Cartoon!</string>
     <string name="saved_servers">Gemte servere</string>
     <string name="press_to_close">Tryk for at lukke</string>
-    <string name="no_network_permissions">Jellyfin skal have netværk rettigheder for at fungere</string>
+    <string name="no_network_permissions">Home Cartoon skal have netværk rettigheder for at fungere</string>
     <string name="pref_theme_muted_purple">Afdæmpet lilla</string>
     <string name="lbl_switch_user">Skift bruger</string>
     <string name="image_size_xlarge">Ekstra stor</string>
@@ -340,8 +340,8 @@
     <string name="lbl_auto_crop">Automatisk beskæring</string>
     <string name="lbl_community_rating">Fællesskabsvurdering</string>
     <string name="state_disabled">Deaktiveret</string>
-    <string name="server_setup_incomplete">Opsætningen af denne server er ikke blevet gennemført. Åbn Jellyfin i en browser for at færdiggøre opsætningen før du logger ind.</string>
-    <string name="crash_report_toast">Ups! Noget gik galt, der er sendt en rapport om nedbruddet til din Jellyfin server.</string>
+    <string name="server_setup_incomplete">Opsætningen af denne server er ikke blevet gennemført. Åbn Home Cartoon i en browser for at færdiggøre opsætningen før du logger ind.</string>
+    <string name="crash_report_toast">Ups! Noget gik galt, der er sendt en rapport om nedbruddet til din Home Cartoon server.</string>
     <string name="pref_crash_report_logs_disabled">Logfiler vil ikke blive inkluderet i nedbrud rapporten</string>
     <string name="pref_crash_report_logs_enabled">Logfiler vil blive inkluderet i nedbrudsrapportering</string>
     <string name="pref_crash_report_logs">Inkluder logfiler</string>
@@ -350,7 +350,7 @@
     <string name="pref_crash_reports">Send nedbrud rapporter til serveren</string>
     <string name="pref_telemetry_description">Send nedbrud rapporter, inkluder logfiler</string>
     <string name="pref_telemetry_category">Rapportering ved nedbrud</string>
-    <string name="server_unsupported_notification">Denne server bruger Jellyfin version %1$s som ikke er understøttet. Opdater venligst til Jellyfin %2$s eller nyere for at bruge appen.</string>
+    <string name="server_unsupported_notification">Denne server bruger Home Cartoon version %1$s som ikke er understøttet. Opdater venligst til Home Cartoon %2$s eller nyere for at bruge appen.</string>
     <string name="app_notification_uimode_invalid">Denne app er optimeret til fjernsyn. Vi anbefaler at du bruger vores mobile app på andre enheder.</string>
     <string name="live_tv_preferences">Live TV muligheder</string>
     <string name="action_connect">Forbind</string>
@@ -358,7 +358,7 @@
     <string name="pref_refresh_rate_scale_on_tv">Skaler på TV</string>
     <string name="login_quickconnect_step_3">3. Indtast den følgende kode:</string>
     <string name="login_quickconnect_step_2">2. Åbn brugermenuen og gå til Lyn-forbind</string>
-    <string name="login_quickconnect_step_1">1. Åbn Jellyfin-appen på din telefon eller i browser, og log ind med din bruger</string>
+    <string name="login_quickconnect_step_1">1. Åbn Home Cartoon-appen på din telefon eller i browser, og log ind med din bruger</string>
     <string name="login_other_options">Andre muligheder:</string>
     <string name="login_connect_to">Tilslutter til %1$s</string>
     <string name="input_password">Adgangskode</string>
@@ -396,7 +396,7 @@
     <string name="pref_subtitles_background_summary">Vis en sort baggrund under undertekster</string>
     <string name="pref_subtitles_background_title">Aktiver baggrund</string>
     <string name="searchable_settings_description">Medie</string>
-    <string name="searchable_hint">Søg Jellyfin</string>
+    <string name="searchable_hint">Søg Home Cartoon</string>
     <string name="home_section_i">Hjem sektion %1$d</string>
     <string name="home_section_none">Ingen</string>
     <string name="home_section_livetv">Live TV</string>
@@ -416,7 +416,7 @@
     <string name="license_artifact">Artefakt</string>
     <string name="license_version">Version</string>
     <string name="license_description">Beskrivelse</string>
-    <string name="licenses_link_description">Vis mig licenserne for bibliotekerne der bruges af Jellyfin appen</string>
+    <string name="licenses_link_description">Vis mig licenserne for bibliotekerne der bruges af Home Cartoon appen</string>
     <string name="licenses_link">Licenser</string>
     <string name="select_version">Version</string>
     <string name="advanced_settings">Avanceret</string>
@@ -444,7 +444,7 @@
     <string name="color_yellow">Gul</string>
     <string name="color_pink">Lyse Rød</string>
     <string name="app_notification_beta">Appen er opdateret til %1$s
-\nTak fordi du deltager i Jellyfin beta programmet.</string>
+\nTak fordi du deltager i Home Cartoon beta programmet.</string>
     <string name="item_deleted">%1$s slettet</string>
     <string name="item_deletion_failed">Kunne ikke slette %1$s</string>
     <string name="pref_enable_media_management">Tillad medie håndtering</string>
@@ -480,7 +480,7 @@
         <item quantity="other">%1$s episoder</item>
     </plurals>
     <string name="pref_screensaver_inapp_timeout">Start pauseskærm efter</string>
-    <string name="pref_screensaver_inapp_enabled_description">Vis Jellyfin-pauseskærmen, mens appen er åben</string>
+    <string name="pref_screensaver_inapp_enabled_description">Vis Home Cartoon-pauseskærmen, mens appen er åben</string>
     <string name="not_set">Ikke indstillet</string>
     <string name="pref_screensaver_inapp_enabled">Brug pauseskærm i appen</string>
     <string name="lbl_album_artists">Album kunstnere</string>
@@ -565,7 +565,7 @@
     <string name="preference_enable_pgs">Direkte afspilning af PGS-undertekster</string>
     <string name="pref_subtitles_bold">Fed tekst</string>
     <string name="lbl_from_beginning">Afspil fra begyndelsen</string>
-    <string name="pref_report_device_profile_summary">Upload et fejlsøgningsdokument til Jellyfin-serveren med information om afspilningsmuligheder</string>
+    <string name="pref_report_device_profile_summary">Upload et fejlsøgningsdokument til Home Cartoon-serveren med information om afspilningsmuligheder</string>
     <string name="pref_troubleshooting">Fejlsøgning</string>
     <string name="runtime_hours_minutes">%1$dt %2$dm</string>
     <string name="runtime_minutes">%1$dm</string>
@@ -583,7 +583,7 @@
     <string name="indicator_subtitles_hearing_impaired">Tekstet for hørehæmmede</string>
     <string name="pref_report_device_profile_title">Rapporter afspilningsmuligheder til server</string>
     <string name="pref_report_device_profile_success">Dokument indsendt som %1$s</string>
-    <string name="pref_report_device_profile_failure">Det lykkedes ikke at sende dokumentet. Din Jellyfin-server tillader måske ikke indsendelse af klientlogge.</string>
+    <string name="pref_report_device_profile_failure">Det lykkedes ikke at sende dokumentet. Din Home Cartoon-server tillader måske ikke indsendelse af klientlogge.</string>
     <string name="pref_subtitles_position">Afstand fra bunden</string>
     <string name="playback_info">Afspilningsinformation</string>
     <string name="playback_info_play_method">Afspilningsmetode: %1$s</string>
@@ -649,7 +649,7 @@
     <string name="home_next_up_max_days">Sidste frist af dato for \"Næste\"</string>
     <string name="home_next_up_max_days_disabled">Deaktiveret</string>
     <string name="tv_provider_enabled">Integrering med Android TV home</string>
-    <string name="tv_provider_enabled_description">Vis Jellyfin kanaler og anbefalinger på Android TV\'s hjemmeskærm</string>
+    <string name="tv_provider_enabled_description">Vis Home Cartoon kanaler og anbefalinger på Android TV\'s hjemmeskærm</string>
     <string name="playback_buffer_length">Afspilnings buffer størrelse</string>
     <string name="playback_buffer_large">Stor</string>
     <string name="playback_buffer_extra_large">Ekstra stor</string>
@@ -673,7 +673,7 @@
     <string name="playback_video_player">Videoafspiller</string>
     <string name="video_player_internal">Indbygget videoafspiller</string>
     <string name="video_player_external">Ekstern app</string>
-    <string name="playback_video_player_external_empty">Ingen apps til videoafspilning - som kan åbne Jellyfin-videoer - er installeret på din enhed.</string>
+    <string name="playback_video_player_external_empty">Ingen apps til videoafspilning - som kan åbne Home Cartoon-videoer - er installeret på din enhed.</string>
     <string name="backdrop_behavior_with_blur">Sløret baggrund</string>
     <string name="backdrop_behavior_without_blur">Ikke-sløret baggrund</string>
     <string name="user_avc_level">H.264 (AVC) niveau</string>

@@ -294,13 +294,13 @@
     <string name="pref_playback_description">Video, subtitri, tiešraides tv, tālāk gaidāms</string>
     <string name="discovered_servers_title">Atrastie serveri</string>
     <string name="connect_manually_by_address">ievadiet servera adresi</string>
-    <string name="login_help_description">Lai izveidotu savienojumu ar Jellyfin, ir nepieciešams serveris. Apmeklējiet mūsu dokumentāciju vietnē docs.jellyfin.org vai skenējiet QR kodu, lai sāktu lietot Jellyfin.</string>
+    <string name="login_help_description">Lai izveidotu savienojumu ar Home Cartoon, ir nepieciešams serveris. Apmeklējiet mūsu dokumentāciju vietnē docs.jellyfin.org vai skenējiet QR kodu, lai sāktu lietot Home Cartoon.</string>
     <string name="user_picker_last_user_title">Pēdējo reizi izmantots</string>
     <string name="licenses_link">Licences</string>
     <string name="home_section_active_recordings">Aktīvie ieraksti</string>
     <string name="pref_theme">Motīvs</string>
     <string name="action_use_password">Izmantot paroli</string>
-    <string name="login_quickconnect_step_1">1. Atveriet Jellyfin lietotni tālrunī vai tīmekļa pārlūkprogrammā un pierakstieties savā kontā</string>
+    <string name="login_quickconnect_step_1">1. Atveriet Home Cartoon lietotni tālrunī vai tīmekļa pārlūkprogrammā un pierakstieties savā kontā</string>
     <string name="login_quickconnect_step_2">2. Atveriet lietotāja izvēlni un atveriet lapu Quick Connect</string>
     <string name="lbl_auto_crop">Automātiski apgriezts</string>
     <string name="lbl_load_guide_data">Ielādēt ceļveža datus</string>
@@ -376,7 +376,7 @@
     <string name="lbl_pause">Pauze</string>
     <string name="image_size_smallest">Vismazākais</string>
     <string name="state_disabled">Atspējots</string>
-    <string name="searchable_hint">Meklēt Jellyfin</string>
+    <string name="searchable_hint">Meklēt Home Cartoon</string>
     <string name="searchable_settings_description">Multivide</string>
     <string name="who_is_watching">Kas skatās?</string>
     <string name="license_website">Tīmekļa vietne</string>
@@ -387,7 +387,7 @@
     <string name="lbl_manage_servers">Pārvaldīt serverus</string>
     <string name="pref_developer_link">Izstrādātāja iestatījumi</string>
     <string name="welcome_content">Lai sāktu darbu, izveidojiet savienojumu ar serveri.</string>
-    <string name="welcome_title">Laipni lūdzam Jellyfin!</string>
+    <string name="welcome_title">Laipni lūdzam Home Cartoon!</string>
     <string name="lbl_record_only_new">Ierakstīs tikai jaunas epizodes</string>
     <string name="advanced_settings">Paplašināti</string>
     <string name="license_version">Versija</string>
@@ -396,7 +396,7 @@
     <string name="pref_crash_reports_disabled">Avāriju ziņojumi netiks nosūtīti</string>
     <string name="always_authenticate_description">Ieslēdzot šo funkciju, tiek atspējota automātiskā pierakstīšanās</string>
     <string name="select_version">Versija</string>
-    <string name="licenses_link_description">Skatīt lietotnē Jellyfin izmantoto bibliotēku licences</string>
+    <string name="licenses_link_description">Skatīt lietotnē Home Cartoon izmantoto bibliotēku licences</string>
     <string name="license_artifact">Artefakts</string>
     <string name="home_section_none">Nav</string>
     <string name="pref_subtitles_background_summary">Rādīt melnu fonu aiz subtitriem</string>
@@ -423,7 +423,7 @@
     <string name="server_issue_invalid_product">Servera programmatūra nav saderīga</string>
     <string name="subtitle_error">Nevar atlasīt subtitrus</string>
     <string name="server_connection_failed">Nevar izveidot savienojumu ar serveri</string>
-    <string name="no_network_permissions">Jellyfin darbības nodrošināšanai ir nepieciešamas tīkla atļaujas</string>
+    <string name="no_network_permissions">Home Cartoon darbības nodrošināšanai ir nepieciešamas tīkla atļaujas</string>
     <string name="home_section_library">Mana multivide</string>
     <string name="server_connecting">Savienojās ar %1$s</string>
     <string name="lbl_remove_users">Tiks noņemti arī visi saistītie konti</string>
@@ -432,7 +432,7 @@
     <string name="pref_direct_stream_live_off">Ja nepieciešams, tiek izmantota transkodēšana</string>
     <string name="server_issue_outdated_version">Serveris izmanto neatbalstītu versiju %1$s. Lūdzu, atjauniniet uz %2$s vai jaunāku versiju</string>
     <string name="pref_browsing">Pārlūkošana</string>
-    <string name="server_unsupported_notification">Šis serveris izmanto Jellyfin versiju %1$s, kas nav atbalstīta. Lai turpinātu lietot programmu, lūdzu, atjauniniet to uz Jellyfin %2$s vai jaunāku.</string>
+    <string name="server_unsupported_notification">Šis serveris izmanto Home Cartoon versiju %1$s, kas nav atbalstīta. Lai turpinātu lietot programmu, lūdzu, atjauniniet to uz Home Cartoon %2$s vai jaunāku.</string>
     <string name="because_you_watched">Jo tu skatījies %1$s</string>
     <string name="video_start_delay">Video sākuma aizkave</string>
     <string name="lbl_album_artists">Albumu izpildītāji</string>
@@ -449,7 +449,7 @@
     <string name="lbl_subtitle_text_color">Subtitru teksta krāsa</string>
     <string name="app_notification_update_soon">Atjauniniet serveri no %1$s uz vismaz %2$s, lai turpinātu lietot programmu pēc nākamā atjauninājuma.</string>
     <string name="pref_enable_media_management_description">Rādīt opciju pārvaldīt multividi pārlūkošanas laikā</string>
-    <string name="crash_report_toast">Ups! Kaut kas notika nepareizi, uz jūsu Jellyfin serveri tika nosūtīts avārijas ziņojums.</string>
+    <string name="crash_report_toast">Ups! Kaut kas notika nepareizi, uz jūsu Home Cartoon serveri tika nosūtīts avārijas ziņojums.</string>
     <string name="unreleased">Pagaidām nav publicēts</string>
     <string name="lbl_starting_early_ending_after">Sākt %1$s agrāk un beigt %2$s pēc grafika</string>
     <string name="person_birthday_and_age">Dzimis %1$s (%2$d)</string>
@@ -533,11 +533,11 @@
         <item quantity="other">%1$s dziesmas</item>
     </plurals>
     <string name="color_cyan">Ciāns</string>
-    <string name="pref_screensaver_inapp_enabled_description">Rādīt Jellyfin ekrānsaudzētāju, kamēr ir atvērta lietotne</string>
+    <string name="pref_screensaver_inapp_enabled_description">Rādīt Home Cartoon ekrānsaudzētāju, kamēr ir atvērta lietotne</string>
     <string name="lbl_special">Īpašs</string>
     <string name="color_red">Sarkans</string>
     <string name="color_black">Melns</string>
-    <string name="server_setup_incomplete">Šī servera iestatīšana nav pabeigta. Atveriet Jellyfin tīmekļa pārlūkprogrammā, lai pabeigtu iestatīšanu pirms pierakstīšanās.</string>
+    <string name="server_setup_incomplete">Šī servera iestatīšana nav pabeigta. Atveriet Home Cartoon tīmekļa pārlūkprogrammā, lai pabeigtu iestatīšanu pirms pierakstīšanās.</string>
     <string name="item_deletion_failed">Nav iespējams izdzēst %1$s</string>
     <string name="item_deleted">%1$s izdzēsts</string>
     <string name="pref_screensaver_inapp_enabled">Izmantot lietotnes ekrānsaudzētāju</string>
@@ -548,8 +548,8 @@
     </plurals>
     <string name="episode_name_special">īpašs</string>
     <string name="pref_troubleshooting">Problēmu novēršana</string>
-    <string name="pref_report_device_profile_failure">Neizdevās iesniegt dokumentu. Jūsu Jellyfin serveris, Iespējams, ir liedzis klientu pierakstus.</string>
-    <string name="app_notification_beta">Programma atjaunināta uz %1$s\nPaldies, ka piedalījāties Jellyfin beta programmā.</string>
+    <string name="pref_report_device_profile_failure">Neizdevās iesniegt dokumentu. Jūsu Home Cartoon serveris, Iespējams, ir liedzis klientu pierakstus.</string>
+    <string name="app_notification_beta">Programma atjaunināta uz %1$s\nPaldies, ka piedalījāties Home Cartoon beta programmā.</string>
     <string name="photos">Attēli</string>
     <string name="pref_subtitles_background_opacity">Subtitru fona caurspīdīgums</string>
     <string name="indicator_subtitles">CC</string>
@@ -573,7 +573,7 @@
     <string name="segment_action_ask_to_skip">Prasīt pirms pārlēkt</string>
     <string name="default_video_zoom">Noklusējuma tālummaiņas režīms</string>
     <string name="segment_type_unknown">Nezināmi segmenti</string>
-    <string name="pref_report_device_profile_summary">Augšupielādējiet problēmu novēršanas dokumentu ar informāciju par atskaņošanas iespējām uz Jellyfin serveri</string>
+    <string name="pref_report_device_profile_summary">Augšupielādējiet problēmu novēršanas dokumentu ar informāciju par atskaņošanas iespējām uz Home Cartoon serveri</string>
     <string name="lbl_user_server">%1$s uz %2$s</string>
     <string name="lbl_starting_on_schedule_ending_after">Sākt saskaņā ar grafiku un beigt %1$s pēc grafika</string>
     <string name="indicator_subtitles_hearing_impaired">SDH</string>
@@ -606,7 +606,7 @@
     <string name="video_player_internal">Iebūvētais video atskaņotājs</string>
     <string name="video_player_external">Ārējā lietotne</string>
     <string name="filters">Filtri</string>
-    <string name="playback_video_player_external_empty">Jūsu ierīcē nav instalēta neviena video atskaņotāja, kas varētu atvērt Jellyfin video.</string>
+    <string name="playback_video_player_external_empty">Jūsu ierīcē nav instalēta neviena video atskaņotāja, kas varētu atvērt Home Cartoon video.</string>
     <string name="color_presets">Sagataves</string>
     <string name="subtitle_preview_text">Subtitri izskatīsies šādi</string>
     <string name="font_weight_900">Melns</string>

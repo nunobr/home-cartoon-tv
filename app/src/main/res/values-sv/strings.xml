@@ -276,7 +276,7 @@
     <string name="image_type_thumbnail">Miniatyr</string>
     <string name="pref_watched_indicator">Visa indikator för antal tittade</string>
     <string name="lbl_hide_unwatched_count">Dölj antal ej uppspelade föremål</string>
-    <string name="login_help_description">Jellyfin behöver en server att ansluta till. Besök vår dokumentation på docs.jellyfin.org eller skanna QR-koden för att komma igång med Jellyfin.</string>
+    <string name="login_help_description">Home Cartoon behöver en server att ansluta till. Besök vår dokumentation på docs.jellyfin.org eller skanna QR-koden för att komma igång med Home Cartoon.</string>
     <string name="login_help_title">Behöver du hjälp\?</string>
     <string name="connect_manually_by_address">Ange serveraddress</string>
     <string name="discovered_servers_empty">Inga servrar hittades på det lokala nätverket.</string>
@@ -316,7 +316,7 @@
     <string name="no_user_warning">Vi hittade inga konton!
 \nLägg till ett konto genom att trycka på \"Lägg till konto\".</string>
     <string name="welcome_content">Anslut till din server för att börja.</string>
-    <string name="welcome_title">Välkommen till Jellyfin!</string>
+    <string name="welcome_title">Välkommen till Home Cartoon!</string>
     <string name="saved_servers">Sparade servrar</string>
     <string name="press_to_close">Tryck för att stänga</string>
     <string name="lbl_record_all">Kommer att övervaka alla avsnitt</string>
@@ -340,13 +340,13 @@
     <string name="lbl_next_up_minimal">Utan miniatyrbild</string>
     <string name="lbl_next_up_extended">Med miniatyrbild</string>
     <string name="lbl_episode_range">E%1$d–%2$d</string>
-    <string name="no_network_permissions">Jellyfin kräver nätverksprivilegier för att fungera</string>
+    <string name="no_network_permissions">Home Cartoon kräver nätverksprivilegier för att fungera</string>
     <string name="pref_theme_muted_purple">Dämpad lila</string>
     <string name="lbl_fit">Normal</string>
     <string name="lbl_stretch">Sträck ut</string>
     <string name="lbl_auto_crop">Automatisk beskärning</string>
     <string name="searchable_settings_description">Media</string>
-    <string name="searchable_hint">Sök i Jellyfin</string>
+    <string name="searchable_hint">Sök i Home Cartoon</string>
     <string name="home_section_i">Hemsektion %1$d</string>
     <string name="home_section_none">Inget</string>
     <string name="home_section_livetv">Direktsänd TV</string>
@@ -366,7 +366,7 @@
     <string name="license_artifact">Artefakt</string>
     <string name="license_version">Version</string>
     <string name="license_description">Beskrivning</string>
-    <string name="licenses_link_description">Se på alla de bibliotekslicenser som Jellyfin använder</string>
+    <string name="licenses_link_description">Se på alla de bibliotekslicenser som Home Cartoon använder</string>
     <string name="licenses_link">Licenser</string>
     <string name="select_version">Version</string>
     <string name="lbl_community_rating">Publiksbetyg</string>
@@ -407,7 +407,7 @@
     <string name="pref_refresh_rate_scale_on_tv">Skala på TV</string>
     <string name="login_quickconnect_step_3">3. Ange följande kod:</string>
     <string name="login_quickconnect_step_2">2. Öppna användarmenyn och gå till sidan Quick Connect</string>
-    <string name="login_quickconnect_step_1">1. Öppna Jellyfin-appen på din telefon eller webbläsare och logga in med ditt konto</string>
+    <string name="login_quickconnect_step_1">1. Öppna Home Cartoon-appen på din telefon eller webbläsare och logga in med ditt konto</string>
     <string name="login_other_options">Andra alternativ:</string>
     <string name="login_connect_to">Ansluter till %1$s</string>
     <string name="input_password">Lösenord</string>
@@ -419,8 +419,8 @@
     <string name="lbl_subtitle_delay">Undertextfördröjning</string>
     <string name="state_disabled">Inaktiverad</string>
     <string name="live_tv_preferences">Alternativ för direktsänd TV</string>
-    <string name="server_setup_incomplete">Installationen av den här servern har inte slutförts. Öppna Jellyfin i en webbläsare för att slutföra installationen innan du loggar in.</string>
-    <string name="crash_report_toast">Oj då! Någonting gick fel, och en krashrapport skickades till din Jellyfin server.</string>
+    <string name="server_setup_incomplete">Installationen av den här servern har inte slutförts. Öppna Home Cartoon i en webbläsare för att slutföra installationen innan du loggar in.</string>
+    <string name="crash_report_toast">Oj då! Någonting gick fel, och en krashrapport skickades till din Home Cartoon server.</string>
     <string name="pref_crash_report_logs_disabled">Loggar kommer inte att inkluderas i krashrapporter</string>
     <string name="pref_crash_report_logs_enabled">Loggar kommer att inkluderas i krashrapporter</string>
     <string name="pref_crash_report_logs">Inkludera loggar</string>
@@ -429,7 +429,7 @@
     <string name="pref_crash_reports">Skicka kraschrapporter till server</string>
     <string name="pref_telemetry_description">Skicka kraschrapporter, inkludera loggar</string>
     <string name="pref_telemetry_category">Kraschrapportering</string>
-    <string name="server_unsupported_notification">Den här servern använder Jellyfin version %1$s som inte stöds. Vänligen uppdatera till Jellyfin %2$s eller senare för att fortsätta använda appen.</string>
+    <string name="server_unsupported_notification">Den här servern använder Home Cartoon version %1$s som inte stöds. Vänligen uppdatera till Home Cartoon %2$s eller senare för att fortsätta använda appen.</string>
     <string name="app_notification_uimode_invalid">Den här appen är optimiserad för tv-apparater. Vi rekommenderar att du använder vår mobilapp på andra enheter.</string>
     <string name="image_size_xlarge">Extra Stor</string>
     <string name="image_size_smallest">Minsta</string>
@@ -563,14 +563,14 @@
     <string name="runtime_hours_minutes">%1$dt %2$dm</string>
     <string name="runtime_minutes">%1$dm</string>
     <string name="pref_subtitles_bold">Fet text</string>
-    <string name="pref_report_device_profile_failure">Misslyckades med att skicka dokument. Din Jellyfin-server kanske förbjuder klientloggar.</string>
+    <string name="pref_report_device_profile_failure">Misslyckades med att skicka dokument. Din Home Cartoon-server kanske förbjuder klientloggar.</string>
     <string name="fast_forward">Spola fram</string>
     <string name="pref_subtitles_background_opacity">Genomskinlighet av undertextsbakgrund</string>
     <string name="pref_troubleshooting">Felsökning</string>
     <string name="rewind">Spola tillbaka</string>
     <string name="speech_error_unavailable">Taligenkänning är inte tillgängligt på din enhet.</string>
     <string name="lbl_from_beginning">Spela från början</string>
-    <string name="pref_report_device_profile_summary">Ladda upp ett felsökningsdokument till Jellyfin-servern med information om uppspelningsmöjligheter</string>
+    <string name="pref_report_device_profile_summary">Ladda upp ett felsökningsdokument till Home Cartoon-servern med information om uppspelningsmöjligheter</string>
     <string name="speech_error_no_permission">Nekad tillåtelse att använda mikrofonen. Aktivera det i systemets inställningar.</string>
     <string name="speech_error_unknown">Ett oväntat fel inträffade under taligenkänningen.</string>
     <string name="pref_report_device_profile_title">Rapportera uppspelningsmöjligheter till server</string>
@@ -615,7 +615,7 @@
     <string name="pref_playback_prerolls">Förfilmer</string>
     <string name="pref_playback_inactivity_prompt">Inaktivitetsmeddelande</string>
     <string name="color_presets">Förinställningar</string>
-    <string name="playback_video_player_external_empty">Du har inga videospelarappar installerade på din enhet som kan öppna Jellyfin videor.</string>
+    <string name="playback_video_player_external_empty">Du har inga videospelarappar installerade på din enhet som kan öppna Home Cartoon videor.</string>
     <string name="pref_burn_subtitles_when_transcoding">Bränn undertexterna vid omkodning</string>
     <string name="pref_burn_subtitles_when_transcoding_description">Bränn alltid undertexterna till video vid omkodning. Detta kan fixa problem med synkronisering av undertexter men inaktiverar andra inställningar av undertexter.</string>
     <string name="playback_buffer_length">Bufferstorlek för spelning</string>

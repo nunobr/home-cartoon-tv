@@ -126,11 +126,11 @@
     <string name="lbl_community_rating">Bendruomenės įvertinimas</string>
     <string name="lbl_starting_with">Prasideda su tais kurių vardai prasideda</string>
     <string name="msg_recording_now">Įrašoma dabar</string>
-    <string name="crash_report_toast">Klaida! Kažkas įvyko, gedimo ataskaita buvo išsiųsta į jūsų Jellyfin serverį.</string>
+    <string name="crash_report_toast">Klaida! Kažkas įvyko, gedimo ataskaita buvo išsiųsta į jūsų Home Cartoon serverį.</string>
     <string name="pref_audio_direct">Tiesioginė</string>
     <string name="pref_live_tv_cat">Tiesioginė TV</string>
     <string name="msg_burn_sub_warning">Įrašinėjami subtitrai, tai gali užtrukti kelias sekundes…</string>
-    <string name="server_setup_incomplete">Serverio sąranka nebaigta. Atidarykite Jellyfin naršyklėje, kad pabaigtumėte sąranką.</string>
+    <string name="server_setup_incomplete">Serverio sąranka nebaigta. Atidarykite Home Cartoon naršyklėje, kad pabaigtumėte sąranką.</string>
     <string name="lbl_programs">Programos</string>
     <string name="lbl_album">Albumas</string>
     <string name="lbl_playlists">Grojaraščiai</string>
@@ -363,15 +363,15 @@
     <string name="pref_developer_link_description">Papildomos ir ekspermentinės galimybės</string>
     <string name="discovered_servers_empty">Lokaliame tinkle serverių nerasta.</string>
     <string name="pref_watched_indicator">Rodyti indikatorius Žiūrėtas</string>
-    <string name="login_help_description">Jellyfin reikia serverio, prie kurio būtų galima prisijungti. Apsilankykite mūsų dokumentuose adresu docs.jellyfin.org arba nuskaitykite QR kodą ir pradėkite naudotis Jellyfin.</string>
+    <string name="login_help_description">Home Cartoon reikia serverio, prie kurio būtų galima prisijungti. Apsilankykite mūsų dokumentuose adresu docs.jellyfin.org arba nuskaitykite QR kodą ir pradėkite naudotis Home Cartoon.</string>
     <string name="connect_manually_by_address">Įrašykite serverio adresą</string>
     <string name="lbl_use_series_thumbnails_description">Rodydami serijas naudokite serialų miniatiūras</string>
     <string name="user_picker_last_user_summary">Naudoti paskutinę aktyvią paskyrą</string>
     <string name="user_picker_disable_summary">Visada rodyti prisijungimo langą</string>
     <string name="lbl_switch_user">Perjungti naudotoją</string>
-    <string name="welcome_title">Sveiki prisijungę prie Jellyfin!</string>
+    <string name="welcome_title">Sveiki prisijungę prie Home Cartoon!</string>
     <string name="pref_theme_muted_purple">Prislopinta violetinė</string>
-    <string name="no_network_permissions">Kad Jellyfin veiktų, reikia tinklo leidimų</string>
+    <string name="no_network_permissions">Kad Home Cartoon veiktų, reikia tinklo leidimų</string>
     <string name="press_to_close">Paspauskite, kad uždarytumėte</string>
     <string name="lbl_start_end_on_schedule">Prasideda laiku ir baigiasi laiku</string>
     <string name="no_user_warning">Neradome jokių naudotojų! \nPridėkite naują naudotoją paspausdami mygtuką \"Pridėti naudotoją\".</string>
@@ -379,7 +379,7 @@
     <string name="enable_playback_module_description">Tai yra ekspermentinė funkcija kuri neturi palaikymo.</string>
     <string name="lbl_name_date">%1$s (%2$s)</string>
     <string name="last_use">Paskutinį kartą naudotą</string>
-    <string name="licenses_link_description">Peržiūrėti Jellyfin programėlės naudojamų bibliotekų licencijas</string>
+    <string name="licenses_link_description">Peržiūrėti Home Cartoon programėlės naudojamų bibliotekų licencijas</string>
     <string name="select_version">Versija</string>
     <string name="home_prefs">Pagrindinis</string>
     <string name="license_artifact">Artefaktai</string>
@@ -398,12 +398,12 @@
     <string name="action_use_password">Naudoti slaptažodį</string>
     <string name="action_use_quickconnect">Naudoti greitą prisijungimą</string>
     <string name="login_other_options">Kiti pasirinkimai:</string>
-    <string name="login_quickconnect_step_1">1. Telefone arba naršyklėje atidarykite Jellyfin ir prisijunkite naudodami savo paskyrą</string>
+    <string name="login_quickconnect_step_1">1. Telefone arba naršyklėje atidarykite Home Cartoon ir prisijunkite naudodami savo paskyrą</string>
     <string name="login_quickconnect_step_3">3. Įrašykite šį kodą:</string>
     <string name="pref_refresh_rate_scale_on_tv">Mastelis televizoriuje</string>
     <string name="login_quickconnect_step_2">2. Atidarykite naudotojo meniu ir eikite į greito prisijungimo puslapį</string>
     <string name="pref_telemetry_description">Siųsti gedimų ataskaitas, įtraukti žurnalus</string>
-    <string name="server_unsupported_notification">Šiame serveryje naudojama Jellyfin versija %1$s, kuri nebepalaikoma. Norėdami toliau naudotis programėle, atnaujinkite Jellyfin į %2$s ar naujesnę versiją.</string>
+    <string name="server_unsupported_notification">Šiame serveryje naudojama Home Cartoon versija %1$s, kuri nebepalaikoma. Norėdami toliau naudotis programėle, atnaujinkite Home Cartoon į %2$s ar naujesnę versiją.</string>
     <string name="pref_crash_reports_disabled">Gedimų ataskatos nebus siunčiamos</string>
     <string name="pref_crash_reports_enabled">Gedimų ataskaitos bus siunčiamos į paskutinį naudotą serverį</string>
     <string name="pref_crash_report_logs">Įtraukti žurnalus</string>
@@ -427,7 +427,7 @@
     <string name="lbl_server">Serveris</string>
     <string name="login_help_title">Reikia pagalbos\?</string>
     <string name="alphabetical">Abėcėlės tvarką</string>
-    <string name="searchable_hint">Ieškoti Jellyfin</string>
+    <string name="searchable_hint">Ieškoti Home Cartoon</string>
     <string name="searchable_settings_description">Medija</string>
     <string name="msg_live_tv_prev">Krauti buvusias %1$d valandas?</string>
     <string name="server_field_empty">Adresas negali būti tuščias</string>
@@ -530,13 +530,13 @@
     <string name="segment_type_recap">Santraukos</string>
     <string name="preference_enable_trickplay">Įjungti Trickplay vaizdo leistuve</string>
     <string name="pref_troubleshooting">Diagnostika</string>
-    <string name="pref_report_device_profile_summary">Įkelti diagnostikos dokumentą į Jellyfin serverį su informacija apie atkūrimo galimybes</string>
+    <string name="pref_report_device_profile_summary">Įkelti diagnostikos dokumentą į Home Cartoon serverį su informacija apie atkūrimo galimybes</string>
     <plurals name="tracks">
         <item quantity="one">%1$s takelis</item>
         <item quantity="few">%1$s takeliai</item>
         <item quantity="other">%1$s takelių</item>
     </plurals>
-    <string name="pref_report_device_profile_failure">Nepavyko pateikti dokumento. Jellyfin serveris gali drausti naudotojų žurnalus.</string>
+    <string name="pref_report_device_profile_failure">Nepavyko pateikti dokumento. Home Cartoon serveris gali drausti naudotojų žurnalus.</string>
     <plurals name="tv_series">
         <item quantity="one">%1$s TV serialas</item>
         <item quantity="few">%1$s TV serialai</item>
@@ -550,7 +550,7 @@
     <string name="lbl_hide_watched_checkmark">Kai dar liko serijų</string>
     <string name="item_delete_confirm_title">Ištrinti elementą</string>
     <string name="pref_enable_media_management_description">Rodyti nustatymą valdyti turinį naršant</string>
-    <string name="pref_screensaver_inapp_enabled_description">Rodyti Jellyfin ekrano užsklandą kai programėlė atidaryta</string>
+    <string name="pref_screensaver_inapp_enabled_description">Rodyti Home Cartoon ekrano užsklandą kai programėlė atidaryta</string>
     <string name="item_delete_confirm_message">Ar tikrai norite ištrinti šį elementą iš serverio? Šio veiksmo atšaukti negalima.</string>
     <string name="dts_x">DTS:X</string>
     <string name="dts_hd">DTS-HD</string>
@@ -573,7 +573,7 @@
         <item quantity="few">%1$s sekundės</item>
         <item quantity="other">%1$s sekundžių</item>
     </plurals>
-    <string name="app_notification_beta">Programėlė atnaujinta į %1$s\nDėkojame, kad dalyvaujate Jellyfin beta versijos programoje.</string>
+    <string name="app_notification_beta">Programėlė atnaujinta į %1$s\nDėkojame, kad dalyvaujate Home Cartoon beta versijos programoje.</string>
     <plurals name="hours">
         <item quantity="one">%1$s valanda</item>
         <item quantity="few">%1$s valandos</item>
@@ -638,7 +638,7 @@
     <string name="playback_video_player">Vaizdo leistuvas</string>
     <string name="video_player_internal">Integruotas vaizdo leistuvas</string>
     <string name="video_player_external">Išorinė programėlė</string>
-    <string name="playback_video_player_external_empty">Jūsų įrenginyje nėra įdiegtos jokios vaizdo leistuvo programėlės, kuri galėtų atidaryti Jellyfin vaizdo įrašus.</string>
+    <string name="playback_video_player_external_empty">Jūsų įrenginyje nėra įdiegtos jokios vaizdo leistuvo programėlės, kuri galėtų atidaryti Home Cartoon vaizdo įrašus.</string>
     <string name="filters">Filtrai</string>
     <string name="backdrop_behavior_with_blur">Fonas su suliejimu</string>
     <string name="backdrop_behavior_without_blur">Fonas be suliejimo</string>
@@ -710,6 +710,6 @@
         <item quantity="other">%1$s dienų</item>
     </plurals>
     <string name="tv_provider_enabled">Integracija su Android TV pagrindiniu ekranu</string>
-    <string name="tv_provider_enabled_description">Rodyti Jellyfin kanalus ir rekomendacijas Android TV pagrindiniame ekrane</string>
+    <string name="tv_provider_enabled_description">Rodyti Home Cartoon kanalus ir rekomendacijas Android TV pagrindiniame ekrane</string>
     <string name="lbl_3d">3D</string>
 </resources>

@@ -130,11 +130,11 @@
     <string name="enable_smart_view_description">Паметниот екран прикажува релевантни ставки наместо решетка-приказ</string>
     <string name="pref_developer_link_description">Напредни и експериментални функции</string>
     <string name="discovered_servers_empty">Не се пронајдени сервери на локалната мрежа.</string>
-    <string name="login_help_description">Jellyfin бара сервер за поврзување. Прегледајте ја нашата документација на docs.jellyfin.org или скенирајте QR код да започнете со Jellyfin.</string>
+    <string name="login_help_description">Home Cartoon бара сервер за поврзување. Прегледајте ја нашата документација на docs.jellyfin.org или скенирајте QR код да започнете со Home Cartoon.</string>
     <string name="lbl_hide_unwatched_count">Сокриј бројчаник за негледани</string>
     <string name="user_picker_last_user_summary">Користи ја последната активна сметка</string>
     <string name="saved_servers">Зачувани сервери</string>
-    <string name="welcome_title">Добредојдовте во Jellyfin!</string>
+    <string name="welcome_title">Добредојдовте во Home Cartoon!</string>
     <string name="welcome_content">Поврзете се со вашиот сервер за да започнете.</string>
     <string name="no_user_warning">Не пронајдовме сметки!
 \nДодајте нова сметка со притискање на копчето \"Додај сметка\".</string>
@@ -144,7 +144,7 @@
     <string name="lbl_start_end_on_schedule">Почнува на време и завршува на време</string>
     <string name="lbl_record_only_new">Ќе се снимат само нови епизоди</string>
     <string name="enable_playback_module_description">Ова е експериментална фунцкија. Поддршката не е обезбедена.</string>
-    <string name="licenses_link_description">Погледни ги лиценците за библиотеките користени од страна на Jellyfin</string>
+    <string name="licenses_link_description">Погледни ги лиценците за библиотеките користени од страна на Home Cartoon</string>
     <string name="license_description">Опис</string>
     <string name="home_prefs">Почетна</string>
     <string name="home_section_latest_media">Неодамна додадена содржина</string>
@@ -163,24 +163,24 @@
     <string name="pref_direct_stream_live_off">Транскодирањето се користи кога е неопходно</string>
     <string name="pref_direct_stream_live_on">Транскодирањето е оневозможено</string>
     <string name="input_username">Корисничко име</string>
-    <string name="login_quickconnect_step_1">1. Отворете ја апликацијата Jellyfin на вашиот телефон или во пребарувачот, и најавете се со вашата сметка</string>
+    <string name="login_quickconnect_step_1">1. Отворете ја апликацијата Home Cartoon на вашиот телефон или во пребарувачот, и најавете се со вашата сметка</string>
     <string name="live_tv_preferences">Поставки за ТВ во живо</string>
     <string name="app_notification_uimode_invalid">Оваа апликација е прилагодена за телевизори. Ви препорачуваме да ја користите нашата мобилна апликација на други уреди.</string>
-    <string name="server_unsupported_notification">Овој сервер ја користи Jellyfin верзијата %1$s која е неподдржана. Ве молиме ажурирајте го Jellyfin на %2$s или понова за да продолжите да ја користите апликацијата.</string>
+    <string name="server_unsupported_notification">Овој сервер ја користи Home Cartoon верзијата %1$s која е неподдржана. Ве молиме ажурирајте го Home Cartoon на %2$s или понова за да продолжите да ја користите апликацијата.</string>
     <string name="pref_telemetry_category">Пријава на грешки</string>
     <string name="pref_crash_reports_enabled">Пријавите за грешки ќе бидат испратени на вашиот последно користен сервер</string>
     <string name="pref_crash_reports_disabled">Пријавите за грешки нема да бидат испратени</string>
     <string name="pref_crash_report_logs">Вклучи логови</string>
     <string name="pref_crash_report_logs_enabled">Логовите ќе бидат вклучени во пријавите за грешки</string>
     <string name="pref_crash_report_logs_disabled">Логовите нема да бидат вклучени во пријавите за грешки</string>
-    <string name="crash_report_toast">Ту! Дојде до грешка, пријава за грешка беше испратена на вашиот Jellyfin сервер.</string>
-    <string name="server_setup_incomplete">Поставувањето на овој сервер сеуште не е завршено. Отворете го Jellyfin во пребарувач за да завршите со поставувањето пред да се најавите.</string>
+    <string name="crash_report_toast">Ту! Дојде до грешка, пријава за грешка беше испратена на вашиот Home Cartoon сервер.</string>
+    <string name="server_setup_incomplete">Поставувањето на овој сервер сеуште не е завршено. Отворете го Home Cartoon во пребарувач за да завршите со поставувањето пред да се најавите.</string>
     <string name="app_notification_beta">Апликацијата е ажурирана на %1$s
-\nВи благодариме за учеството во Jellyfin бета програмата</string>
+\nВи благодариме за учеството во Home Cartoon бета програмата</string>
     <string name="pref_enable_media_management_description">Прикажи опција за менаџирање на содржина додека се пребарува</string>
     <string name="item_delete_confirm_title">Избриши ставка</string>
     <string name="pref_screensaver">Заштитник на екран</string>
-    <string name="pref_screensaver_inapp_enabled_description">Прикажи го Jellyfin заштитникот на екран додека е отворена апликацијата</string>
+    <string name="pref_screensaver_inapp_enabled_description">Прикажи го Home Cartoon заштитникот на екран додека е отворена апликацијата</string>
     <string name="enable_reactive_homepage">Овозможете реактивна почетна страница</string>
     <string name="not_set">Не е поставено</string>
     <string name="disable_ui_mode_warning">Оневозможи предупредување за тип на уред</string>
@@ -426,7 +426,7 @@
     <string name="state_disabled">Оневозможено</string>
     <string name="msg_live_tv_prev">Да се вчитаат претходните %1$d часови?</string>
     <string name="just_one">Само ова</string>
-    <string name="searchable_hint">Пребарај го Jellyfin</string>
+    <string name="searchable_hint">Пребарај го Home Cartoon</string>
     <string name="searchable_settings_description">Содржина</string>
     <string name="lbl_date_added">Додадено на датум</string>
     <string name="lbl_community_rating">Оценка на заедницата</string>
@@ -467,7 +467,7 @@
     <string name="connect_manually_by_address">Внесете адреса на серверот</string>
     <string name="login_help_title">Потребна ви е помош\?</string>
     <string name="lbl_switch_user">Промени сметка</string>
-    <string name="no_network_permissions">Jellyfin бара дозвола за пристап до мрежата за да функционира</string>
+    <string name="no_network_permissions">Home Cartoon бара дозвола за пристап до мрежата за да функционира</string>
     <string name="license_artifact">Артефакт</string>
     <string name="license_author">Автор</string>
     <string name="always_authenticate">Секогаш прашувај за податоци</string>

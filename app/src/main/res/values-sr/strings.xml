@@ -282,7 +282,7 @@
     <string name="lbl_use_series_thumbnails">Дајте предност сличицама серије</string>
     <string name="lbl_hide_unwatched_count">Када је одгледано</string>
     <string name="pref_watched_indicator">Прикажи индикаторе за одгледано</string>
-    <string name="login_help_description">Jellyfin захтева сервер за повезивање. Посетите нашу документацију на docs.jellyfin.org или скенирајте QR код да бисте започели са Jellyfin-ом.</string>
+    <string name="login_help_description">Home Cartoon захтева сервер за повезивање. Посетите нашу документацију на docs.jellyfin.org или скенирајте QR код да бисте започели са Home Cartoon-ом.</string>
     <string name="login_help_title">Потребна Вам је помоћ\?</string>
     <string name="connect_manually_by_address">Унесите адресу сервера</string>
     <string name="discovered_servers_empty">Није пронађен ниједан сервер на локалној мрежи.</string>
@@ -318,7 +318,7 @@
     <string name="pref_subtitles_background_summary">Прикажи црну позадину иза титлова</string>
     <string name="pref_subtitles_background_title">Омогућите позадину</string>
     <string name="searchable_settings_description">Медији</string>
-    <string name="searchable_hint">Претражи Jellyfin</string>
+    <string name="searchable_hint">Претражи Home Cartoon</string>
     <string name="home_section_i">Почетна секција %1$d</string>
     <string name="home_section_none">Ниједан</string>
     <string name="home_section_livetv">Телевизија уживо</string>
@@ -338,7 +338,7 @@
     <string name="license_artifact">Артефакт</string>
     <string name="license_version">Верзија</string>
     <string name="license_description">Опис</string>
-    <string name="licenses_link_description">Погледај лиценце за библиотеке коришћене од стране апликације Jellyfin</string>
+    <string name="licenses_link_description">Погледај лиценце за библиотеке коришћене од стране апликације Home Cartoon</string>
     <string name="licenses_link">Лиценце</string>
     <string name="select_version">Верзија</string>
     <string name="advanced_settings">Напредна подешавања</string>
@@ -369,10 +369,10 @@
     <string name="no_user_warning">Не можемо пронаћи корисника! 
 \nДодајте новог корисника притиском на дугме \"Додај корисника\".</string>
     <string name="welcome_content">Повежите се са вашим сервером да бисте започели.</string>
-    <string name="welcome_title">Добродошли у Jellyfin!</string>
+    <string name="welcome_title">Добродошли у Home Cartoon!</string>
     <string name="saved_servers">Сачувани сервери</string>
     <string name="press_to_close">Притисните да затворите</string>
-    <string name="no_network_permissions">Jellyfin захтева дозволе за мрежу да би функционисао</string>
+    <string name="no_network_permissions">Home Cartoon захтева дозволе за мрежу да би функционисао</string>
     <string name="pref_theme_muted_purple">Утишана Љубичаста</string>
     <string name="lbl_switch_user">Промени налог</string>
     <string name="server_connection_failed_candidates">Повезивање са сервером није успело, покушано са следећих адреса:%1$s</string>
@@ -493,7 +493,7 @@
     <string name="live_tv_preferences">Опције за ТВ уживо</string>
     <string name="pref_enable_media_management_description">Прикажи опцију за управљање медијима у току листања</string>
     <string name="pref_screensaver_inapp_enabled">Користи приложени чувар екрана апликације</string>
-    <string name="server_setup_incomplete">Подешавање овог сервера није довршено. Отворите Jellyfin у веб прегледачу да завршите подешавање пре него што се пријавите.</string>
+    <string name="server_setup_incomplete">Подешавање овог сервера није довршено. Отворите Home Cartoon у веб прегледачу да завршите подешавање пре него што се пријавите.</string>
     <string name="runtime_hours_minutes">%1$d час %2$d мин</string>
     <string name="runtime_minutes">%1$d мин</string>
     <string name="pref_enable_media_management">Омогући управљање медијима</string>
@@ -502,7 +502,7 @@
     <string name="pref_screensaver_ageratingmax">Највећа оцена узраста</string>
     <string name="login_quickconnect_step_2">2. Отворите кориснички мени и идите на страну Брзо повезивање</string>
     <string name="login_quickconnect_step_3">3. Унесите овај код:</string>
-    <string name="pref_screensaver_inapp_enabled_description">Прикажи Jellyfin-ов чувар екрана док је апликација отворена</string>
+    <string name="pref_screensaver_inapp_enabled_description">Прикажи Home Cartoon-ов чувар екрана док је апликација отворена</string>
     <string name="lbl_exit">Изађи</string>
     <string name="lbl_still_watching_default">Три епизоде или 90 минута</string>
     <string name="lbl_still_watching_short">Две епизоде или 60 минута</string>
@@ -515,7 +515,7 @@
     <string name="pref_subtitles_position">Померај од дна</string>
     <string name="pref_direct_stream_live_off">Транскодовање се користи кад је неопходно</string>
     <string name="input_password">Лозинка</string>
-    <string name="login_quickconnect_step_1">1. Отворите апликацију Jellyfin на телефону или рачунару и пријавите се користећи свој налог</string>
+    <string name="login_quickconnect_step_1">1. Отворите апликацију Home Cartoon на телефону или рачунару и пријавите се користећи свој налог</string>
     <string name="app_notification_uimode_invalid">Ова апликација је прилагођена телевизорима. Предлажемо да користите нашу апликацију за телефон на осталим уређајима.</string>
     <string name="pref_crash_reports_disabled">Извештаји о грешкама неће бити послати</string>
     <string name="app_notification_beta">Апликација је ажурирана на верзију %1$s\nХвала што учествујете у нашем бета програму.</string>
@@ -583,9 +583,9 @@
     <string name="input_username">Корисничко име</string>
     <string name="login_connect_to">Повезивање са %1$s</string>
     <string name="pref_telemetry_description">Шаљи извештаје о грешкама и приложи дневнике</string>
-    <string name="server_unsupported_notification">Овај Jellyfin сервер је на верзији %1$s, која није подржана. Молимо вас да ажурирате на верзију %2$s или новију да бисте користили Jellyfin.</string>
+    <string name="server_unsupported_notification">Овај Home Cartoon сервер је на верзији %1$s, која није подржана. Молимо вас да ажурирате на верзију %2$s или новију да бисте користили Home Cartoon.</string>
     <string name="pref_crash_report_logs_disabled">Дневници неће бити укључени у извештаје о грешкама</string>
-    <string name="crash_report_toast">Јој, нешто је пошло по злу! Извештај о грешки послат је вашем Jellyfin серверу.</string>
+    <string name="crash_report_toast">Јој, нешто је пошло по злу! Извештај о грешки послат је вашем Home Cartoon серверу.</string>
     <string name="pref_refresh_rate_scale_on_device">Мењај величину на уређају</string>
     <string name="item_deletion_failed">Није успело брисање %1$s</string>
     <plurals name="minutes">
@@ -623,7 +623,7 @@
     <string name="playback_video_player">Видео плејер</string>
     <string name="video_player_internal">Уграђени видео плејер</string>
     <string name="video_player_external">Спољна апликација</string>
-    <string name="playback_video_player_external_empty">На вашем уређају нема ниједне апликације која може да отвори видео снимке из Jellyfin-а.</string>
+    <string name="playback_video_player_external_empty">На вашем уређају нема ниједне апликације која може да отвори видео снимке из Home Cartoon-а.</string>
     <string name="filters">Филтери</string>
     <string name="backdrop_behavior_with_blur">Замућена позадина</string>
     <string name="backdrop_behavior_without_blur">Незамућена позадина</string>

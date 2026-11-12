@@ -298,9 +298,9 @@
     <string name="auto_sign_in">Masuk otomatis</string>
     <string name="user_picker_disable_summary">Selalu munculkan tampilan sign in</string>
     <string name="who_is_watching">Siapa yang sedang menonton\?</string>
-    <string name="login_help_description">Jellyfin membutuhkan server untuk terhubung. Kunjungi dokumentasi kami di docs.jellyfin.org atau pindai kode QR untuk memulai dengan Jellyfin.</string>
+    <string name="login_help_description">Home Cartoon membutuhkan server untuk terhubung. Kunjungi dokumentasi kami di docs.jellyfin.org atau pindai kode QR untuk memulai dengan Home Cartoon.</string>
     <string name="pref_watched_indicator">Munculkan indikator yang telah ditonton</string>
-    <string name="welcome_title">Selamat datang di Jellyfin!</string>
+    <string name="welcome_title">Selamat datang di Home Cartoon!</string>
     <string name="help">Bantuan</string>
     <string name="lbl_special">Spesial</string>
     <string name="image_type_poster">Plakat</string>
@@ -328,7 +328,7 @@
     <string name="lbl_switch_user">Ganti akun</string>
     <string name="pref_theme_muted_purple">Ungu redam</string>
     <string name="user_picker_last_user_summary">Gunakan akun aktif terakhir</string>
-    <string name="no_network_permissions">Jellyfin membutuhkan izin jaringan untuk berfungsi</string>
+    <string name="no_network_permissions">Home Cartoon membutuhkan izin jaringan untuk berfungsi</string>
     <string name="add_user">Tambah akun</string>
     <string name="press_to_close">Pencet untuk menutup</string>
     <string name="lbl_next_up_extended">Dengan keluku</string>
@@ -360,7 +360,7 @@
     <string name="lbl_name_date">%1$s (%2$s)</string>
     <string name="continue_listening">Lanjut mendengar</string>
     <string name="lbl_subtitle_background_color">Warna Latar Subtitle</string>
-    <string name="licenses_link_description">Lihat lisensi perpustakaan yang digunakan oleh aplikasi Jellyfin</string>
+    <string name="licenses_link_description">Lihat lisensi perpustakaan yang digunakan oleh aplikasi Home Cartoon</string>
     <string name="pref_subtitles_background_summary">Tampilkan latar belakang hitam di belakang subtitle</string>
     <string name="home_section_library">Media saya</string>
     <string name="lbl_subtitle_text_color">Warna Teks Subtitle</string>
@@ -391,7 +391,7 @@
     <string name="license_website">Situs Web</string>
     <string name="license_author">Penulis</string>
     <string name="home_section_resume_audio">Lanjut mendengar</string>
-    <string name="searchable_hint">Cari Jellyfin</string>
+    <string name="searchable_hint">Cari Home Cartoon</string>
     <string name="searchable_settings_description">Media</string>
     <string name="lbl_episode_range">E%1$d–%2$d</string>
     <string name="always_authenticate">Selalu minta Kredensial</string>
@@ -399,7 +399,7 @@
     <string name="select_version">Versi</string>
     <string name="licenses_link">Lisensi</string>
     <string name="sort_accounts_by">Urutkan akun secara</string>
-    <string name="crash_report_toast">Ups! Ada yang salah, laporan kerusakan telah dikirim ke server Jellyfin mu.</string>
+    <string name="crash_report_toast">Ups! Ada yang salah, laporan kerusakan telah dikirim ke server Home Cartoon mu.</string>
     <string name="pref_enable_media_management_description">Tampilkan opsi untuk mengatur media ketika menelusuri</string>
     <string name="past_week">Minggu lalu</string>
     <string name="scheduled_in_next_24_hours">Dijadwalkan dalam 24 jam kedepan</string>
@@ -443,7 +443,7 @@
     <string name="color_blue">Biru</string>
     <string name="server_issue_ssl_handshake">SSL handshake gagal</string>
     <string name="pref_telemetry_description">Kirim laporan kerusakan, termasuk log</string>
-    <string name="server_setup_incomplete">Pengaturan server belum selesai. Buka Jellyfin di peramban web untuk menyelesaikan sebelum masuk.</string>
+    <string name="server_setup_incomplete">Pengaturan server belum selesai. Buka Home Cartoon di peramban web untuk menyelesaikan sebelum masuk.</string>
     <string name="photo_albums">Album Foto</string>
     <string name="person_birthday_and_age">Lahir %1$s (%2$d)</string>
     <string name="pref_login">Masuk</string>
@@ -482,12 +482,12 @@
     <string name="pref_direct_stream_live_off">Transkode akan dipakai ketika dibutuhkan</string>
     <string name="home_section_resume_book">Lanjutkan Membaca</string>
     <string name="app_notification_beta">Aplikasi diperbarui ke %1$s
-\nTerima kasih telah bergabung ke dalam program Jellyfin beta.</string>
+\nTerima kasih telah bergabung ke dalam program Home Cartoon beta.</string>
     <string name="item_delete_confirm_message">Yakin ingin menghapus item ini dari server? Tindakan ini tidak dapat dibatalkan.</string>
     <string name="item_delete_confirm_title">Hapus Item</string>
     <string name="enable_reactive_homepage">Aktifkan beranda reaktif</string>
     <string name="lbl_album_artists">Album Artis</string>
-    <string name="pref_screensaver_inapp_enabled_description">Tampilkan screensaver Jellyfin ketika aplikasi dibuka</string>
+    <string name="pref_screensaver_inapp_enabled_description">Tampilkan screensaver Home Cartoon ketika aplikasi dibuka</string>
     <string name="not_set">Belum Diatur</string>
     <string name="pref_screensaver_ageratingmax_unlimited">Nonaktifkan maksimum</string>
     <string name="pref_screensaver_ageratingrequired_disabled">Menunjukkan seluruh item</string>
@@ -506,7 +506,7 @@
     <string name="input_password">Sandi</string>
     <string name="pref_refresh_rate_scale_on_tv">Sesuaikan ukuran dengan TV</string>
     <string name="pref_refresh_rate_scale_on_device">Sesuaikan ukuran dengan Perangkat</string>
-    <string name="server_unsupported_notification">Server ini menggunakan Jellyfin versi %1$s yang tidak didukung. Mohon perbarui Jellyfin ke %2$s atau lebih baru untuk melanjutkan penggunaan.</string>
+    <string name="server_unsupported_notification">Server ini menggunakan Home Cartoon versi %1$s yang tidak didukung. Mohon perbarui Home Cartoon ke %2$s atau lebih baru untuk melanjutkan penggunaan.</string>
     <string name="pref_telemetry_category">Laporan kerusakan</string>
     <string name="item_deleted">%1$s telah dihapus</string>
     <string name="pref_screensaver">Screen saver</string>
@@ -516,7 +516,7 @@
     <string name="pref_login_description">Server, akun, masuk otomatis</string>
     <string name="pref_playback_description">video, takarir, live tv, selanjutnya</string>
     <string name="pref_audio">Audio</string>
-    <string name="login_quickconnect_step_1">1. Buka aplikasi Jellyfin dengan perangkat genggam atau peramban web, lalu masuk dengan akun anda</string>
+    <string name="login_quickconnect_step_1">1. Buka aplikasi Home Cartoon dengan perangkat genggam atau peramban web, lalu masuk dengan akun anda</string>
     <string name="login_quickconnect_step_2">2. Buka menu pengguna dan masuk ke dalam halaman Koneksi Cepat</string>
     <string name="action_connect">Hubungkan</string>
     <string name="app_notification_uimode_invalid">Aplikasi ini dioptimasi untuk televisi. Disarankan menggunakan aplikasi mobile untuk perangkat lain.</string>

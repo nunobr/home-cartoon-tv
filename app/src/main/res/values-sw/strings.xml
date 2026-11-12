@@ -328,7 +328,7 @@
     <string name="discovered_servers_empty">Hakuna seva zilizopatikana kwenye mtandao wa ndani.</string>
     <string name="connect_manually_by_address">Ingiza anwani ya seva</string>
     <string name="login_help_title">Unahitaji msaada?</string>
-    <string name="login_help_description">Jellyfin inahitaji seva ili kuunganishwa. Tembelea nyaraka zetu katika docs.jellyfin.org au skani msimbo wa QR ili kuanza kutumia Jellyfin.</string>
+    <string name="login_help_description">Home Cartoon inahitaji seva ili kuunganishwa. Tembelea nyaraka zetu katika docs.jellyfin.org au skani msimbo wa QR ili kuanza kutumia Home Cartoon.</string>
     <string name="pref_watched_indicator">Onyesha viashiria vya vilivyotazamwa</string>
     <string name="lbl_hide_unwatched_count">Wakati kitu kimetazamwa</string>
     <string name="lbl_hide_watched_checkmark">Wakati kuna vipindi vilivyobaki</string>
@@ -341,10 +341,10 @@
     <string name="user_picker_last_user_summary">Tumia akaunti iliyotumika mwisho</string>
     <string name="lbl_switch_user">Badili akaunti</string>
     <string name="pref_theme_muted_purple">Zambarau iliyofifia</string>
-    <string name="no_network_permissions">Jellyfin inahitaji ruhusa za mtandao ili kufanya kazi</string>
+    <string name="no_network_permissions">Home Cartoon inahitaji ruhusa za mtandao ili kufanya kazi</string>
     <string name="press_to_close">Bonyeza ili kufunga</string>
     <string name="saved_servers">Seva zilizohifadhiwa</string>
-    <string name="welcome_title">Karibu kwenye Jellyfin!</string>
+    <string name="welcome_title">Karibu kwenye Home Cartoon!</string>
     <string name="welcome_content">Unganisha kwenye seva yako ili uanze.</string>
     <string name="no_user_warning">Hatukuweza kupata akaunti yoyote!\nOngeza akaunti mpya kwa kubonyeza kitufe cha \"Ongeza akaunti\".</string>
     <string name="who_is_watching">Nani anatazama?</string>
@@ -391,7 +391,7 @@
     <string name="input_password">Nywila</string>
     <string name="login_connect_to">Inajiunganisha na %1$s</string>
     <string name="login_other_options">Chaguzi nyingine:</string>
-    <string name="login_quickconnect_step_1">1. Fungua programu ya Jellyfin kwenye simu yako au kivinjari, kisha ingia kwa kutumia akaunti yako</string>
+    <string name="login_quickconnect_step_1">1. Fungua programu ya Home Cartoon kwenye simu yako au kivinjari, kisha ingia kwa kutumia akaunti yako</string>
     <string name="login_quickconnect_step_2">2. Fungua menyu ya mtumiaji na uende kwenye ukurasa wa Muunganisho wa Haraka</string>
     <string name="login_quickconnect_step_3">3. Ingiza namba ifuatayo:</string>
     <string name="lbl_refresh_switching">Kubadili kasi ya uonyeshaji picha</string>
@@ -400,7 +400,7 @@
     <string name="action_connect">Unganisha</string>
     <string name="live_tv_preferences">Chaguzi za TV Mubashara</string>
     <string name="app_notification_uimode_invalid">Programu hii imeboreshwa kwa ajili ya televisheni. Tunapendekeza utumie programu yetu ya simu kwenye vifaa vingine.</string>
-    <string name="server_unsupported_notification">Seva hii inatumia Jellyfin toleo la %1$s ambalo halitumiki. Tafadhali sasisha kwenda Jellyfin %2$s au toleo jipya zaidi ili kuendelea kutumia programu hii.</string>
+    <string name="server_unsupported_notification">Seva hii inatumia Home Cartoon toleo la %1$s ambalo halitumiki. Tafadhali sasisha kwenda Home Cartoon %2$s au toleo jipya zaidi ili kuendelea kutumia programu hii.</string>
     <string name="pref_telemetry_category">Ripoti za hitilafu</string>
     <string name="lbl_still_watching_default">Vipindi 3 au dakika 90</string>
     <string name="lbl_still_watching_short">Vipindi 2 au dakika 60</string>
@@ -424,7 +424,7 @@
     <string name="advanced_settings">Mahiri</string>
     <string name="select_version">Toleo</string>
     <string name="licenses_link">Leseni</string>
-    <string name="licenses_link_description">Angalia leseni za maktaba zilizotumiwa na programu ya Jellyfin</string>
+    <string name="licenses_link_description">Angalia leseni za maktaba zilizotumiwa na programu ya Home Cartoon</string>
     <string name="license_description">Maelezo</string>
     <string name="license_version">Toleo</string>
     <string name="license_artifact">Hati</string>
@@ -444,7 +444,7 @@
     <string name="home_section_livetv">TV mubashara</string>
     <string name="home_section_none">Hakuna</string>
     <string name="home_section_i">Sehemu ya nyumbani %1$d</string>
-    <string name="searchable_hint">Tafuta kwenye Jellyfin</string>
+    <string name="searchable_hint">Tafuta kwenye Home Cartoon</string>
     <string name="searchable_settings_description">Maudhui</string>
     <string name="pref_subtitles_background_title">Washa picha ya mandhari</string>
     <string name="pref_subtitles_background_summary">Onyesha mandharinyuma nyeusi nyuma ya manukuu</string>
@@ -465,10 +465,10 @@
     <string name="pref_crash_report_logs">Jumuisha kumbukumbu</string>
     <string name="pref_crash_report_logs_enabled">Kumbukumbu zitajumuishwa kwenye ripoti za hitilafu</string>
     <string name="pref_crash_report_logs_disabled">Kumbukumbu hazitajumuishwa kwenye ripoti za hitilafu</string>
-    <string name="crash_report_toast">Samahani! Hitilafu imetokea, ripoti ya hitilafu imetumwa kwenye seva yako ya Jellyfin.</string>
-    <string name="server_setup_incomplete">Mipangilio ya seva hii bado haijakamilika. Fungua Jellyfin kwenye kivinjari ili umalize mipangilio kabla ya kuingia.</string>
+    <string name="crash_report_toast">Samahani! Hitilafu imetokea, ripoti ya hitilafu imetumwa kwenye seva yako ya Home Cartoon.</string>
+    <string name="server_setup_incomplete">Mipangilio ya seva hii bado haijakamilika. Fungua Home Cartoon kwenye kivinjari ili umalize mipangilio kabla ya kuingia.</string>
     <string name="episode_name_special">maalum</string>
-    <string name="app_notification_beta">Programu imesasishwa kuwa %1$s.\nAsante kwa kushiriki katika programu ya Jellyfin beta.</string>
+    <string name="app_notification_beta">Programu imesasishwa kuwa %1$s.\nAsante kwa kushiriki katika programu ya Home Cartoon beta.</string>
     <string name="item_deleted">%1$s imefutwa</string>
     <string name="item_deletion_failed">Imeshindikana kufuta %1$s</string>
     <string name="pref_enable_media_management">Wezesha usimamizi wa maudhui</string>
@@ -477,7 +477,7 @@
     <string name="item_delete_confirm_message">Una uhakika unataka kufuta kipengele hiki kwenye seva? Kitendo hiki hakiwezi kubatilishwa.</string>
     <string name="pref_screensaver">Kizima-skrini</string>
     <string name="pref_screensaver_inapp_enabled">Tumia kizima-skrini cha programu</string>
-    <string name="pref_screensaver_inapp_enabled_description">Onyesha kizima-skrini cha Jellyfin wakati programu imefunguliwa</string>
+    <string name="pref_screensaver_inapp_enabled_description">Onyesha kizima-skrini cha Home Cartoon wakati programu imefunguliwa</string>
     <string name="pref_screensaver_inapp_timeout">Anza kizima-skrini baada ya</string>
     <string name="enable_reactive_homepage">Wezesha ukurasa wa nyumbani wenye kuitikia</string>
     <string name="not_set">Haijawekwa</string>
@@ -533,9 +533,9 @@
     <string name="pref_subtitles_background_opacity">Ufifishaji wa kashfa ya maneno ya tafsiri</string>
     <string name="pref_troubleshooting">Utatuzi wa matatizo</string>
     <string name="pref_report_device_profile_title">Toa ripoti ya uwezo wa uchezaji kwa seva</string>
-    <string name="pref_report_device_profile_summary">Pakia nyaraka ya utatuzi wa matatizo kwenye seva ya Jellyfin yenye taarifa za uwezo wa uchezaji</string>
+    <string name="pref_report_device_profile_summary">Pakia nyaraka ya utatuzi wa matatizo kwenye seva ya Home Cartoon yenye taarifa za uwezo wa uchezaji</string>
     <string name="pref_report_device_profile_success">Nyaraka imewasilishwa kama %1$s</string>
-    <string name="pref_report_device_profile_failure">Imeshindwa kuwasilisha nyaraka. Huenda seva yako ya Jellyfin imezuia kumbukumbu za vifaa.</string>
+    <string name="pref_report_device_profile_failure">Imeshindwa kuwasilisha nyaraka. Huenda seva yako ya Home Cartoon imezuia kumbukumbu za vifaa.</string>
     <string name="fast_forward">Kimbiza mbele</string>
     <string name="rewind">Rudisha nyuma</string>
     <string name="preference_enable_pgs">Cheza tafsiri za PGS moja kwa moja</string>
@@ -572,7 +572,7 @@
     <string name="playback_video_player">Kicheza video</string>
     <string name="video_player_internal">Kicheza video asilia</string>
     <string name="video_player_external">Programu mbadala</string>
-    <string name="playback_video_player_external_empty">Huna programu yoyote ya kicheza video kwenye kifaa chako inayoweza kufungua video za Jellyfin.</string>
+    <string name="playback_video_player_external_empty">Huna programu yoyote ya kicheza video kwenye kifaa chako inayoweza kufungua video za Home Cartoon.</string>
     <string name="filters">Vichujio</string>
     <plurals name="seconds">
         <item quantity="one">Sekunde %1$s</item>

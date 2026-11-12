@@ -255,7 +255,7 @@
     <string name="lbl_auto_crop">قص تلقائي</string>
     <string name="lbl_special">خاص</string>
     <string name="lbl_hide_unwatched_count">عندما يتم مشاهدة العنصر</string>
-    <string name="login_help_description">يتطلب Jellyfin خادمًا للاتصال به. قم بزيارة وثائقنا على docs.jellyfin.org أو امسح رمز الاستجابة السريعة للبدء مع Jellyfin.</string>
+    <string name="login_help_description">يتطلب Home Cartoon خادمًا للاتصال به. قم بزيارة وثائقنا على docs.jellyfin.org أو امسح رمز الاستجابة السريعة للبدء مع Home Cartoon.</string>
     <string name="pref_developer_link">خيارات المطور</string>
     <string name="lbl_manage_servers">إدارة الخوادم</string>
     <string name="watch_count_overflow">+99</string>
@@ -274,10 +274,10 @@
     <string name="who_is_watching">مَن يُشاهد؟</string>
     <string name="no_user_warning">لم نتمكن من العثور على أي حسابات!\nأضف حسابًا جديدًا بالضغط على زر \"إضافة حساب\".</string>
     <string name="welcome_content">اتصل بخادمك للبدء.</string>
-    <string name="welcome_title">مرحبًا بك في Jellyfin!</string>
+    <string name="welcome_title">مرحبًا بك في Home Cartoon!</string>
     <string name="saved_servers">الخوادم المحفوظة</string>
     <string name="press_to_close">اضغط للإغلاق</string>
-    <string name="no_network_permissions">يتطلب Jellyfin أذونات الشبكة ليعمل</string>
+    <string name="no_network_permissions">يتطلب Home Cartoon أذونات الشبكة ليعمل</string>
     <string name="lbl_switch_user">تبديل الحساب</string>
     <string name="user_picker_last_user_summary">استخدام آخر حساب نشط</string>
     <string name="user_picker_disable_summary">عرض شاشة تسجيل الدخول دائمًا</string>
@@ -325,7 +325,7 @@
     <string name="license_author">المؤلف</string>
     <string name="license_website">الموقع الإلكتروني</string>
     <string name="license_description">الوصف</string>
-    <string name="licenses_link_description">عرض تراخيص المكتبات التي يستخدمها تطبيق Jellyfin</string>
+    <string name="licenses_link_description">عرض تراخيص المكتبات التي يستخدمها تطبيق Home Cartoon</string>
     <string name="licenses_link">التراخيص</string>
     <string name="player_error">حدث خطأ في المشغل. ستتم إعادة المحاولة…</string>
     <string name="bitrate_kbit">%1$,.0f كيلوبت/ث</string>
@@ -357,7 +357,7 @@
     <string name="pref_subtitles_background_summary">عرض خلفية سوداء خلف الترجمات</string>
     <string name="pref_subtitles_background_title">تمكين الخلفية</string>
     <string name="searchable_settings_description">الوسائط</string>
-    <string name="searchable_hint">البحث في Jellyfin</string>
+    <string name="searchable_hint">البحث في Home Cartoon</string>
     <string name="home_section_i">القسم الرئيسي %1$d</string>
     <string name="home_sections">أقسام الرئيسية</string>
     <string name="home_section_none">لا شيء</string>
@@ -430,19 +430,19 @@
     <string name="action_use_password">استخدام كلمة مرور</string>
     <string name="login_connect_to">الاتصال بـ %1$s</string>
     <string name="login_other_options">خيارات أخرى:</string>
-    <string name="login_quickconnect_step_1">1. افتح تطبيق Jellyfin على هاتفك أو متصفح الويب، وسجل الدخول بحسابك</string>
+    <string name="login_quickconnect_step_1">1. افتح تطبيق Home Cartoon على هاتفك أو متصفح الويب، وسجل الدخول بحسابك</string>
     <string name="login_quickconnect_step_2">2. افتح قائمة المستخدم وانتقل إلى صفحة Quick Connect</string>
     <string name="action_connect">اتصال</string>
     <string name="live_tv_preferences">خيارات التلفاز المباشر</string>
     <string name="app_notification_uimode_invalid">تم تحسين هذا التطبيق لأجهزة التلفاز. نوصي باستخدام تطبيق الأجهزة المحمولة الخاص بنا على الأجهزة الأخرى.</string>
-    <string name="server_unsupported_notification">يستخدم هذا الخادم إصدار Jellyfin %1$s وهو غير مدعوم. يرجى التحديث إلى Jellyfin %2$s أو أحدث لمواصلة استخدام التطبيق.</string>
+    <string name="server_unsupported_notification">يستخدم هذا الخادم إصدار Home Cartoon %1$s وهو غير مدعوم. يرجى التحديث إلى Home Cartoon %2$s أو أحدث لمواصلة استخدام التطبيق.</string>
     <string name="pref_crash_reports">إرسال تقارير العطل إلى الخادم</string>
     <string name="pref_crash_reports_enabled">سيتم إرسال تقارير العطل إلى آخر خادم استخدمته</string>
     <string name="pref_crash_report_logs">تضمين السجلات</string>
     <string name="pref_crash_report_logs_enabled">سيتم تضمين السجلات في تقارير العطل</string>
-    <string name="crash_report_toast">عفوًا! حدث خطأ ما، تم إرسال تقرير بالعطل إلى خادم Jellyfin الخاص بك.</string>
-    <string name="server_setup_incomplete">لم يكتمل إعداد هذا الخادم. افتح Jellyfin في متصفح الويب لإنهاء الإعداد قبل تسجيل الدخول.</string>
-    <string name="app_notification_beta">تم تحديث التطبيق إلى %1$s\nشكرًا لك على المشاركة في برنامج Jellyfin التجريبي.</string>
+    <string name="crash_report_toast">عفوًا! حدث خطأ ما، تم إرسال تقرير بالعطل إلى خادم Home Cartoon الخاص بك.</string>
+    <string name="server_setup_incomplete">لم يكتمل إعداد هذا الخادم. افتح Home Cartoon في متصفح الويب لإنهاء الإعداد قبل تسجيل الدخول.</string>
+    <string name="app_notification_beta">تم تحديث التطبيق إلى %1$s\nشكرًا لك على المشاركة في برنامج Home Cartoon التجريبي.</string>
     <string name="input_password">كلمة المرور</string>
     <string name="input_username">اسم المستخدم</string>
     <string name="episode_name_special">خاص</string>
@@ -454,7 +454,7 @@
     <string name="item_delete_confirm_message">هل أنت متأكد من أنك تريد حذف هذا العنصر من الخادم؟ لا يمكن التراجع عن هذا الإجراء.</string>
     <string name="pref_screensaver">شاشة التوقف</string>
     <string name="pref_screensaver_inapp_enabled">استخدام شاشة توقف التطبيق</string>
-    <string name="pref_screensaver_inapp_enabled_description">عرض شاشة توقف Jellyfin أثناء فتح التطبيق</string>
+    <string name="pref_screensaver_inapp_enabled_description">عرض شاشة توقف Home Cartoon أثناء فتح التطبيق</string>
     <string name="pref_screensaver_inapp_timeout">بدء شاشة التوقف بعد</string>
     <plurals name="seconds">
         <item quantity="zero">%1$s ثوانٍ</item>
@@ -580,9 +580,9 @@
     <string name="pref_subtitles_background_opacity">عتامة خلفية الترجمة</string>
     <string name="pref_troubleshooting">استكشاف الأخطاء وإصلاحها</string>
     <string name="pref_report_device_profile_title">الإبلاغ عن إمكانيات التشغيل للخادم</string>
-    <string name="pref_report_device_profile_summary">قم برفع مستند استكشاف الأخطاء وإصلاحها إلى خادم Jellyfin مع معلومات حول إمكانيات التشغيل</string>
+    <string name="pref_report_device_profile_summary">قم برفع مستند استكشاف الأخطاء وإصلاحها إلى خادم Home Cartoon مع معلومات حول إمكانيات التشغيل</string>
     <string name="pref_report_device_profile_success">تم تقديم المستند باسم %1$s</string>
-    <string name="pref_report_device_profile_failure">فشل في تقديم المستند. قد يمنع خادم Jellyfin الخاص بك سجلات العملاء.</string>
+    <string name="pref_report_device_profile_failure">فشل في تقديم المستند. قد يمنع خادم Home Cartoon الخاص بك سجلات العملاء.</string>
     <string name="fast_forward">تقديم سريع</string>
     <string name="rewind">ترجيع</string>
     <string name="speech_error_no_permission">لا يوجد إذن لاستخدام الميكروفون. يرجى تمكينه في إعدادات النظام.</string>
@@ -652,7 +652,7 @@
     <string name="playback_video_player">مشغل الفيديو</string>
     <string name="video_player_internal">مشغل الفيديو المدمج</string>
     <string name="video_player_external">تطبيق خارجي</string>
-    <string name="playback_video_player_external_empty">ليس لديك أي تطبيقات تشغيل فيديو مثبتة على جهازك يمكنها فتح فيديوهات Jellyfin.</string>
+    <string name="playback_video_player_external_empty">ليس لديك أي تطبيقات تشغيل فيديو مثبتة على جهازك يمكنها فتح فيديوهات Home Cartoon.</string>
     <string name="filters">فلاتر</string>
     <string name="backdrop_behavior_with_blur">خلفية مع ضبابية</string>
     <string name="backdrop_behavior_without_blur">خلفية بدون ضبابية</string>
@@ -739,6 +739,6 @@
     <string name="bitstream_dts">معدل بث نظام Digital Theater</string>
     <string name="bitstream_truehd">معدل بث Dolby TrueHD</string>
     <string name="tv_provider_enabled">الدمج مع صفحة Android TV الرئيسية</string>
-    <string name="tv_provider_enabled_description">إظهار قنوات و توصيات Jellyfin في صفحة Android TV الرئيسية</string>
+    <string name="tv_provider_enabled_description">إظهار قنوات و توصيات Home Cartoon في صفحة Android TV الرئيسية</string>
     <string name="lbl_3d">3D</string>
 </resources>

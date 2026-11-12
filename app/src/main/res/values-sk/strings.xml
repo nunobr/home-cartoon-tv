@@ -297,8 +297,8 @@
     <string name="lbl_remove_users">Týmto odstránite aj všetkých pridružené účty</string>
     <string name="lbl_manage_servers">Spravovať servery</string>
     <string name="lbl_sign_out_content">Vyžaduje prihlásenie pri ďalšom použití</string>
-    <string name="login_help_description">Jellyfin vyžaduje server, ku ktorému sa môže pripojiť. Aby ste zistili, ako začať s Jellyfinom, prezrite si našu dokumentáciu na docs.jellyfin.org alebo nasnímajte QR kód.</string>
-    <string name="no_network_permissions">Jellyfin vyžaduje sieťové povolenia k svojmu korektnému fungovaniu</string>
+    <string name="login_help_description">Home Cartoon vyžaduje server, ku ktorému sa môže pripojiť. Aby ste zistili, ako začať s Jellyfinom, prezrite si našu dokumentáciu na docs.jellyfin.org alebo nasnímajte QR kód.</string>
+    <string name="no_network_permissions">Home Cartoon vyžaduje sieťové povolenia k svojmu korektnému fungovaniu</string>
     <string name="pref_theme_muted_purple">Tlmená fialová</string>
     <string name="lbl_switch_user">Zmeniť účet</string>
     <string name="user_picker_last_user_summary">Použiť posledný aktívny účet</string>
@@ -353,7 +353,7 @@
     <string name="license_artifact">Artefakt</string>
     <string name="license_version">Verzia</string>
     <string name="license_description">Popis</string>
-    <string name="licenses_link_description">Zobrať licenciu knižníc použivaných aplikáciou Jellyfin</string>
+    <string name="licenses_link_description">Zobrať licenciu knižníc použivaných aplikáciou Home Cartoon</string>
     <string name="licenses_link">Licencia</string>
     <string name="select_version">Verzia</string>
     <string name="home_section_i">Sekcia Domov %1$d</string>
@@ -408,7 +408,7 @@
     <string name="pref_refresh_rate_scale_on_tv">Škálovať na TV</string>
     <string name="login_quickconnect_step_2">2. Otvorte používateľské menu a choďte na sekciu rýchleho pripojenia</string>
     <string name="login_quickconnect_step_3">3. Zadajte nasledujúci kód:</string>
-    <string name="login_quickconnect_step_1">1. Otvorte aplikáciu Jellyfin na svojom telefóne alebo webovom prehliadači a prihláste sa pomocou svojho účtu</string>
+    <string name="login_quickconnect_step_1">1. Otvorte aplikáciu Home Cartoon na svojom telefóne alebo webovom prehliadači a prihláste sa pomocou svojho účtu</string>
     <string name="login_other_options">Ostatné možnosti:</string>
     <string name="login_connect_to">Pripájanie sa k %1$s</string>
     <string name="input_password">Heslo</string>
@@ -419,14 +419,14 @@
     <string name="state_disabled">Zakázané</string>
     <string name="lbl_subtitle_delay">Oneskorenie tituliek</string>
     <string name="live_tv_preferences">Nastavenia pre živú TV</string>
-    <string name="server_unsupported_notification">Tento server používa Jellyfin verziu %1$s, ktorá už nie je podporovaná. Prosím, aktualizujte Jellyfin na verziu %2$s alebo novšiu aby ste mohli naďalej používať túto aplikáciu.</string>
+    <string name="server_unsupported_notification">Tento server používa Home Cartoon verziu %1$s, ktorá už nie je podporovaná. Prosím, aktualizujte Home Cartoon na verziu %2$s alebo novšiu aby ste mohli naďalej používať túto aplikáciu.</string>
     <string name="app_notification_uimode_invalid">Táto aplikácia je optimalizovaná pre televízory. Na iných zariadeniach odporúčame používať našu mobilnú aplikáciu.</string>
     <string name="image_size_xlarge">Extra veľké</string>
     <string name="image_size_smallest">Najmenšie</string>
     <string name="image_type_poster">Plagát</string>
     <string name="lbl_additional_parts">Dodatočné časti</string>
-    <string name="server_setup_incomplete">Nastavenie tohto servera nebolo dokončené. Pred prihlásením otvorte Jellyfin vo webovom prehliadači a dokončite nastavenie.</string>
-    <string name="crash_report_toast">Ale nie! Niečo sa pokazilo, hlásenie chýb bolo odoslané na váš Jellyfin server.</string>
+    <string name="server_setup_incomplete">Nastavenie tohto servera nebolo dokončené. Pred prihlásením otvorte Home Cartoon vo webovom prehliadači a dokončite nastavenie.</string>
+    <string name="crash_report_toast">Ale nie! Niečo sa pokazilo, hlásenie chýb bolo odoslané na váš Home Cartoon server.</string>
     <string name="pref_crash_report_logs_enabled">Logy budú zahrnuté v hláseniach chýb</string>
     <string name="pref_crash_report_logs_disabled">Logy nebudú zahrnuté v hláseniach chýb</string>
     <string name="pref_crash_report_logs">Zahrnúť logy</string>
@@ -441,7 +441,7 @@
     <string name="pref_audio_night_mode">Nočný zvukový mód (experimentálny)</string>
     <string name="color_green">Zelená</string>
     <string name="app_notification_beta">Aplikácia bola aktualizovaná na verziu %1$s
-\nĎakujeme za účasť v Jellyfin Beta programe.</string>
+\nĎakujeme za účasť v Home Cartoon Beta programe.</string>
     <string name="color_white">Biela</string>
     <string name="color_black">Čierna</string>
     <string name="color_darkgrey">Tmavošedá</string>
@@ -575,9 +575,9 @@
     <string name="pref_subtitles_background_opacity">Priehladnosť pozadia titulkov</string>
     <string name="pref_troubleshooting">Riešenie problémov</string>
     <string name="pref_report_device_profile_title">Nahlásenie prehrávacích schopností zariadenia na server</string>
-    <string name="pref_report_device_profile_summary">Nahrať dokument riešenia problémov na server Jellyfin s informáciami o prehrávacích schopnostiach zariadenia</string>
+    <string name="pref_report_device_profile_summary">Nahrať dokument riešenia problémov na server Home Cartoon s informáciami o prehrávacích schopnostiach zariadenia</string>
     <string name="pref_report_device_profile_success">Dokument odoslaný ako %1$s</string>
-    <string name="pref_report_device_profile_failure">Nepodarilo sa odoslať dokument. Váš server Jellyfin môže mať zakázené logy klientov.</string>
+    <string name="pref_report_device_profile_failure">Nepodarilo sa odoslať dokument. Váš server Home Cartoon môže mať zakázené logy klientov.</string>
     <string name="indicator_subtitles_hearing_impaired">SDH</string>
     <string name="fast_forward">Pretočiť dopredu</string>
     <string name="rewind">Pretočiť dozadu</string>

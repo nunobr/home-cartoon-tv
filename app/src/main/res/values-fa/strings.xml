@@ -241,7 +241,7 @@
     <string name="pref_subtitles_background_summary">نمایش یک پس زمینه سیاه پشت زیرنویس ها</string>
     <string name="pref_subtitles_background_title">فعالسازی پس زمینه</string>
     <string name="searchable_settings_description">رسانه</string>
-    <string name="searchable_hint">جستوجوی Jellyfin</string>
+    <string name="searchable_hint">جستوجوی Home Cartoon</string>
     <string name="home_section_i">بخش خانگی %1$d</string>
     <string name="home_section_none">هیچ یک</string>
     <string name="home_section_livetv">تلویزیون زنده</string>
@@ -261,7 +261,7 @@
     <string name="license_artifact">مصنوعی</string>
     <string name="license_version">نسخه</string>
     <string name="license_description">شرح</string>
-    <string name="licenses_link_description">مشاهده مجوزهای کتابخانه های مورد استفاده توسط برنامه Jellyfin</string>
+    <string name="licenses_link_description">مشاهده مجوزهای کتابخانه های مورد استفاده توسط برنامه Home Cartoon</string>
     <string name="licenses_link">مجوز ها</string>
     <string name="select_version">نسخه</string>
     <string name="advanced_settings">پیشرفته</string>
@@ -290,10 +290,10 @@
     <string name="add_user">اضافه کردن حساب</string>
     <string name="who_is_watching">چه کسی در حال تماشا می‌باشد؟</string>
     <string name="welcome_content">برای شروع باید به سرور متصل شوید.</string>
-    <string name="welcome_title">به Jellyfin خوش آمدید!</string>
+    <string name="welcome_title">به Home Cartoon خوش آمدید!</string>
     <string name="saved_servers">سرور های ذخیره شده</string>
     <string name="press_to_close">برای بستن فشار دهید</string>
-    <string name="no_network_permissions">Jellyfin برای عملکرد کامل نیازمند دسترسی شبکه است</string>
+    <string name="no_network_permissions">Home Cartoon برای عملکرد کامل نیازمند دسترسی شبکه است</string>
     <string name="pref_theme_muted_purple">بنفش بی صدا</string>
     <string name="lbl_switch_user">تعویض حساب</string>
     <string name="user_picker_last_user_summary">استفاده از آخرین حساب فعال</string>
@@ -305,7 +305,7 @@
     <string name="lbl_use_series_thumbnails">ترجیح تصاویر بندانگشتی سریال ها</string>
     <string name="lbl_hide_unwatched_count">پنهان کردن تعداد تماشا نشده ها</string>
     <string name="pref_watched_indicator">نمایش شاخص های تماشا شده</string>
-    <string name="login_help_description">Jellyfin نیاز به سروری دارد که به آن متصل شود. مستندات ما در docs.jellyfin.org را مطالعه کنید یا کد QR را برای شروع کار با Jellyfin اسکن کنید.</string>
+    <string name="login_help_description">Home Cartoon نیاز به سروری دارد که به آن متصل شود. مستندات ما در docs.jellyfin.org را مطالعه کنید یا کد QR را برای شروع کار با Home Cartoon اسکن کنید.</string>
     <string name="login_help_title">به کمک نیاز دارید؟</string>
     <string name="connect_manually_by_address">آدرس سرور را وارد کنید</string>
     <string name="discovered_servers_empty">هیچ سروری در شبکه داخلی پیدا نشد.</string>
@@ -420,7 +420,7 @@
     <string name="color_yellow">زرد</string>
     <string name="color_pink">صورتی</string>
     <string name="action_login">ورود</string>
-    <string name="server_unsupported_notification">این سرور از Jellyfin نسخه %1$s استفاده می‌کند که پشتیبانی نمی‌شود. لطفا برای ادامه استفاده از نرم‌افزار، Jellyfin را به نسخه %2$s یا بالاتر بروزرسانی کنید.</string>
+    <string name="server_unsupported_notification">این سرور از Home Cartoon نسخه %1$s استفاده می‌کند که پشتیبانی نمی‌شود. لطفا برای ادامه استفاده از نرم‌افزار، Home Cartoon را به نسخه %2$s یا بالاتر بروزرسانی کنید.</string>
     <string name="item_deletion_failed">امکان حذف %1$s وجود ندارد</string>
     <string name="pref_refresh_rate_scale_on_tv">بزرگ‌نمایی در تلویزیون</string>
     <string name="pref_refresh_rate_scale_on_device">بزرگنمایی در دستگاه</string>
@@ -434,15 +434,15 @@
     <string name="item_delete_confirm_title">حذف مورد</string>
     <string name="image_type_poster">پوستر</string>
     <string name="image_size_smallest">کوچک‌ترین</string>
-    <string name="server_setup_incomplete">راه‌اندازی این سرور تمام نشده. Jellyfin را در مرورگر باز کنید و پیش از ورود راه‌اندازی را کامل کنید.</string>
+    <string name="server_setup_incomplete">راه‌اندازی این سرور تمام نشده. Home Cartoon را در مرورگر باز کنید و پیش از ورود راه‌اندازی را کامل کنید.</string>
     <string name="login_connect_to">در حال اتصال به %1$s</string>
     <string name="login_other_options">سایر گزینه‌ها:</string>
-    <string name="login_quickconnect_step_1">۱. نرم‌افزار Jellyfin را درون موبایل یا مرورگر خود باز کنید و وارد اکانت خود شوید</string>
+    <string name="login_quickconnect_step_1">۱. نرم‌افزار Home Cartoon را درون موبایل یا مرورگر خود باز کنید و وارد اکانت خود شوید</string>
     <string name="login_quickconnect_step_2">۲. منوی کاربر را باز کنید و به صفحه اتصال‌سریع بروید</string>
     <string name="login_quickconnect_step_3">۳. کد زیر را وارد کنید:</string>
     <string name="action_connect">اتصال</string>
     <string name="app_notification_beta">نرم‌افزار به نسخه %1$s بروز شد
-\nاز شما بابت مشارکت در برنامه‌بتای Jellyfin متشکریم</string>
+\nاز شما بابت مشارکت در برنامه‌بتای Home Cartoon متشکریم</string>
     <string name="item_deleted">%1$s حذف شد</string>
     <string name="pref_enable_media_management">فعال‌سازی مدیریت رسانه</string>
     <string name="item_delete_confirm_message">آیا شما از بابت اینکه میخواهید این مورد را از سرور حذف کنید اطمینان دارید؟ این عمل غیرقابل بازگشت است.</string>

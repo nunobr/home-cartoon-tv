@@ -274,7 +274,7 @@
 \nLisää uusi tili painamalla \"Lisää tili\".</string>
     <string name="welcome_title">Tervetuloa Jellyfiniin!</string>
     <string name="saved_servers">Tallennetut palvelimet</string>
-    <string name="no_network_permissions">Jellyfin tarvitsee toimiakseen verkon käyttöoikeuden</string>
+    <string name="no_network_permissions">Home Cartoon tarvitsee toimiakseen verkon käyttöoikeuden</string>
     <string name="pref_theme_muted_purple">Vaimea violetti</string>
     <string name="lbl_switch_user">Vaihda tiliä</string>
     <string name="user_picker_last_user_summary">Käytä viimeksi käytettyä tiliä</string>
@@ -368,7 +368,7 @@
     <string name="license_repository">Ohjelmavarasto</string>
     <string name="license_website">Verkkosivusto</string>
     <string name="license_description">Kuvaus</string>
-    <string name="licenses_link_description">Tutki Jellyfin-sovelluksen hyödyntämien kirjastojen lisenssejä</string>
+    <string name="licenses_link_description">Tutki Home Cartoon-sovelluksen hyödyntämien kirjastojen lisenssejä</string>
     <string name="licenses_link">Lisenssit</string>
     <string name="advanced_settings">Lisäasetukset</string>
     <string name="always_authenticate_description">Tämän valitseminen poistaa automaattisen sisäänkirjautumisen käytöstä</string>
@@ -390,7 +390,7 @@
     <string name="user_picker_disable_title">Poista käytöstä</string>
     <string name="lbl_use_series_thumbnails_description">Käytä sarjojen thumbnail-kuvia näytettäesä jaksoja</string>
     <string name="lbl_hide_unwatched_count">Kun nimike on katsottu</string>
-    <string name="login_help_description">Jellyfin tarvitsee palvelimen, johon yhdistää. Lue lisää Jellyfinin käytön aloituksesta osoitteesta docs.jellyfin.org tai lue QR-koodi.</string>
+    <string name="login_help_description">Home Cartoon tarvitsee palvelimen, johon yhdistää. Lue lisää Jellyfinin käytön aloituksesta osoitteesta docs.jellyfin.org tai lue QR-koodi.</string>
     <string name="login_help_title">Tarvitsetko apua\?</string>
     <string name="connect_manually_by_address">Syötä palvelimen osoite</string>
     <string name="discovered_servers_empty">Paikallisesta verkosta ei löytynyt palvelimia.</string>
@@ -405,7 +405,7 @@
     <string name="action_connect">Yhdistä</string>
     <string name="login_quickconnect_step_3">3. Syötä seuraava koodi:</string>
     <string name="login_quickconnect_step_2">2. Avaa käyttäjävalikko ja sieltä Pikayhteys-sivu</string>
-    <string name="login_quickconnect_step_1">1. Avaa Jellyfin-sovellus tai -verkkosivu ja kirjaudu tililläsi</string>
+    <string name="login_quickconnect_step_1">1. Avaa Home Cartoon-sovellus tai -verkkosivu ja kirjaudu tililläsi</string>
     <string name="login_other_options">Muut vaihtoehdot:</string>
     <string name="login_connect_to">Yhdistetään palvelimeen %1$s</string>
     <string name="input_password">Salasana</string>
@@ -424,7 +424,7 @@
     <string name="image_size_smallest">Pienin</string>
     <string name="image_type_poster">Juliste</string>
     <string name="lbl_additional_parts">Muut osat</string>
-    <string name="crash_report_toast">Ups! Jotain meni pieleen, ja Jellyfin-palvelimellesi lähetettiin kaatumisilmoitus.</string>
+    <string name="crash_report_toast">Ups! Jotain meni pieleen, ja Home Cartoon-palvelimellesi lähetettiin kaatumisilmoitus.</string>
     <string name="pref_crash_report_logs_disabled">Lokitietoja ei sisällytetä kaatumisilmoituksiin</string>
     <string name="pref_crash_report_logs_enabled">Lokitiedot sisällytetään kaatumisilmoituksiin</string>
     <string name="pref_crash_report_logs">Sisällytä lokitiedot</string>
@@ -433,8 +433,8 @@
     <string name="pref_crash_reports">Lähetä palvelimelle kaatumisilmoituksia</string>
     <string name="pref_telemetry_category">Kaatumisilmoitukset</string>
     <string name="pref_telemetry_description">Lähetä kaatumisilmoituksia ja sisällytä lokitiedot</string>
-    <string name="server_unsupported_notification">Palvelin käyttää Jellyfin versiota %1$s jota ei tueta. Jatka käyttöä päivittämällä Jellyfin vähintään versioon %2$s.</string>
-    <string name="server_setup_incomplete">Tämän palvelimen määritys on kesken. Ennen kirjautumista, avaa Jellyfin verkkoselaimessa ja viimeistele määritys.</string>
+    <string name="server_unsupported_notification">Palvelin käyttää Home Cartoon versiota %1$s jota ei tueta. Jatka käyttöä päivittämällä Home Cartoon vähintään versioon %2$s.</string>
+    <string name="server_setup_incomplete">Tämän palvelimen määritys on kesken. Ennen kirjautumista, avaa Home Cartoon verkkoselaimessa ja viimeistele määritys.</string>
     <string name="episode_name_special">erikoisjakso</string>
     <string name="lbl_quality_profile">Laatuprofiili</string>
     <string name="desc_audio_night_mode">Tasoittaa äänenvoimakkuuden eroja automaattisesti</string>
@@ -566,14 +566,14 @@
     <string name="pref_subtitles_background_opacity">Tekstityksen taustan läpinäkyvyys</string>
     <string name="fast_forward">Pikakelaa</string>
     <string name="pref_still_watching_behavior_title">Näytä käyttämättömyyden varoitusikkuna</string>
-    <string name="pref_report_device_profile_summary">Lataa vianmääritysdokumentti Jellyfin-palvelimelle videon toistokykytietojen kanssa</string>
+    <string name="pref_report_device_profile_summary">Lataa vianmääritysdokumentti Home Cartoon-palvelimelle videon toistokykytietojen kanssa</string>
     <string name="pref_subtitles_bold">Lihavoitu teksti</string>
     <string name="lbl_from_beginning">Aloita toisto alusta</string>
     <string name="speech_error_no_permission">Ei käyttöoikeuksia mikrofonin käyttöön. Ota mikrofoni käyttöön järjestelmän asetuksista.</string>
     <string name="indicator_subtitles_hearing_impaired">SDH</string>
     <string name="pref_subtitles_position">Etäisyys alareunasta</string>
     <string name="pref_report_device_profile_success">Dokumentti lähetetty nimellä %1$s</string>
-    <string name="pref_report_device_profile_failure">Dokumentin lähetys epäonnistui. Jellyfin-palvelimesi voi estää käyttäjiltä lokit.</string>
+    <string name="pref_report_device_profile_failure">Dokumentin lähetys epäonnistui. Home Cartoon-palvelimesi voi estää käyttäjiltä lokit.</string>
     <string name="rewind">Kelaa taaksepäin</string>
     <string name="preference_enable_pgs">Toista suoraan PGS-tekstitykset</string>
     <string name="speech_error_unknown">Odottamaton virhe tapahtui puheentunnistuksessa.</string>
@@ -610,7 +610,7 @@
     <string name="playback_video_player">Videosoitin</string>
     <string name="video_player_internal">Sisäänrakennettu videosoitin</string>
     <string name="video_player_external">Ulkoinen äppi</string>
-    <string name="playback_video_player_external_empty">Yhtäkään videosoitinta ei ole asennettuna, joka osaa toistaa Jellyfin videoita.</string>
+    <string name="playback_video_player_external_empty">Yhtäkään videosoitinta ei ole asennettuna, joka osaa toistaa Home Cartoon videoita.</string>
     <string name="filters">Suodattimet</string>
     <string name="pref_prerolls_enabled">Käytä teatteritilaa</string>
     <string name="pref_playback_media_segments">Mediaosiot</string>

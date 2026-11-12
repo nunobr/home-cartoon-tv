@@ -274,7 +274,7 @@
     <string name="pref_subtitles_background_summary">Προβολή μαύρου φόντου πίσω από τους υπότιτλους</string>
     <string name="pref_subtitles_background_title">Ενεργοποίηση φόντου</string>
     <string name="searchable_settings_description">Πολυμέσα</string>
-    <string name="searchable_hint">Αναζήτηση στο Jellyfin</string>
+    <string name="searchable_hint">Αναζήτηση στο Home Cartoon</string>
     <string name="home_section_i">Ενότητα αρχικής σελίδας %1$d</string>
     <string name="home_section_none">Κανένα</string>
     <string name="home_section_livetv">Ζωντανή Τηλεόραση</string>
@@ -294,7 +294,7 @@
     <string name="license_artifact">Ατέλεια εικόνας</string>
     <string name="license_version">Έκδοση</string>
     <string name="license_description">Περιγραφή</string>
-    <string name="licenses_link_description">Προβολή των αδειών των βιβλιοθηκών που χρησιμοποιήθηκαν στην εφαρμογή του Jellyfin</string>
+    <string name="licenses_link_description">Προβολή των αδειών των βιβλιοθηκών που χρησιμοποιήθηκαν στην εφαρμογή του Home Cartoon</string>
     <string name="licenses_link">Άδειες</string>
     <string name="select_version">Έκδοση</string>
     <string name="advanced_settings">Προχωρημένα</string>
@@ -321,10 +321,10 @@
     <string name="no_user_warning">Δεν μπορέσαμε να βρούμε κανένα χρήστη!
 \nΠροσθέστε ένα νέο χρήστη πατώντας το κουμπί \"Προσθήκη χρήστη\".</string>
     <string name="welcome_content">Συνδεθείτε στο διακομιστή σας για να ξεκινήσετε.</string>
-    <string name="welcome_title">Καλωσορίσατε στο Jellyfin!</string>
+    <string name="welcome_title">Καλωσορίσατε στο Home Cartoon!</string>
     <string name="saved_servers">Αποθηκευμένοι διακομιστές</string>
     <string name="press_to_close">Πιέστε για να κλείσετε</string>
-    <string name="no_network_permissions">Το Jellyfin απαιτεί δικαιώματα δικτύου για να λειτουργήσει</string>
+    <string name="no_network_permissions">Το Home Cartoon απαιτεί δικαιώματα δικτύου για να λειτουργήσει</string>
     <string name="lbl_switch_user">Αλλαγή χρήστη</string>
     <string name="user_picker_last_user_summary">Χρήση του τελευταίου ενεργού χρήστη</string>
     <string name="user_picker_last_user_title">Πιο πρόσφατα χρησιμοποιημένα</string>
@@ -334,7 +334,7 @@
     <string name="lbl_use_series_thumbnails_description">Χρήση μικρογραφιών σειρών κατά την απεικόνιση των επεισοδίων</string>
     <string name="lbl_use_series_thumbnails">Προτίμηση μικρογραφιών σειρών</string>
     <string name="pref_watched_indicator">Εμφάνιση δεικτών \"Έχουν παρακολουθηθεί\"</string>
-    <string name="login_help_description">Το Jellyfin χρειάζεται έναν διακομιστή για να συνδεθεί με αυτόν. Επισκεφτείτε την τεκμηρίωσή μας στο docs.jellyfin.org ή σκανάρετε τον κωδικό QR για να ξεκινήσετε με το Jellyfin.</string>
+    <string name="login_help_description">Το Home Cartoon χρειάζεται έναν διακομιστή για να συνδεθεί με αυτόν. Επισκεφτείτε την τεκμηρίωσή μας στο docs.jellyfin.org ή σκανάρετε τον κωδικό QR για να ξεκινήσετε με το Home Cartoon.</string>
     <string name="login_help_title">Χρειάζεστε βοήθεια\?</string>
     <string name="connect_manually_by_address">Εισάγετε τη διεύθυνση του διακομιστή</string>
     <string name="discovered_servers_empty">Δε βρέθηκαν διακομιστές στο τοπικό δίκτυο.</string>
@@ -387,7 +387,7 @@
     <string name="live_tv_preferences">Επιλογές Ζωντανής Τηλεόρασης</string>
     <string name="login_quickconnect_step_3">3. Εισάγετε τον ακόλουθο κωδικό:</string>
     <string name="login_quickconnect_step_2">2. Ανοίξτε το μενού χρήστη και πηγαίνετε στη σελίδα του Quick Connect</string>
-    <string name="login_quickconnect_step_1">1. Ανοίξτε την εφαρμογή του Jellyfin στον τηλέφωνό σας ή στον φυλλομετρητή σας και συνδεθείτε με το λογαριασμό σας</string>
+    <string name="login_quickconnect_step_1">1. Ανοίξτε την εφαρμογή του Home Cartoon στον τηλέφωνό σας ή στον φυλλομετρητή σας και συνδεθείτε με το λογαριασμό σας</string>
     <string name="login_other_options">Άλλες επιλογές:</string>
     <string name="login_connect_to">Γίνεται σύνδεση σε %1$s</string>
     <string name="action_use_quickconnect">Χρήση Quick Connect</string>
@@ -408,7 +408,7 @@
     <string name="lbl_quality_profile">Προφίλ ποιότητας</string>
     <string name="pref_theme_muted_purple">Μουντό μωβ</string>
     <string name="pref_video">Βίντεο</string>
-    <string name="server_unsupported_notification">Αυτός ο διακομιστής χρησιμοποιεί την έκδοση Jellyfin %1$s, η οποία δεν υποστηρίζεται. Παρακαλούμε ενημερώστε σε Jellyfin %2$s ή νεότερη για να συνεχίσετε να χρησιμοποιείτε την εφαρμογή.</string>
+    <string name="server_unsupported_notification">Αυτός ο διακομιστής χρησιμοποιεί την έκδοση Home Cartoon %1$s, η οποία δεν υποστηρίζεται. Παρακαλούμε ενημερώστε σε Home Cartoon %2$s ή νεότερη για να συνεχίσετε να χρησιμοποιείτε την εφαρμογή.</string>
     <string name="pref_customization">Προσαρμογή</string>
     <string name="pref_accounts">Λογαριασμοί Χρηστών</string>
     <string name="pref_behavior">Συμπεριφορά</string>
@@ -420,8 +420,8 @@
     <string name="action_login">Σύνδεση</string>
     <string name="action_use_password">Χρησιμοποιήστε ένα password</string>
     <string name="episode_name_special">έκτακτο</string>
-    <string name="server_setup_incomplete">Η παραμετροποίηση του διακομιστή δεν έχει ολοκληρωθεί. Ανοίξτε το Jellyfin σε έναν φυλλομετρητή για να ολοκληρώσετε την παραμετροποίηση πριν τη σύνδεσή σας.</string>
-    <string name="crash_report_toast">Ωπα! Κάτι πήγε στραβά. Μία αναφορά σφάλματος απεστάλει στον διακομστή του Jellyfin σας.</string>
+    <string name="server_setup_incomplete">Η παραμετροποίηση του διακομιστή δεν έχει ολοκληρωθεί. Ανοίξτε το Home Cartoon σε έναν φυλλομετρητή για να ολοκληρώσετε την παραμετροποίηση πριν τη σύνδεσή σας.</string>
+    <string name="crash_report_toast">Ωπα! Κάτι πήγε στραβά. Μία αναφορά σφάλματος απεστάλει στον διακομστή του Home Cartoon σας.</string>
     <string name="pref_crash_report_logs_disabled">Τα αρχεία καταγραφήςδεν θα συμπεριληφθούν στις αναφορές σφαλμάτων</string>
     <string name="pref_audio">Ήχος</string>
     <string name="sort_accounts_by">Ταξινόμηση χρηστών κατά</string>
@@ -448,14 +448,14 @@
     <string name="lbl_user_last_used">Χρησιμοποιήθηκε τελευταία την %1$s στις %2$s</string>
     <string name="lbl_begin_padding">Περιθώριο έναρξης</string>
     <string name="app_notification_beta">Η εφαρμογή ενημερώθηκε στη(ν) %1$s
-\nΣας ευχαριστούμε για τη συμμετοχή σας στο πρόγραμμα Jellyfin beta.</string>
+\nΣας ευχαριστούμε για τη συμμετοχή σας στο πρόγραμμα Home Cartoon beta.</string>
     <string name="lbl_end_padding">Περιθώριο τέλους</string>
     <plurals name="minutes">
         <item quantity="one">%1$s λεπτό</item>
         <item quantity="other">%1$s λεπτά</item>
     </plurals>
     <string name="lbl_album_artists">Καλλιτέχνες άλμπουμ</string>
-    <string name="pref_screensaver_inapp_enabled_description">Προβολή της προφύλαξης οθόνης του Jellyfin όσο η εφαρμογή είναι ανοιχτή</string>
+    <string name="pref_screensaver_inapp_enabled_description">Προβολή της προφύλαξης οθόνης του Home Cartoon όσο η εφαρμογή είναι ανοιχτή</string>
     <plurals name="hours">
         <item quantity="one">%1$s ώρα</item>
         <item quantity="other">%1$s ώρες</item>
@@ -542,7 +542,7 @@
     <string name="pref_customization_subtitles">Υπότιτλοι</string>
     <string name="pref_playback_media_segments">Τμήματα πολυμέσων</string>
     <string name="pref_playback_next_up">Επόμενο</string>
-    <string name="playback_video_player_external_empty">Δεν έχετε εγκατεστημένες εφαρμογές αναπαραγωγής βίντεο στη συσκευή σας που να μπορούν να ανοίξουν βίντεο Jellyfin.</string>
+    <string name="playback_video_player_external_empty">Δεν έχετε εγκατεστημένες εφαρμογές αναπαραγωγής βίντεο στη συσκευή σας που να μπορούν να ανοίξουν βίντεο Home Cartoon.</string>
     <string name="video_player_external">Εξωτερική εφαρμογή</string>
     <string name="font_weight_300">Σχετικά λεπτό</string>
     <string name="font_weight_400">Κανονικό</string>
@@ -586,9 +586,9 @@
     <string name="pref_subtitles_background_opacity">Αδιαφάνεια υποβάθρου υπότιτλων</string>
     <string name="pref_troubleshooting">Επίλυση προβλημάτων</string>
     <string name="pref_report_device_profile_title">Αναφορά δυνατοτήτων αναπαραγωγής στον εξυπηρετητή</string>
-    <string name="pref_report_device_profile_summary">Μεταφορτώστε ένα έγγραφο αντιμετώπισης προβλημάτων στον διακομιστή Jellyfin με πληροφορίες σχετικά με τις δυνατότητες αναπαραγωγής</string>
+    <string name="pref_report_device_profile_summary">Μεταφορτώστε ένα έγγραφο αντιμετώπισης προβλημάτων στον διακομιστή Home Cartoon με πληροφορίες σχετικά με τις δυνατότητες αναπαραγωγής</string>
     <string name="pref_report_device_profile_success">Το έγγραφο υποβλήθηκε ως %1$s</string>
-    <string name="pref_report_device_profile_failure">Αποτυχία υποβολής εγγράφου. Ο διακομιστής Jellyfin σας ενδέχεται να απαγορεύει τα αρχεία καταγραφής πελάτη.</string>
+    <string name="pref_report_device_profile_failure">Αποτυχία υποβολής εγγράφου. Ο διακομιστής Home Cartoon σας ενδέχεται να απαγορεύει τα αρχεία καταγραφής πελάτη.</string>
     <string name="fast_forward">Γρήγορη αναπαραγωγή</string>
     <string name="rewind">Επανακύλιση</string>
     <string name="preference_enable_pgs">Άμεση αναπαραγωγή υποτίτλων PGS</string>

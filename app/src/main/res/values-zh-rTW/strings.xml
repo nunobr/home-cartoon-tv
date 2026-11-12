@@ -241,7 +241,7 @@
     <string name="lbl_use_series_thumbnails">偏好系列預覽圖</string>
     <string name="lbl_hide_unwatched_count">影片已觀看</string>
     <string name="pref_watched_indicator">顯示已觀看指示</string>
-    <string name="login_help_description">Jellyfin 需要可以連接上的伺服器。前往 docs.jellyfin.org 閱讀文件或掃描此QR code以了解如何使用 Jellyfin。</string>
+    <string name="login_help_description">Home Cartoon 需要可以連接上的伺服器。前往 docs.jellyfin.org 閱讀文件或掃描此QR code以了解如何使用 Home Cartoon。</string>
     <string name="login_help_title">需要幫助嗎？</string>
     <string name="connect_manually_by_address">輸入伺服器地址</string>
     <string name="discovered_servers_empty">在區域網路中找不到伺服器。</string>
@@ -332,7 +332,7 @@
     <string name="pref_subtitles_background_summary">在字幕後面顯示黑色背景</string>
     <string name="pref_subtitles_background_title">啟用背景</string>
     <string name="searchable_settings_description">媒體</string>
-    <string name="searchable_hint">搜尋 Jellyfin</string>
+    <string name="searchable_hint">搜尋 Home Cartoon</string>
     <string name="home_section_i">首頁部分 %1$d</string>
     <string name="home_section_none">無</string>
     <string name="home_section_livetv">TV 直播</string>
@@ -443,7 +443,7 @@
     <string name="lbl_album_artists">專輯藝術家</string>
     <string name="enable_reactive_homepage">啟用反應式(reactive) 主頁</string>
     <string name="lbl_quality_profile">質量概况</string>
-    <string name="server_unsupported_notification">此伺服器使用 Jellyfin %1$s 版本不被支援。請更新到 Jellyfin %2$s 或更新版本以繼續使用程式。</string>
+    <string name="server_unsupported_notification">此伺服器使用 Home Cartoon %1$s 版本不被支援。請更新到 Home Cartoon %2$s 或更新版本以繼續使用程式。</string>
     <string name="pref_audio_night_mode">音訊夜間模式（實驗性）</string>
     <string name="not_set">未設置</string>
     <plurals name="minutes">
@@ -451,7 +451,7 @@
     </plurals>
     <string name="image_type_poster">海報</string>
     <string name="app_notification_beta">程式已更新至 %1$s
-\n感謝您參與 Jellyfin 測試計劃。</string>
+\n感謝您參與 Home Cartoon 測試計劃。</string>
     <string name="desc_audio_night_mode">自動平衡音量水平</string>
     <string name="login_connect_to">正在連接伺服器 %1$s</string>
     <string name="login_other_options">其他選項：</string>
@@ -462,7 +462,7 @@
     <string name="episode_name_special">別名</string>
     <string name="pref_screensaver">螢幕保護程式</string>
     <string name="pref_screensaver_inapp_enabled">使用內建螢幕保護程式</string>
-    <string name="pref_screensaver_inapp_enabled_description">程式開啟時顯示 Jellyfin 螢幕保護</string>
+    <string name="pref_screensaver_inapp_enabled_description">程式開啟時顯示 Home Cartoon 螢幕保護</string>
     <string name="pref_screensaver_inapp_timeout">在多久後開始螢幕保護</string>
     <plurals name="tracks">
         <item quantity="other">%1$s 曲目</item>
@@ -473,8 +473,8 @@
     <string name="lbl_additional_parts">附加組件</string>
     <string name="live_tv_preferences">直播電視選項</string>
     <string name="lbl_latest_in">最近新增於 %1$s</string>
-    <string name="crash_report_toast">哎呀！出了點問題，崩潰報告已發送到您的 Jellyfin 伺服器。</string>
-    <string name="server_setup_incomplete">此伺服器的設定尚未完成。請在瀏覽器中打開 Jellyfin 以完成設定，然後再登錄。</string>
+    <string name="crash_report_toast">哎呀！出了點問題，崩潰報告已發送到您的 Home Cartoon 伺服器。</string>
+    <string name="server_setup_incomplete">此伺服器的設定尚未完成。請在瀏覽器中打開 Home Cartoon 以完成設定，然後再登錄。</string>
     <string name="item_deleted">%1$s 已刪除</string>
     <string name="item_deletion_failed">無法刪除 %1$s</string>
     <string name="pref_enable_media_management">啟用媒體文件管理</string>
@@ -550,7 +550,7 @@
     <plurals name="tv_series">
         <item quantity="other">%1$s 部電視劇</item>
     </plurals>
-    <string name="pref_report_device_profile_failure">無法上傳檔案。你的 Jellyfin 伺服器可能不允許用戶端紀錄檔。</string>
+    <string name="pref_report_device_profile_failure">無法上傳檔案。你的 Home Cartoon 伺服器可能不允許用戶端紀錄檔。</string>
     <string name="pref_subtitles_background_opacity">字幕背景不透明度</string>
     <string name="pref_troubleshooting">疑難排解</string>
     <string name="pref_report_device_profile_title">向伺服器回報播放能力</string>

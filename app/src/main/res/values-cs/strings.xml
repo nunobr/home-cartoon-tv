@@ -273,7 +273,7 @@
     <string name="server_field_empty">Adresa nesmí být prázdná</string>
     <string name="server_connection_failed">Nelze se připojit k serveru</string>
     <string name="server_connecting">Připojování k %1$s</string>
-    <string name="login_help_description">Jellyfin vyžaduje server, ke kterému se připojí. Navštivte naši dokumentaci na docs.jellyfin.org nebo naskenujte QR kód, abyste zjistili, jak začít s Jellyfinem pracovat.</string>
+    <string name="login_help_description">Home Cartoon vyžaduje server, ke kterému se připojí. Navštivte naši dokumentaci na docs.jellyfin.org nebo naskenujte QR kód, abyste zjistili, jak začít s Jellyfinem pracovat.</string>
     <string name="login_help_title">Potřebujete pomoc\?</string>
     <string name="connect_manually_by_address">Zadejte adresu serveru</string>
     <string name="discovered_servers_empty">V místní síti nebyly nalezeny žádné servery.</string>
@@ -308,7 +308,7 @@
     <string name="user_picker_disable_title">Zakázat</string>
     <string name="auto_sign_in">Automatické přihlášení</string>
     <string name="lbl_switch_user">Přepnout účet</string>
-    <string name="no_network_permissions">Jellyfin ke svému fungování vyžaduje síťová oprávnění</string>
+    <string name="no_network_permissions">Home Cartoon ke svému fungování vyžaduje síťová oprávnění</string>
     <string name="pref_theme_muted_purple">Tlumená fialová</string>
     <string name="press_to_close">Stisknutím zavřete</string>
     <string name="lbl_time_range">%1$s–%2$s</string>
@@ -333,7 +333,7 @@
     <string name="no_user_warning">Nebyly nalezeny žádné účty!
 \nNový účet přidejte stisknutím tlačítka „Přidat účet“.</string>
     <string name="welcome_content">Začněte připojením ke svému serveru.</string>
-    <string name="welcome_title">Vítejte v Jellyfin!</string>
+    <string name="welcome_title">Vítejte v Home Cartoon!</string>
     <string name="saved_servers">Uložené servery</string>
     <string name="pref_next_up_behavior_title">Zobrazit informace o dalším videu</string>
     <string name="enable_playback_module_description">Toto je experimentální funkce. Není poskytována žádná podpora.</string>
@@ -354,7 +354,7 @@
     <string name="license_artifact">Artefakt</string>
     <string name="license_version">Verze</string>
     <string name="license_description">Popis</string>
-    <string name="licenses_link_description">Zobrazit licence knihoven používaných aplikací Jellyfin</string>
+    <string name="licenses_link_description">Zobrazit licence knihoven používaných aplikací Home Cartoon</string>
     <string name="licenses_link">Licence</string>
     <string name="home_section_i">Sekce Domů %1$d</string>
     <string name="home_section_none">Nic</string>
@@ -369,7 +369,7 @@
     <string name="home_sections">Sekce Domů</string>
     <string name="home_prefs">Domů</string>
     <string name="searchable_settings_description">Média</string>
-    <string name="searchable_hint">Hledat v Jellyfin</string>
+    <string name="searchable_hint">Hledat v Home Cartoon</string>
     <string name="pref_subtitles_size">Velikost textu</string>
     <string name="pref_subtitles_background_summary">Zobrazit černé pozadí pod titulky</string>
     <string name="pref_subtitles_background_title">Povolit pozadí</string>
@@ -422,14 +422,14 @@
     <string name="image_size_xlarge">Extra velký</string>
     <string name="image_size_smallest">Nejmenší</string>
     <string name="lbl_subtitle_delay">Zpoždění titulků</string>
-    <string name="server_setup_incomplete">Nastavení tohoto serveru nebylo dokončeno. Před přihlášením otevřete Jellyfin ve webovém prohlížeči a dokončete nastavení.</string>
-    <string name="crash_report_toast">Jejda! Něco se pokazilo, na váš server Jellyfin bylo odesláno hlášení o pádu.</string>
-    <string name="server_unsupported_notification">Tento server používá verzi Jellyfin %1$s, která není podporována. Abyste mohli aplikaci dále používat, aktualizujte na verzi Jellyfin %2$s nebo novější.</string>
+    <string name="server_setup_incomplete">Nastavení tohoto serveru nebylo dokončeno. Před přihlášením otevřete Home Cartoon ve webovém prohlížeči a dokončete nastavení.</string>
+    <string name="crash_report_toast">Jejda! Něco se pokazilo, na váš server Home Cartoon bylo odesláno hlášení o pádu.</string>
+    <string name="server_unsupported_notification">Tento server používá verzi Home Cartoon %1$s, která není podporována. Abyste mohli aplikaci dále používat, aktualizujte na verzi Home Cartoon %2$s nebo novější.</string>
     <string name="app_notification_uimode_invalid">Tato aplikace je optimalizovaná pro televizory. Na jiných zařízeních doporučujeme používat naši mobilní aplikaci.</string>
     <string name="live_tv_preferences">Možnosti živého vysílání</string>
     <string name="login_quickconnect_step_3">3. Zadejte následující kód:</string>
     <string name="login_quickconnect_step_2">2. Otevřete uživatelskou nabídku a přejděte na stránku s Rychlým připojením</string>
-    <string name="login_quickconnect_step_1">1. Otevřete aplikaci Jellyfin ve svém telefonu nebo webovém prohlížeči a přihlaste se svým účtem</string>
+    <string name="login_quickconnect_step_1">1. Otevřete aplikaci Home Cartoon ve svém telefonu nebo webovém prohlížeči a přihlaste se svým účtem</string>
     <string name="image_type_poster">Plakát</string>
     <string name="lbl_additional_parts">Další části</string>
     <string name="state_disabled">Zakázáno</string>
@@ -441,7 +441,7 @@
     <string name="lbl_quality_profile">Profil kvality</string>
     <string name="color_cyan">Azurová</string>
     <string name="app_notification_beta">Aplikace aktualizována na verzi %1$s
-\nDěkujeme vám za účast v beta programu Jellyfin.</string>
+\nDěkujeme vám za účast v beta programu Home Cartoon.</string>
     <string name="color_white">Bílá</string>
     <string name="color_black">Černá</string>
     <string name="color_darkgrey">Tmavě šedá</string>
@@ -577,7 +577,7 @@
     <string name="pref_report_device_profile_title">Hlásit možnosti přehrávání na server</string>
     <string name="pref_subtitles_background_opacity">Průhlednost pozadí titulků</string>
     <string name="pref_report_device_profile_summary">Nahrát dokument s řešením chyb na server Jellyfinu s informacemi o možnostech přehrávání</string>
-    <string name="pref_report_device_profile_failure">Nepodařilo se odeslat dokument. Váš server Jellyfin může mít zakázané protokoly klienta.</string>
+    <string name="pref_report_device_profile_failure">Nepodařilo se odeslat dokument. Váš server Home Cartoon může mít zakázané protokoly klienta.</string>
     <string name="indicator_subtitles_hearing_impaired">SDH</string>
     <string name="fast_forward">Rychlý posun vpřed</string>
     <string name="rewind">Rychlý posun zpět</string>
@@ -624,7 +624,7 @@
     <string name="playback_video_player">Videopřehrávač</string>
     <string name="video_player_internal">Vestavěný videopřehrávač</string>
     <string name="video_player_external">Externí aplikace</string>
-    <string name="playback_video_player_external_empty">Na vašem zařízení nemáte nainstalované žádné videopřehrávače, které dokáží otevřít videa Jellyfin.</string>
+    <string name="playback_video_player_external_empty">Na vašem zařízení nemáte nainstalované žádné videopřehrávače, které dokáží otevřít videa Home Cartoon.</string>
     <string name="filters">Filtry</string>
     <string name="backdrop_behavior_with_blur">Pozadí s rozostřením</string>
     <string name="backdrop_behavior_without_blur">Pozadí bez rozostření</string>
@@ -709,6 +709,6 @@
         <item quantity="other">%1$s dní</item>
     </plurals>
     <string name="tv_provider_enabled">Integrace s úvodní obrazovkou Android TV</string>
-    <string name="tv_provider_enabled_description">Zobrazit kanály a doporučení Jellyfin na úvodní obrazovce Android TV</string>
+    <string name="tv_provider_enabled_description">Zobrazit kanály a doporučení Home Cartoon na úvodní obrazovce Android TV</string>
     <string name="lbl_3d">3D</string>
 </resources>
