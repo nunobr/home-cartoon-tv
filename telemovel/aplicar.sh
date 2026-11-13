@@ -15,7 +15,7 @@ sed -i 's#<string name="app_name_short" translatable="false">Jellyfin</string>#<
 grep -q '>Home Cartoon</string>' "$RES/values/strings_donottranslate.xml"
 
 # Cor de fundo do ícone
-sed -i 's#<color name="ic_launcher_background">[^<]*</color>#<color name="ic_launcher_background">\#1B2A49</color>#' "$RES/values/colors.xml"
+sed -i 's#<color name="ic_launcher_background">[^<]*</color>#<color name="ic_launcher_background">\#FFFFFF</color>#' "$RES/values/colors.xml"
 
 # Identificador próprio (instala-se ao lado do Jellyfin) e nome do ficheiro
 sed -i 's#^\(\s*\)minSdk = #\1applicationId = "pt.homecartoon.mobile"\n\1minSdk = #' "$UP/app/build.gradle.kts"
